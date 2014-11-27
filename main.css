@@ -1,0 +1,339 @@
+/*----------------------------------------------------------------------------
+	main.css
+
+	this css-file contains all definitions, that are independend from the
+	colorschemes.
+
+	(c) Schlund + Partner AG
+
+	This CSS-File uses the original "Tanteks Box Modell Hack"
+	http://www.tantek.com/CSS/Examples/boxmodelhack.html
+
+	NOTE:
+	Older W3C CSS validators return errors when the voice-family property
+	is used in a 'screen' style sheet. This is an error in the W3C CSS
+	validator itself. The validator should report a warning, not an error,
+	when properties which are unsupported by a particular medium are used,
+	and this has been reported to the W3C:
+
+ ----------------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------------
+ styles for specific classes and ids
+----------------------------------------------------------------------------*/
+
+body#main_body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/*-- global container ------------------------------------------------------*/
+
+#container {
+    position: relative;
+    padding: 0;
+    margin: 0 auto;
+    text-align: left;
+    width: 882px;
+}
+
+#header {
+    padding: 0;
+    margin: 0;
+    width: 882px;
+    height: 165px;
+}
+
+#main_container {
+    padding: 0px;
+    margin: 0px;
+}
+
+#layout_table {
+    border-collapse: collapse;
+    padding: 0;
+    margin: 0;
+}
+
+#sub_nav_column {
+    vertical-align: top;
+    padding: 0;
+    margin: 0;
+}
+
+#content_column {
+    vertical-align: top;
+    padding: 0;
+    margin: 0;
+}
+
+#left_column_container {
+    margin: 0;
+    padding: 0;
+}
+
+#sub_container1 {
+    margin: 0;
+    padding: 0;
+}
+
+#sub_container2 {
+    margin: 0;
+    padding: 0;
+}
+
+#content_container {
+    overflow: hidden;
+    width: 673px;
+    margin: 0;
+    padding: 20px;
+}
+
+/*--- key visual -----------------------------------------------------------*/
+
+#key_visual {
+    width: 624px;
+    height: 135px;
+    position: relative;
+    top: 0px;
+    left: 258px;
+}
+
+/*--- slogan (as text or background image) ---------------------------------*/
+
+#slogan {
+    padding: 0px 15px 0px 15px;
+    line-height: 20px;
+    margin: 0px 0px 1px 0px;
+    voice-family: "\"}\"";
+    voice-family: inherit;
+    overflow: hidden;
+    width: 852px;
+    height: 21px;
+}
+
+/*--- logo -----------------------------------------------------------------*/
+
+#logo {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 35px;
+    left: 58px;
+}
+
+/*--- main navigation ------------------------------------------------------*/
+
+#main_nav_container {
+    line-height: 0;
+    padding: 0;
+    margin: 10px 0px 0px 0px;
+    width: 169px;
+    voice-family: "\"}\"";
+    voice-family: inherit;
+}
+
+#main_nav_list {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+#main_nav_list li {
+    margin: 0;
+    padding: 0;
+}
+
+/*--- main navigation items ------------------------------------------------*/
+
+#main_nav_list a {
+    margin: 0;
+    display: block;
+    text-align: left;
+    width: 129px;
+    voice-family: "\"}\"";
+    voice-family: inherit;
+    overflow: hidden;
+}
+
+a.main_nav_item {
+    padding: 0px 20px 0px 20px;
+    line-height: 23px;
+}
+
+a.main_nav_item:hover {
+    padding: 0px 20px 0px 20px;
+    line-height: 23px;
+}
+
+a.main_nav_active_item {
+    padding: 0px 20px 0px 20px;
+    line-height: 23px;
+}
+
+/*--- container for the subnavigation --------------------------------------*/
+
+.sub_nav_container {
+    line-height: 0;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    width: 169px;
+    voice-family: "\"}\"";
+}
+
+/*--- subnavigation --------------------------------------------------------*/
+
+.sub_nav_list {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.sub_nav_list li {
+    margin: 0;
+    padding: 0;
+}
+
+/*--- subnavigation items --------------------------------------------------*/
+
+.sub_nav_list a {
+    overflow: hidden;
+    margin: 0;
+    display: block;
+    text-align: left;
+    voice-family: "\"}\"";
+    voice-family: inherit;
+    overflow: hidden;
+}
+
+a.sub_nav_item {
+    padding: 0px 10px 0px 45px;
+    line-height: 21px;
+}
+
+a.sub_nav_item:hover {
+    padding: 0px 10px 0px 45px;
+    line-height: 21px;
+}
+
+a.sub_nav_active_item {
+    padding: 0px 10px 0px 45px;
+    line-height: 21px;
+}
+
+/*--- footer ---------------------------------------------------------------*/
+
+#footer {
+    margin: 0;
+    padding: 0;
+    width: 882px;
+    clear: both;
+}
+
+#footer_text {
+    text-align: right;
+    padding: 7px 40px 10px 40px;
+    margin: 0;
+    text-align: right;
+}
+
+/*----------------------------------------------------------------------------
+  default-styles for .content html-elements
+----------------------------------------------------------------------------*/
+
+/*--- paragraph ------------------------------------------------------------*/
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.content table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 1px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin: 0px 1px 0px 1px;
+}
+
+.content select {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.content input {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.content textarea {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/*--- headings -------------------------------------------------------------*/
+
+/*--- links ----------------------------------------------------------------*/
+
+/*--- tables ---------------------------------------------------------------*/
+
+.content td {
+    border-width: 1px;
+    border-collapse: collapse;
+    border-style: solid;
+}
+
+.content th {
+    padding: 3px 2px 3px 2px;
+}
+
+.content tr.odd {
+    padding: 3px 2px 3px 2px;
+}
+
+.content tr.even {
+    padding: 3px 2px 3px 2px;
+}
+
+/*--- forms ----------------------------------------------------------------*/
+
+.content legend {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.content fieldset {
+    padding: 15px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/*--- lists ----------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+
