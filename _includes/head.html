@@ -5,8 +5,24 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
+  <!-- Bootstrap -->
+  <link rel="stylesheet"  href="{{ "/bootstrap/css/bootstrap.min.css" | prepend: site.baseurl}}">
+  <!-- custom css -->
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+  <!-- font awesome for icons -->
+  <link rel="stylesheet" href="{{ "/font-awesome-4.2.0/css/font-awesome.min.css" | prepend: site.baseurl }}">
+  <!--flex slider-->
+  <link rel="stylesheet" href="{{ "/font-awesome-4.2.0/css/font-awesome.min.css" | prepend: site.baseurl }}">
+  <!-- animated css  -->
+  <link rel="stylesheet" href="{{ "/css/animate.css" | prepend: site.baseurl }}">
+  <!--web fonts-->      
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,400italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  <!--owl carousel css-->
+  <link rel="stylesheet" href="{{ "/css/owl.carousel.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/owl.theme.css" | prepend: site.baseurl }}">
+  <!--popups css-->
+  <link rel="stylesheet" href="{{ "/css/magnific-popup.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 </head>
