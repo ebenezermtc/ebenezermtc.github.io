@@ -57,7 +57,7 @@ layout: default
                 <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
                 <span>{{ post.date | date: "%b %-d, %Y" }}</span>
                 <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry
+                    {{post.body}}
                 </p>
                 <p class="text-right">
                     <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-dark btn-xs">
@@ -65,7 +65,7 @@ layout: default
                     </a>
                 </p>
             </div><!--blog desc-->
-            
+
       </div><!--blog post col end-->
       
 <!-- 
