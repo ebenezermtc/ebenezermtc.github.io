@@ -40,6 +40,35 @@ layout: default
               </div><!--center heading-->
           </div>
       </div>
+
+      <div class="divided-50"></div>
+      <div class="row">
+        <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
+          {% for post in site.posts %}
+            <div class="item-img-wrap ">
+                <img src="img/work-8.png" class="img-responsive" alt="workimg">
+                <div class="item-img-overlay">
+                    <a href="img/work-8.png" class="show-image">
+                        <span></span>
+                    </a>
+                </div>
+            </div><!--item image hover-->
+            <div class="blog-desc">
+                <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+                <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+                <p>
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry
+                </p>
+                <p class="text-right">
+                    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-dark btn-xs">
+                        Read More
+                    </a>
+                </p>
+            </div><!--blog desc-->
+            {% endfor %}
+      </div><!--blog post col end-->
+      
+
       <ul class="post-list">
         {% for post in site.posts %}
           <li>
