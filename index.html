@@ -32,8 +32,14 @@ layout: default
 
   <section id="about" class="section-padding">
     <div class="container">
-      <h1 class="page-heading">Latest News</h1>
-
+      <div class="row">
+          <div class="col-md-12">
+              <div class="center-heading text-center">
+                  <h2 class=" wow animated bounceIn"  data-wow-duration="700ms" data-wow-delay="100ms">Latest news</h2>
+                  <span class="icon"><i class="fa fa-calendar"></i></span> 
+              </div><!--center heading-->
+          </div>
+      </div>
       <ul class="post-list">
         {% for post in site.posts %}
           <li>
