@@ -99,8 +99,7 @@ layout: default
       </div><!--center heading-->
       <div class="row">
        {% for officer in site.data.office_bearers %} 
-         {% assign officer = officer %}
-         {% include office_bearer.html %}
+         {% include office_bearer.html with officer %}
        {% endfor %}
      </div>
    </div>
