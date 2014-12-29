@@ -44,6 +44,7 @@ layout: default
             </div>
           </div>
           {% for post in site.posts %}
+          {% if post.categories == "jekyll update"}
           <div class="divided-50"></div>
           <div class="row">
             <div class="col-sm-10 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
@@ -85,7 +86,9 @@ layout: default
       </ul>
 
       <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-    </div>{% endfor %}  
+    </div>
+    {% endif %}
+    {% endfor %}  
   </section> <!--End News Section  -->
   <section id="offbearers" class="section-padding">
     <div class="container">

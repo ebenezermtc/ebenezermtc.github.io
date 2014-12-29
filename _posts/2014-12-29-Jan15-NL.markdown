@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Newsletter January 2015"
+date:   2014-12-29 21:56:13
+categories: newsletter
+---
+This is a test newsletter
