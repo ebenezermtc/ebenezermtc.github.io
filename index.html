@@ -2,74 +2,75 @@
 layout: default
 ---
 <div class="home_container">
-   <section id="home" data-stellar-background-ratio="0.5" class="section-padding">
-      <!-- <div class="parallax-overlay"></div> --> 
-      <div class="home-content text-center">
-          <div class="container">
-              <!-- <span class="home-top-slide-text hidden-xs">Flexible. creative. responsive</span> -->
-              <div class="main-flex-slider">
-                  <ul class="slides">
-                      <li>
-                          <h1>Welcome to  <span class="colored-text">Ebenezer</span> </h1>
+ <section id="home" data-stellar-background-ratio="0.5" class="section-padding">
+  <!-- <div class="parallax-overlay"></div> --> 
+  <div class="home-content text-center">
+    <div class="container">
+      <!-- <span class="home-top-slide-text hidden-xs">Flexible. creative. responsive</span> -->
+      <div class="main-flex-slider">
+        <ul class="slides">
+          <li>
+            <h1>Welcome to  <span class="colored-text">Ebenezer</span> </h1>
 
-                      </li>
-                      <li>
-                          <h1><span class="colored-text">Mar Thoma</span> Church</h1>
+          </li>
+          <li>
+            <h1><span class="colored-text">Mar Thoma</span> Church</h1>
 
-                      </li>
-                     <!-- <li>
+          </li>
+                     <!--
+<li>
                           <h1>Located In <span class="colored-text">Port Chester, NY</span></h1>
 
-                      </li> -->
-                  </ul>
-              </div> 
+                        </li> -->
+                      </ul>
+                    </div> 
               <!--
               <div class="home-link-btn text-center">
                   <p class="scrollto"><a href="#about" class="btn btn-lg btn-dark-2">More Detail </a></p>
               </div>
             -->
           </div>
-      </div>
-  </section><!--home section end-->
+        </div>
+      </section><!--home section end-->
 
-  <section id="news" class="section-padding">
-    <div class="container">
-      <div class="row">
-          <div class="col-md-12">
+      <section id="news" class="section-padding">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
               <div class="center-heading text-center">
-                  <h2 class=" wow animated bounceIn"  data-wow-duration="700ms" data-wow-delay="100ms">Latest news</h2>
-                  <span class="icon"><i class="fa fa-calendar"></i></span> 
+                <h2 class=" wow animated bounceIn"  data-wow-duration="700ms" data-wow-delay="100ms">Latest news</h2>
+                <span class="icon"><i class="fa fa-calendar"></i></span> 
               </div><!--center heading-->
+            </div>
           </div>
-      </div>
-       {% for post in site.posts %}
-      <div class="divided-50"></div>
-      <div class="row">
-        <div class="col-sm-10 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
-   
-            <div class="item-img-wrap ">
+          {% for post in site.posts %}
+          <div class="divided-50"></div>
+          <div class="row">
+            <div class="col-sm-10 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
+             
+              <div class="item-img-wrap ">
                 <img src="img/work-8.png" class="img-responsive" alt="workimg">
                 <div class="item-img-overlay">
-                    <a href="img/work-8.png" class="show-image">
-                        <span></span>
-                    </a>
+                  <a href="img/work-8.png" class="show-image">
+                    <span></span>
+                  </a>
                 </div>
-            </div><!--item image hover-->
-            <div class="blog-desc">
+              </div><!--item image hover-->
+              <div class="blog-desc">
                 <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
                 <span>{{ post.date | date: "%b %-d, %Y" }}</span>
                 <p>
-                    {{post.body}}
+                  {{post.body}}
                 </p>
                 <p class="text-right">
-                    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-dark btn-xs">
-                        Read More
-                    </a>
+                  <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-dark btn-xs">
+                    Read More
+                  </a>
                 </p>
-            </div><!--blog desc-->
+              </div><!--blog desc-->
 
-      </div><!--blog post col end-->
-      
+            </div><!--blog post col end-->
+            
 <!-- 
       <ul class="post-list">
         {% for post in site.posts %}
@@ -87,225 +88,46 @@ layout: default
     </div>{% endfor %}  
   </section> <!-- News Section End -->
   <section id="offbearers" class="section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <div class="center-heading text-center">
-                        <h2>Meet the office bearers</h2>
-                        <span class="icon"><i class="fa fa-user"></i></span> 
-                    </div><!--center heading-->
-                </div>
-            </div><!--center heading-->
-            <div class="row">
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
-                        <img src="img/team-1.jpg" alt="">
-                        <h4>Rev Abraham Oommen  </h4>
-                        <span>President & Vicar</span> <br/>
-                        <span>P: 914-207-0011</span> <br/>
-                        <span>E: sujanachen66@gmail.com </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="200ms">
-                        <img src="img/team-2.jpg" alt="">
-                        <h4>C. S. Chacko</h4>
-                        <span>Vice President</span> <br/>
-                        <span>P: 914-473-3664 </span> <br/>
-                        <span>E: chackocs@gmail.com  </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="300ms">
-                        <img src="img/team-3.jpg" alt="">
-                        <h4>Jacob Abraham</h4>
-                        <span>Secretary</span> <br/>
-                        <span>P: 914-912-4405</span> <br/>
-                        <span>E: ajacob1@hotmail.com  </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="400ms">
-                        <img src="img/team-4.jpg" alt="">
-                        <h4>John Samuel</h4>
-                        <span>Treasurer</span> <br/>
-                        <span>P: 914-330-7254</span> <br/>
-                        <span>E: jsn32000@yahoo.com  </span>
-                    </div>
-                </div><!--team col-->
-            </div><div class="divided-50"></div>
-            <div class="row">
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="500ms">
-                        <img src="img/team-5.jpg" alt="">
-                        <h4>Viju Varughese</h4>
-                        <span>Accountant</span> <br/>
-                        <span>P: 914-589-1779</span> <br/>
-                        <span>E:  </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="600ms">
-                        <img src="img/team-6.jpg" alt="">
-                        <h4>Anish Titus</h4>
-                        <span>English Lay Ministrant</span> <br/>
-                        <span>P: </span> <br/>
-                        <span>E: Anish.titus@gmail.com </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="700ms">
-                        <img src="img/team-7.jpg" alt="">
-                        <h4>Eapan Joseph</h4>
-                        <span>Malayalam Lay Ministrant</span> <br/>
-                        <span>P: 914-346-5756</span> <br/>
-                        <span>E: eapenancy@hotmail.com </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="800ms">
-                        <img src="img/team-8.jpg" alt="">
-                        <h4>Suja Thomas</h4>
-                        <span>Sunday School Superintendent</span> <br/>
-                        <span>P: 203-606-0996</span> <br/>
-                        <span>E: sneham19@aol.com </span>
-                    </div>
-                </div><!--team col-->
-            </div>
-            <div class="divided-50"></div>
-            <div class="row">
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="500ms">
-                        <img src="img/team-5.jpg" alt="">
-                        <h4>M.J.Varkey</h4>
-                        <span>Edavaka Mission Secretary</span> <br/>
-                        <span>P: 914-630-4202</span> <br/>
-                        <span>E:  </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="600ms">
-                        <img src="img/team-6.jpg" alt="">
-                        <h4>Leelamma Pallickal</h4>
-                        <span>Sevika Sangham Secretary </span> <br/>
-                        <span>P: 914-347-6618</span> <br/>
-                        <span>E: leela@pallickal.org </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="700ms">
-                        <img src="img/team-7.jpg" alt="">
-                        <h4>Rijo Ann Cherian</h4>
-                        <span>Yuvajana Sakhyam Secretary</span> <br/>
-                        <span>P: 914-740-7987</span> <br/>
-                        <span>E: rijojose080@gmail.com  </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="800ms">
-                        <img src="img/team-8.jpg" alt="">
-                        <h4> Feby Varghese</h4>
-                        <span>Choir Leader</span> <br/>
-                        <span>P: 914-278-9775</span> <br/>
-                        <span>E: Feby80@gmail.com </span>
-                    </div>
-                </div><!--team col-->
-            </div>
-            <div class="divided-50"></div>
-            <div class="row">
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="500ms">
-                        <img src="img/team-5.jpg" alt="">
-                        <h4>Jason John</h4>
-                        <span>Youth Secretary</span> <br/>
-                        <span>P: 914-481-5440</span> <br/>
-                        <span>E:  </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="600ms">
-                        <img src="img/team-6.jpg" alt="">
-                        <h4>Susan Kurian</h4>
-                        <span>Mandalam Member </span> <br/>
-                        <span>P: 914-909-3838</span> <br/>
-                        <span>E: susankurian18@yahoo.com </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="700ms">
-                        <img src="img/team-7.jpg" alt="">
-                        <h4> C. S. Chacko</h4>
-                        <span>Diocesan (Assembly) Member</span> <br/>
-                        <span>P: 914-473-3664</span> <br/>
-                        <span>E: chackocs@gmail.com  </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="800ms">
-                        <img src="img/team-8.jpg" alt="">
-                        <h4> John C Mathai</h4>
-                        <span>Executive Committee Member</span> <br/>
-                        <span>P: 914-494-7336</span> <br/>
-                        <span>E: johncmathai@yahoo.com </span>
-                    </div>
-                </div><!--team col-->
-            </div>
-            <div class="divided-50"></div>
-            <div class="row">
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="500ms">
-                        <img src="img/team-5.jpg" alt="">
-                        <h4>James George</h4>
-                        <span>Executive Committee Member</span> <br/>
-                        <span>P: </span> <br/>
-                        <span>E:  </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="600ms">
-                        <img src="img/team-6.jpg" alt="">
-                        <h4>Saji Thomas</h4>
-                        <span>Auditor </span> <br/>
-                        <span>P: 203-606-0986</span> <br/>
-                        <span>E: saji202000@yahoo.com </span>
-                    </div>
-                </div><!--team col-->
-                <div class="col-sm-3">
-                    <div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="700ms">
-                        <img src="img/team-7.jpg" alt="">
-                        <h4> Usha Sunny</h4>
-                        <span>Auditor</span> <br/>
-                        <span>P: 845-323-4190</span> <br/>
-                        <span>E: noelsunny@aol.com  </span>
-                    </div>
-                </div><!--team col-->
-            </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="center-heading text-center">
+            <h2>Meet the office bearers</h2>
+            <span class="icon"><i class="fa fa-user"></i></span> 
+          </div><!--center heading-->
         </div>
-  </section><!--End Office Bearers Section-->
-  <section id="ministries" class="section-padding">
-    <div class="container">
-       <div class="row">
-          <div class="col-sm-12">
-              <div class="center-heading text-center">
-                  <h2>Ministries</h2>
-                  <span class="icon"><i class="fa fa-user"></i></span> 
-              </div><!--center heading-->
-          </div>
-        </div><!--center heading-->
+      </div><!--center heading-->
+      <div class="row">
+       {% for officer in site.data.office_bearers %} 
+       {% include office_bearer.html %}
+       {% endfor %}
+     </div>
+   </div>
+ </section><!--End Office Bearers Section-->
+ <section id="ministries" class="section-padding">
+  <div class="container">
+   <div class="row">
+    <div class="col-sm-12">
+      <div class="center-heading text-center">
+        <h2>Ministries</h2>
+        <span class="icon"><i class="fa fa-user"></i></span> 
+      </div><!--center heading-->
     </div>
-  </section><!-- End Ministries Section -->
+  </div><!--center heading-->
+</div>
+</section><!-- End Ministries Section -->
 
-  <section id="contact" class="section-padding">
-    <div class="container">
-       <div class="row">
-          <div class="col-sm-12">
-              <div class="center-heading text-center">
-                  <h2>Contact</h2>
-                  <span class="icon"><i class="fa fa-user"></i></span> 
-              </div><!--center heading-->
-          </div>
-        </div><!--center heading-->
+<section id="contact" class="section-padding">
+  <div class="container">
+   <div class="row">
+    <div class="col-sm-12">
+      <div class="center-heading text-center">
+        <h2>Contact</h2>
+        <span class="icon"><i class="fa fa-user"></i></span> 
+      </div><!--center heading-->
     </div>
-  </section><!-- End Contact Section -->
+  </div><!--center heading-->
+</div>
+</section><!-- End Contact Section -->
 
 </div>
