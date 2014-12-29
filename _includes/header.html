@@ -15,13 +15,13 @@
       <div class="container">  
         <div class="trigger navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right scrollto">
-            <li>
-              {% for page in site.pages %}
-                {% if page.title %}
-                <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                {% endif %}
-              {% endfor %}
-            </li>
+            {% for page in site.pages %}
+             {% if page.title %}
+              <li>
+               <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+               </li>
+             {% endif %}
+            {% endfor %}
            <li><a href="../index.html#news">News</a></li>
            <li><a href="../index.html#offbearers">Office Bearers</a></li>            
            <li><a href="../index.html#ministries">Ministries</a></li>
