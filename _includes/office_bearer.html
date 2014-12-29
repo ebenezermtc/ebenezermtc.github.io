@@ -3,7 +3,7 @@
 		<img src="img/{{ officer.image_url }}" alt="{{ officer.name }}">
 		<h4>{{ officer.name }}</h4>
 		<span>{{ officer.title }}</span> <br/>
-		<span>P: {{ officer.phone }}</span> <br/>
-		<span>E: {{ officer.email }}</span>
+		<span>{% if officer.phone %} P: {{ officer.phone }} {% endif %}</span> <br/>
+		<span>{% if officer.email %} E: {{ officer.email }} {% endif %}</span>
 	</div>
 </div><!--team col-->
