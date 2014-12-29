@@ -47,7 +47,7 @@ layout: default
           <div class="divided-50"></div>
           <div class="row">
             <div class="col-sm-10 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
-             
+
               <div class="item-img-wrap ">
                 <img src="img/work-8.png" class="img-responsive" alt="workimg">
                 <div class="item-img-overlay">
@@ -70,7 +70,7 @@ layout: default
               </div><!--blog desc-->
 
             </div><!--blog post col end-->
-            
+
 <!-- 
       <ul class="post-list">
         {% for post in site.posts %}
@@ -99,7 +99,8 @@ layout: default
       </div><!--center heading-->
       <div class="row">
        {% for officer in site.data.office_bearers %} 
-       {% include office_bearer.html %}
+         {% assign officer = officer %}
+         {% include office_bearer.html %}
        {% endfor %}
      </div>
    </div>
