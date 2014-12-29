@@ -318,7 +318,7 @@ h2.slide-btm-text{
     display: inline-block;
     font-size: 18px;
     line-height: 21px;
-    width: 130px;
+    width: 250px;
     margin: 0 auto;
     position: relative;
     color:  #25CBF5;
@@ -330,7 +330,7 @@ h2.slide-btm-text{
     position: absolute;
     left: 0;
     top: 10px;
-    width: 50px;
+    width: 100px;
 }
 .center-heading .icon:after {
     display: inline-block;
@@ -339,7 +339,7 @@ h2.slide-btm-text{
     position: absolute;
     right: 0;
     top: 10px;
-    width: 50px;
+    width: 100px;
 }
 
 /*************parallax*************/
