@@ -479,3 +479,9 @@ h2.slide-btm-text{
     font-family: 'Montserrat', sans-serif;
     color:#777;
 }
+
+/**********bootstrap column overrides***********/
+.col-sm-3 {
+    width: 25%;
+    padding-bottom: 50px;
+}
