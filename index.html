@@ -10,67 +10,54 @@ layout: default
       <div class="main-flex-slider">
         <ul class="slides">
           <li>
-            <h1>Welcome to  <span class="colored-text">Ebenezer</span> </h1>
-
+            <h1>Welcome to <span class="colored-text">Ebenezer</span></h1>
           </li>
           <li>
             <h1><span class="colored-text">Mar Thoma</span> Church</h1>
-
           </li>
-                     <!--
-<li>
-                          <h1>Located In <span class="colored-text">Port Chester, NY</span></h1>
+        </ul>
+      </div> 
+    </div>
+  </div>
+</section><!--home section end-->
 
-                        </li> -->
-                      </ul>
-                    </div> 
-              <!--
-              <div class="home-link-btn text-center">
-                  <p class="scrollto"><a href="#about" class="btn btn-lg btn-dark-2">More Detail </a></p>
-              </div>
-            -->
+<section id="news" class="section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="center-heading text-center">
+          <h2 class=" wow animated bounceIn"  data-wow-duration="700ms" data-wow-delay="100ms">Latest news</h2>
+          <span class="icon"><i class="fa fa-calendar"></i></span> 
+        </div><!--center heading-->
+      </div>
+    </div>
+    {% for post in site.posts %}
+    {% if post.categories == "generic" %}
+    <div class="divided-50"></div>
+    <div class="row">
+      <div class="col-sm-10 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
+        <div class="item-img-wrap ">
+          <img src="img/work-8.png" class="img-responsive" alt="workimg">
+          <div class="item-img-overlay">
+            <a href="img/work-8.png" class="show-image">
+              <span></span>
+            </a>
           </div>
-        </div>
-      </section><!--home section end-->
+        </div><!--item image hover-->
+        <div class="blog-desc">
+          <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+          <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+          <p>
+            {{ post.content }}
+          </p>
+          <p class="text-right">
+            <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-dark btn-xs">
+              Read More
+            </a>
+          </p>
+        </div><!--blog desc-->
 
-      <section id="news" class="section-padding">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="center-heading text-center">
-                <h2 class=" wow animated bounceIn"  data-wow-duration="700ms" data-wow-delay="100ms">Latest news</h2>
-                <span class="icon"><i class="fa fa-calendar"></i></span> 
-              </div><!--center heading-->
-            </div>
-          </div>
-          {% for post in site.posts %}
-          {% if post.categories == "generic" %}
-          <div class="divided-50"></div>
-          <div class="row">
-            <div class="col-sm-10 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
-
-              <div class="item-img-wrap ">
-                <img src="img/work-8.png" class="img-responsive" alt="workimg">
-                <div class="item-img-overlay">
-                  <a href="img/work-8.png" class="show-image">
-                    <span></span>
-                  </a>
-                </div>
-              </div><!--item image hover-->
-              <div class="blog-desc">
-                <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-                <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-                <p>
-                  {{ post.content }}
-                </p>
-                <p class="text-right">
-                  <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-dark btn-xs">
-                    Read More
-                  </a>
-                </p>
-              </div><!--blog desc-->
-
-            </div><!--blog post col end-->
+      </div><!--blog post col end-->
 
 <!-- 
       <ul class="post-list">
@@ -100,9 +87,9 @@ layout: default
           </div><!--center heading-->
         </div>
       </div><!--center heading-->
-      <div class="row">
+      <div class="row officers">
        {% for officer in site.data.office_bearers %} 
-         {% include office_bearer.html %}
+       {% include office_bearer.html %}
        {% endfor %}
      </div>
    </div>
