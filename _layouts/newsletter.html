@@ -5,7 +5,7 @@ layout: default
 	<div class="row">
         <div class="col-md-12">
             <div class="center-heading text-center">
-                <h2 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">January 2015</h2>
+                <h2 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">{{page.title}}</h2>
                 <span class="icon"><i class="fa fa-table"></i></span> 
             </div><!--center heading-->
         </div>
@@ -18,12 +18,11 @@ layout: default
                     <h4>Worship Schedule</h4>
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
-                    <li>12/07/14<i class="fa fa-check"></i> Holy Communion - Malayalam <i class="fa fa-check"></i> Rev Abraham Oommen</li>
-                    <li>12/14/14<i class="fa fa-check"></i> Holy Communion - Malayalam <i class="fa fa-check"></i> Rev TC Mammen</li>
-                    <li>12/21/14<i class="fa fa-check"></i> Holy Communion - English <i class="fa fa-check"></i> Rev Abraham Oommen</li>
-                    <li>12/25/14<i class="fa fa-check"></i> Holy Communion - Malayalam (11:00 AM) <i class="fa fa-check"></i> Rev Abraham Oommen</li>
-                    <li>12/28/14<i class="fa fa-check"></i> Divine Worship Service - English <i class="fa fa-check"></i> Vipin Koovor</li>
-                    <li>12/31/14<i class="fa fa-check"></i> Watch Night Service (10:30 PM) <i class="fa fa-check"></i> Rev VM Mathew</li>
+                	{% for wservice in site.data.worship_services %}
+                		{% if wservice.year == page.year && if wservice.month == page.month %}
+	                    	<li>{{wservice.date}}<i class="fa fa-check"></i> {{wservice.service}} <i class="fa fa-check"></i> {{wservice.celebrant}}</li>
+	                    {% endif %}
+                    {% endfor %}
                 </ul><!--features-->
             </div><!--plan wrap-->
         </div><!--plan col-->
