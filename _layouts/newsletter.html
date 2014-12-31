@@ -19,12 +19,12 @@ layout: default
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
                 	{% for wservice in site.data.worship_services %}
-                		{% if wservice.year == page.year && if wservice.month == page.month %}
+                		{% if wservice.year == page.year and if wservice.month contains page.month %}
                 			<li> {{wservice.month}} {{page.month}}
 	                    	<li>{{wservice.date}} <i class="fa fa-check"></i> {{wservice.service}} <i class="fa fa-check"></i> {{wservice.celebrant}} </li>
 	                    {% endif %}
                     {% endfor %}
-                </ul><!--features-->
+                </ul><!--WORSHIP SERVICES LIST-->
             </div><!--plan wrap-->
         </div><!--plan col-->
         <div class="col-md-6 margin-btm-30">
@@ -33,11 +33,13 @@ layout: default
                     <h4>Lectionary</h4>
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
-                    <li><i class="fa fa-check"></i> 25 Team Members</li>
-                    <li><i class="fa fa-check"></i> 50 MySql database</li>
-                    <li><i class="fa fa-check"></i> 500 GB Bandwith</li>
-                    <li><i class="fa fa-check"></i> 50 GB Storage</li>
-                </ul><!--features-->
+                	{% for lect in site.data.lectionaries %}
+                		{% if lect.year == page.year and if lect.month == page.month %}
+                			<li> {{lect.month}} {{page.month}}
+	                    	<li>{{lect.date}} <i class="fa fa-check"></i> {{lect.service}} <i class="fa fa-check"></i> {{lect.celebrant}} </li>
+	                    {% endif %}
+                    {% endfor %}
+                </ul><!--LECTIONARY LIST-->
             </div><!--plan wrap-->
         </div><!--plan col-->
         <div class="col-md-6 margin-btm-30">
@@ -46,11 +48,13 @@ layout: default
                     <h4>Bible Reading</h4>
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
-                    <li><i class="fa fa-check"></i> Unlimited Team Members</li>
-                    <li><i class="fa fa-check"></i> Unlimited MySql database</li>
-                    <li><i class="fa fa-check"></i> 50 Tb Bandwith</li>
-                    <li><i class="fa fa-check"></i> Unlimited GB Storage</li>
-                </ul><!--features-->
+                	{% for bibread in site.data.bible_readings %}
+                		{% if bibread.year == page.year and if bibread.month == page.month %}
+                			<li> {{bibread.month}} {{page.month}}
+	                    	<li>{{bibread.date}} <i class="fa fa-check"></i> {{bibread.service}} <i class="fa fa-check"></i> {{bibread.celebrant}} </li>
+	                    {% endif %}
+                    {% endfor %}
+                </ul><!--BIBLE READING LIST-->
             </div><!--plan wrap-->
         </div><!--plan col-->
     </div>
@@ -61,11 +65,13 @@ layout: default
                     <h4>Birthdays</h4>
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
-                    <li><i class="fa fa-check"></i> 5 Team Members</li>
-                    <li><i class="fa fa-check"></i> 10 MySql database</li>
-                    <li><i class="fa fa-check"></i> 100 GB Bandwith</li>
-                    <li><i class="fa fa-check"></i> 10 GB Storage</li>
-                </ul><!--features-->
+                	{% for bday in site.data.birthdays %}
+                		{% if bday.year == page.year and if bday.month == page.month %}
+                			<li> {{bday.month}} {{page.month}}
+	                    	<li>{{bday.date}} <i class="fa fa-check"></i> {{bday.service}} <i class="fa fa-check"></i> {{bday.celebrant}} </li>
+	                    {% endif %}
+                    {% endfor %}
+                </ul><!--BIRTHDAYS LIST-->
             </div><!--plan wrap-->
         </div><!--plan col-->
         <div class="col-md-6 margin-btm-30">
@@ -74,11 +80,13 @@ layout: default
                     <h4>Wedding Anniversaries</h4>
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
-                    <li><i class="fa fa-check"></i> 25 Team Members</li>
-                    <li><i class="fa fa-check"></i> 50 MySql database</li>
-                    <li><i class="fa fa-check"></i> 500 GB Bandwith</li>
-                    <li><i class="fa fa-check"></i> 50 GB Storage</li>
-                </ul><!--features-->
+                	{% for wedding in site.data.wedding_anniversaries %}
+                		{% if wedding.year == page.year and if wedding.month == page.month %}
+                			<li> {{wedding.month}} {{page.month}}
+	                    	<li>{{wedding.date}} <i class="fa fa-check"></i> {{wedding.service}} <i class="fa fa-check"></i> {{wedding.celebrant}} </li>
+	                    {% endif %}
+                    {% endfor %}
+                </ul><!--WEDDING ANNIVERSARY LIST-->
             </div><!--plan wrap-->
         </div><!--plan col-->
         <div class="col-md-12 margin-btm-30">
@@ -87,11 +95,13 @@ layout: default
                     <h4>Prayer Meetings</h4>
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
-                    <li><i class="fa fa-check"></i> Unlimited Team Members</li>
-                    <li><i class="fa fa-check"></i> Unlimited MySql database</li>
-                    <li><i class="fa fa-check"></i> 50 Tb Bandwith</li>
-                    <li><i class="fa fa-check"></i> Unlimited GB Storage</li>
-                </ul><!--features-->
+                	{% for prayer in site.data.prayer_meetings %}
+                		{% if prayer.year == page.year and if prayer.month == page.month %}
+                			<li> {{prayer.month}} {{page.month}}
+	                    	<li>{{prayer.date}} <i class="fa fa-check"></i> {{prayer.service}} <i class="fa fa-check"></i> {{prayer.celebrant}} </li>
+	                    {% endif %}
+                    {% endfor %}
+                </ul><!--PRAYER MEETING LIST-->
             </div><!--plan wrap-->
         </div><!--plan col-->
     </div> 
@@ -102,11 +112,13 @@ layout: default
                     <h4>Bible Study</h4>
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
-                    <li><i class="fa fa-check"></i> 5 Team Members</li>
-                    <li><i class="fa fa-check"></i> 10 MySql database</li>
-                    <li><i class="fa fa-check"></i> 100 GB Bandwith</li>
-                    <li><i class="fa fa-check"></i> 10 GB Storage</li>
-                </ul><!--features-->
+                	{% for bibstudy in site.data.bible_studies %}
+                		{% if bibstudy.year == page.year and if bibstudy.month == page.month %}
+                			<li> {{bibstudy.month}} {{page.month}}
+	                    	<li>{{bibstudy.date}} <i class="fa fa-check"></i> {{bibstudy.service}} <i class="fa fa-check"></i> {{bibstudy.celebrant}} </li>
+	                    {% endif %}
+                    {% endfor %}
+                </ul><!--BIBLE STUDY LIST-->
             </div><!--plan wrap-->
         </div><!--plan col-->
         <div class="col-md-6 margin-btm-30">
@@ -115,12 +127,13 @@ layout: default
                     <h4>Misc</h4>
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
-                    <li><i class="fa fa-check"></i> 25 Team Members</li>
-                    <li><i class="fa fa-check"></i> 50 MySql database</li>
-                    <li><i class="fa fa-check"></i> 500 GB Bandwith</li>
-                    <li><i class="fa fa-check"></i> 50 GB Storage</li>
-                </ul><!--features-->
-            </div><!--plan wrap-->
+                	{% for misc in site.data.misc %}
+                		{% if misc.year == page.year and if misc.month == page.month %}
+                			<li> {{misc.month}} {{page.month}}
+	                    	<li>{{misc.date}} <i class="fa fa-check"></i> {{misc.service}} <i class="fa fa-check"></i> {{misc.celebrant}} </li>
+	                    {% endif %}
+                    {% endfor %}
+                </ul><!--MISC LIST-->            </div><!--plan wrap-->
         </div><!--plan col-->
     </div>         
 </div>
