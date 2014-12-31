@@ -19,7 +19,7 @@ layout: default
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
                 	{% for wservice in site.data.worship_services %}
-                		{% if wservice.year == page.year and if wservice.month contains page.month %}
+                		{% if wservice.year == page.year and wservice.month contains page.month %}
                 			<li> {{wservice.month}} {{page.month}}
 	                    	<li>{{wservice.date}} <i class="fa fa-check"></i> {{wservice.service}} <i class="fa fa-check"></i> {{wservice.celebrant}} </li>
 	                    {% endif %}
