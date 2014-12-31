@@ -15,7 +15,7 @@
       <div class="container">  
         <div class="trigger navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right scrollto">
-            <li><a href="../index.html#home">Home</a></li>
+            <li><a href="/index.html#home">Home</a></li>
             {% for page in site.pages %}
              {% if page.title %}
               <li>
@@ -23,10 +23,10 @@
                </li>
              {% endif %}
             {% endfor %}
-           <li><a href="../index.html#announcements">Announcements</a></li>
-           <li><a href="../index.html#offbearers">Office Bearers</a></li>            
-           <li><a href="../index.html#ministries">Ministries</a></li>
-           <li><a href="../index.html#contact">Contact</a></li>
+           <li><a href="{{ site.baseurl }}/index.html#announcements">Announcements</a></li>
+           <li><a href="{{ site.baseurl }}/index.html#offbearers">Office Bearers</a></li>            
+           <li><a href="{{ site.baseurl }}/index.html#ministries">Ministries</a></li>
+           <li><a href="{{ site.baseurl }}/index.html#contact">Contact</a></li>
           </ul>
         </div>
       </div>
