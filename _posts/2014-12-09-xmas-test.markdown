@@ -2,6 +2,6 @@
 layout: post
 title:  "Christmas Carol House Visiting Schedule"
 date:   2014-12-5 21:56:13
-categories: test
+categories: generic
 ---
 This is a test post
