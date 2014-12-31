@@ -34,7 +34,7 @@ layout: default
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
                 	{% for lect in site.data.lectionaries %}
-                		{% if lect.year == page.year and if lect.month == page.month %}
+                		{% if lect.year == page.year and lect.month == page.month %}
                 			<li> {{lect.month}} {{page.month}}
 	                    	<li>{{lect.date}} <i class="fa fa-check"></i> {{lect.service}} <i class="fa fa-check"></i> {{lect.celebrant}} </li>
 	                    {% endif %}
@@ -49,7 +49,7 @@ layout: default
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
                 	{% for bibread in site.data.bible_readings %}
-                		{% if bibread.year == page.year and if bibread.month == page.month %}
+                		{% if bibread.year == page.year and bibread.month == page.month %}
                 			<li> {{bibread.month}} {{page.month}}
 	                    	<li>{{bibread.date}} <i class="fa fa-check"></i> {{bibread.service}} <i class="fa fa-check"></i> {{bibread.celebrant}} </li>
 	                    {% endif %}
@@ -66,7 +66,7 @@ layout: default
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
                 	{% for bday in site.data.birthdays %}
-                		{% if bday.year == page.year and if bday.month == page.month %}
+                		{% if bday.year == page.year and bday.month == page.month %}
                 			<li> {{bday.month}} {{page.month}}
 	                    	<li>{{bday.date}} <i class="fa fa-check"></i> {{bday.service}} <i class="fa fa-check"></i> {{bday.celebrant}} </li>
 	                    {% endif %}
@@ -81,7 +81,7 @@ layout: default
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
                 	{% for wedding in site.data.wedding_anniversaries %}
-                		{% if wedding.year == page.year and if wedding.month == page.month %}
+                		{% if wedding.year == page.year and wedding.month == page.month %}
                 			<li> {{wedding.month}} {{page.month}}
 	                    	<li>{{wedding.date}} <i class="fa fa-check"></i> {{wedding.service}} <i class="fa fa-check"></i> {{wedding.celebrant}} </li>
 	                    {% endif %}
@@ -96,7 +96,7 @@ layout: default
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
                 	{% for prayer in site.data.prayer_meetings %}
-                		{% if prayer.year == page.year and if prayer.month == page.month %}
+                		{% if prayer.year == page.year and prayer.month == page.month %}
                 			<li> {{prayer.month}} {{page.month}}
 	                    	<li>{{prayer.date}} <i class="fa fa-check"></i> {{prayer.service}} <i class="fa fa-check"></i> {{prayer.celebrant}} </li>
 	                    {% endif %}
@@ -113,7 +113,7 @@ layout: default
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
                 	{% for bibstudy in site.data.bible_studies %}
-                		{% if bibstudy.year == page.year and if bibstudy.month == page.month %}
+                		{% if bibstudy.year == page.year and bibstudy.month == page.month %}
                 			<li> {{bibstudy.month}} {{page.month}}
 	                    	<li>{{bibstudy.date}} <i class="fa fa-check"></i> {{bibstudy.service}} <i class="fa fa-check"></i> {{bibstudy.celebrant}} </li>
 	                    {% endif %}
@@ -128,7 +128,7 @@ layout: default
                 </div><!--plan title-->
                 <ul class="plan-features list-unstyled text-center">
                 	{% for misc in site.data.misc %}
-                		{% if misc.year == page.year and if misc.month == page.month %}
+                		{% if misc.year == page.year and misc.month == page.month %}
                 			<li> {{misc.month}} {{page.month}}
 	                    	<li>{{misc.date}} <i class="fa fa-check"></i> {{misc.service}} <i class="fa fa-check"></i> {{misc.celebrant}} </li>
 	                    {% endif %}
