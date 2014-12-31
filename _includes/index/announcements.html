@@ -6,7 +6,7 @@
         <span class="icon"><i class="fa fa-calendar"></i></span> 
       </div><!--center heading-->
     </div>
-    {% for post in site.posts %}
+    {% for post in site.posts limit:5 %}
     {{ post.categories }}
     {% if post.categories contains 'generic' %}
     <div class="divided-50"></div>
