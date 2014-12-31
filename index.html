@@ -58,25 +58,15 @@ layout: default
         </div><!--blog desc-->
 
       </div><!--blog post col end-->
-
-<!-- 
-      <ul class="post-list">
-        {% for post in site.posts %}
-          <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-            <h2>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </h2>
-          </li>
-        {% endfor %}
-      </ul>
-
-      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
     </div>
     {% endif %}
     {% endfor %}  
   </section> <!--End News Section  -->
+  <div class="cta-2">
+    <div class="container text-center">
+        <a href="blog.html" class="btn btn-border-white btn-lg wow animated bounceInDown"  data-wow-duration="700ms" data-wow-delay="100ms">Read all Announcements</a>
+    </div>
+  </div><!--cta 2-->
   <section id="offbearers" class="section-padding">
     <div class="container">
       <div class="row">
