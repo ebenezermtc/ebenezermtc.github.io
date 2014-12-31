@@ -1,9 +1,13 @@
 <div class="col-sm-3 officer">
 	<div class="team-col wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
-		<img src="img/{{ officer.image_url }}" alt="{{ officer.name }}">
+		<img src="img/{{ officer.image_url }}" alt="{{ officer.name }}" />
 		<h4>{{ officer.name }}</h4>
-		<span>{{ officer.title }}</span> <br/>
-		{% if officer.phone %}<span> P: {{ officer.phone }} </span> <br/>{% endif %}
-		{% if officer.email %}<span> E: <a href="mailto:{{ officer.email }}">{{ officer.email}}</a></span> {% endif %}
+		<p>{{ officer.title }}</p>
+		{% if officer.phone %}
+			<p> P: {{ officer.phone }}</p>
+		{% endif %}
+		{% if officer.email %}
+			<p> E: <a href="mailto:{{ officer.email }}">{{ officer.email }}</a></p>
+		{% endif %}
 	</div>
 </div>
