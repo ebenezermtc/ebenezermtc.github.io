@@ -5,7 +5,8 @@ permalink: /nls/
 ---
 {% for post in site.posts %}
 	{% if post.categories == 'newsletter' %}
-		{{post}}
+		<p> in if statement! </p>
+		{{site.posts[post]}}
 	{% endif %}
 
 {% endfor %}
