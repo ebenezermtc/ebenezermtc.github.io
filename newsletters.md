@@ -4,7 +4,7 @@ title: Newsletters
 permalink: /nls/
 ---
 {% for post in site.posts %}
-	{% if post.categories == 'newsletter'}
+	{% if post.categories == 'newsletter' %}
 		{{post}}
 	{% endif %}
 
