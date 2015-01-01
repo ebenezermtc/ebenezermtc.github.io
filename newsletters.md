@@ -3,9 +3,11 @@ layout: page
 title: Newsletters
 permalink: /nls/
 ---
+
 {% for post in site.posts %}
 	<p>in for loop! </p>
 	{{post.title}}
+	{{post.categories}}
 	{% if post.categories == 'newsletter' %}
 		<p> in if statement! </p>
 		{{post.title}}
