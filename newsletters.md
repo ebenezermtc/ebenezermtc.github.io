@@ -8,7 +8,7 @@ permalink: /nls/
 	<p>in for loop! </p>
 	{{post.title}}
 	{{post.categories}}
-	{% if post.categories == "newsletter" %}
+	{% if {{post.categories}} == "newsletter" %}
 		<p> in if statement! </p>
 		{{post.title}}
 	{% endif %}
