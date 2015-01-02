@@ -1,0 +1,28 @@
+---
+layout: newsletter
+title: Newsletters
+permalink: /newsletter/
+---
+
+{% for post in site.posts %}
+	{% if post.categories contains 'newsletter' %}
+		    {% include newsletter/top-banner.html %}
+		    <div class="row">
+		    	{% include newsletter/worship-service.html %}
+		    	{% include newsletter/lectionary.html %}
+		    </div>
+		    <div class="row">
+		        {% include newsletter/birthdays.html %}
+		        {% include newsletter/wedding-anniversary.html %}
+		        {% include newsletter/prayer-meeting.html %}
+		    </div> 
+		    <div class="row">
+	    		{% include newsletter/bible-study.html %}
+	    		{% include newsletter/misc.html %}
+		    </div>         
+		</div>
+	{% endif %}
+
+{% endfor %}
+<!--back to top end-->
+{% include javascript_clusterfuck.html %}

@@ -1,0 +1,12 @@
+<div class="col-md-6 margin-btm-30">
+    <div class="plan-wrap popular wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="500ms">
+        <div class="price-title center-heading">
+            <h4>Lectionary</h4>
+        </div><!--plan title-->
+        <ul class="plan-features list-unstyled text-center">
+        	{% for lect in site.data.lectionaries %}
+                	<li>{{lect.date}} <i class="fa fa-check"></i> {{lect.service}} <i class="fa fa-check"></i> {{lect.celebrant}} </li>
+            {% endfor %}
+        </ul><!--LECTIONARY LIST-->
+    </div><!--plan wrap-->
+</div><!--plan col-->

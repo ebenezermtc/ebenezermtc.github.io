@@ -1,0 +1,11 @@
+<div class="plan-wrap wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="400ms">
+    <div class="price-title center-heading">
+        <h4>Worship Schedule</h4>
+    </div><!--plan title-->
+    <ul class="plan-features list-unstyled text-center">
+    	{% for wservice in site.data.worship_services %}
+            	<li>{{wservice.date}} <i class="fa fa-check"></i> {{wservice.service}} <i class="fa fa-check"></i> {{wservice.celebrant}} </li>
+        {% endfor %}
+    </ul><!--WORSHIP SERVICES LIST-->
+</div><!--plan wrap-->
+</div><!--plan col-->

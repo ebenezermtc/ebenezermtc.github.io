@@ -1,0 +1,12 @@
+<div class="col-md-6 margin-btm-30">
+    <div class="plan-wrap wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="400ms">
+        <div class="price-title center-heading">
+            <h4>Birthdays</h4>
+        </div><!--plan title-->
+        <ul class="plan-features list-unstyled text-center">
+        	{% for bday in site.data.birthdays %}
+                	<li>{{bday.date}} <i class="fa fa-check"></i> {{bday.service}} <i class="fa fa-check"></i> {{bday.celebrant}} </li>
+            {% endfor %}
+        </ul><!--BIRTHDAYS LIST-->
+    </div><!--plan wrap-->
+</div><!--plan col-->

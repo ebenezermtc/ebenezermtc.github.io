@@ -1,0 +1,12 @@
+<div class="col-md-12 margin-btm-30">
+    <div class="plan-wrap wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="600ms">
+        <div class="price-title center-heading">
+            <h4>Prayer Meetings</h4>
+        </div><!--plan title-->
+        <ul class="plan-features list-unstyled text-center">
+        	{% for prayer in site.data.prayer_meetings %}
+                	<li>{{prayer.date}} <i class="fa fa-check"></i> {{prayer.service}} <i class="fa fa-check"></i> {{prayer.celebrant}} </li>
+            {% endfor %}
+        </ul><!--PRAYER MEETING LIST-->
+    </div><!--plan wrap-->
+</div><!--plan col-->

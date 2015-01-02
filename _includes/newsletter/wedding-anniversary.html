@@ -1,0 +1,12 @@
+<div class="col-md-6 margin-btm-30">
+    <div class="plan-wrap popular wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="500ms">
+        <div class="price-title center-heading">
+            <h4>Wedding Anniversaries</h4>
+        </div><!--plan title-->
+        <ul class="plan-features list-unstyled text-center">
+        	{% for wedding in site.data.wedding_anniversaries %}
+                	<li>{{wedding.date}} <i class="fa fa-check"></i> {{wedding.service}} <i class="fa fa-check"></i> {{wedding.celebrant}} </li>
+            {% endfor %}
+        </ul><!--WEDDING ANNIVERSARY LIST-->
+    </div><!--plan wrap-->
+</div><!--plan col-->
