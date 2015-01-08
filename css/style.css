@@ -490,3 +490,20 @@ h2.slide-btm-text{
 .banner-top {
     padding-top: 6em;
 }
+table.nl{
+    padding-bottom: 30px;
+}
+th.nl, td.nl {
+    text-align: left;
+}
+
+td.nl {
+    padding: 15px, 15px, 5px, 15px;
+    height: 15px;
+}
+th.nl {
+    padding-left: 5px;
+    border: 1px;
+    border-collapse: collapse;
+    border-style: none none solid none;
+}

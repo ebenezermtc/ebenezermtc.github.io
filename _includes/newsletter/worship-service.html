@@ -2,17 +2,17 @@
     <div class="price-title center-heading">
         <h4>Worship Schedule</h4>
     </div><!--plan title-->
-    <table>
-    	<tr>
-    		<td> Date</td>
-    		<td> Service </td>
-    		<td> Celebrant/Speaker </td>
+    <table class="nl">
+    	<tr class="nl">
+    		<th class="nl"> Date</th>
+    		<th class="nl"> Service </th>
+    		<th class="nl"> Celebrant/Speaker </th>
     	</tr>
     	{% for wservice in site.data.worship_services %}
     	<tr>
-    		<td> {{wservice.date}} </td>
-    		<td> {{wservice.service}} </td>
-    		<td> {{wservice.celebrant}} </td>
+    		<td class="nl"> {{wservice.date}} </td>
+    		<td class="nl"> {{wservice.service}} </td>
+    		<td class="nl"> {{wservice.celebrant}} </td>
     	</tr>
     	{% endfor %}
     </table>
