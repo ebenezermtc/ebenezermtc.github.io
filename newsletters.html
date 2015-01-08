@@ -17,7 +17,7 @@ permalink: /newsletter/
 		        {% include newsletter/bible-study.html %}
 	    		{% include newsletter/misc.html %}
 		    </div>
-		    {{site.time}}
+		    {{ site.time | date_to_string }}
 	{% endif %}
 
 {% endfor %}
