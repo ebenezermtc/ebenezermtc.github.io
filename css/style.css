@@ -492,6 +492,7 @@ h2.slide-btm-text{
 }
 table.nl{
     margin-bottom: 50px;
+    width: 100%;
 }
 th.nl, td.nl {
     text-align: left;
