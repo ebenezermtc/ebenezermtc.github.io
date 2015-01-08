@@ -1,12 +1,26 @@
-<div class="col-md-6 margin-btm-30">
-    <div class="plan-wrap popular wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="500ms">
-        <div class="price-title center-heading">
-            <h4>Lectionary</h4>
-        </div><!--plan title-->
-        <ul class="plan-features list-unstyled text-center">
-        	{% for lect in site.data.lectionaries %}
-                	<li>{{lect.date}} <i class="fa fa-check"></i> {{lect.service}} <i class="fa fa-check"></i> {{lect.celebrant}} </li>
-            {% endfor %}
-        </ul><!--LECTIONARY LIST-->
-    </div><!--plan wrap-->
-</div><!--plan col-->
+<div class="plan-wrap wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="400ms">
+    <div class="price-title center-heading">
+        <h4>Lectionary</h4>
+    </div><!--plan title-->
+    <table>
+        <tr>
+            <td> Date</td>
+            <td> Title </td>
+            <td> Lesson 1 </td>
+            <td> Lesson 2 </td>
+            <td> Epistle </td>
+            <td> Gospel </td>
+        </tr>
+        {% for lect in site.data.lectionaries %}
+        <tr>
+            <td> {{lect.date}} </td>
+            <td> {{lect.title}} </td>
+            <td> {{lect.lesson1}} </td>
+            <td> {{lect.lesson2}} </td>
+            <td> {{lect.epistle}} </td>
+            <td> {{lect.gospel}}  </td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+<!--LECTIONARY LIST-->

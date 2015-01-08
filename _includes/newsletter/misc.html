@@ -1,12 +1,22 @@
-<div class="col-md-6 margin-btm-30">
-    <div class="plan-wrap popular wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="500ms">
-        <div class="price-title center-heading">
-            <h4>Misc</h4>
-        </div><!--plan title-->
-        <ul class="plan-features list-unstyled text-center">
-        	{% for misc in site.data.misc %}
-                	<li>{{misc.date}} <i class="fa fa-check"></i> {{misc.service}} <i class="fa fa-check"></i> {{misc.celebrant}} </li>
-            {% endfor %}
-        </ul><!--MISC LIST-->            
-    </div><!--plan wrap-->
-</div><!--plan col-->
+<div class="plan-wrap wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="400ms">
+    <div class="price-title center-heading">
+        <h4>Misc</h4>
+    </div><!--plan title-->
+    <table>
+        <tr>
+            <td> Date </td>
+            <td> Time </td>
+            <td> Program </td>
+            <td> Info </td>
+        </tr>
+        {% for misc in site.data.misc %}
+        <tr>
+            <td> {{misc.date}} </td>
+            <td> {{misc.time}} </td>  
+            <td> {{misc.program}} </td> 
+            <td> {{misc.info}} </td>            
+        </tr>
+        {% endfor %}
+    </table>
+<!--MISC LIST-->
+</div>

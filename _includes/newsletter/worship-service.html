@@ -2,10 +2,19 @@
     <div class="price-title center-heading">
         <h4>Worship Schedule</h4>
     </div><!--plan title-->
-    <ul class="plan-features list-unstyled text-center">
+    <table>
+    	<tr>
+    		<td> Date</td>
+    		<td> Service </td>
+    		<td> Celebrant/Speaker </td>
+    	</tr>
     	{% for wservice in site.data.worship_services %}
-            	<li>{{wservice.date}} <i class="fa fa-check"></i> {{wservice.service}} <i class="fa fa-check"></i> {{wservice.celebrant}} </li>
-        {% endfor %}
-    </ul><!--WORSHIP SERVICES LIST-->
-</div><!--plan wrap-->
+    	<tr>
+    		<td> {{wservice.date}} </td>
+    		<td> {{wservice.service}} </td>
+    		<td> {{wservice.celebrant}} </td>
+    	</tr>
+    	{% endfor %}
+    </table>
+<!--WORSHIP SERVICES LIST-->
 </div><!--plan col-->
