@@ -498,7 +498,7 @@ th.nl, td.nl {
 }
 
 td.nl {
-    padding: 15px, 15px, 5px, 15px;
+    padding: 15px 15px 15px 5px;
     height: 15px;
 }
 th.nl {
