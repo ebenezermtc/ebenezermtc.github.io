@@ -2,15 +2,15 @@
     <div class="price-title center-heading">
         <h4>Birthdays</h4>
     </div><!--plan title-->
-    <table>
-        <tr>
-            <td> Name </td>
-            <td> Date</td>
+    <table class="nl">
+        <tr class="nl">
+            <th class="nl"> Name </th>
+            <th class="nl"> Date</th>
         </tr>
         {% for bday in site.data.birthdays %}
-        <tr>
-            <td> {{bday.name}} </td>
-            <td> {{bday.date}} </td>            
+        <tr class="nl">
+            <td class="nl"> {{bday.name}} </td>
+            <td class="nl"> {{bday.date}} </td>            
         </tr>
         {% endfor %}
     </table>

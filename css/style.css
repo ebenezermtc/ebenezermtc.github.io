@@ -491,7 +491,7 @@ h2.slide-btm-text{
     padding-top: 6em;
 }
 table.nl{
-    padding-bottom: 30px;
+    margin-bottom: 50px;
 }
 th.nl, td.nl {
     text-align: left;
@@ -499,7 +499,7 @@ th.nl, td.nl {
 
 td.nl {
     padding: 15px 15px 15px 5px;
-    height: 15px;
+    height: 10px;
 }
 th.nl {
     padding-left: 5px;

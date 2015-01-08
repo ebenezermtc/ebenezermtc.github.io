@@ -2,15 +2,15 @@
     <div class="price-title center-heading">
         <h4>Prayer Meetings</h4>
     </div><!--plan title-->
-    <table>
-        <tr>
-            <td> Date </td>
-            <td> Venue </td>
+    <table class="nl">
+        <tr class="nl">
+            <th class="nl"> Date </th>
+            <th class="nl"> Venue </th>
         </tr>
         {% for prayer in site.data.prayer_meetings %}
-        <tr>
-            <td> {{prayer.date}} </td>
-            <td> {{prayer.venue}} </td>            
+        <tr class="nl">
+            <td class="nl"> {{prayer.date}} </td>
+            <td class="nl"> {{prayer.venue}} </td>            
         </tr>
         {% endfor %}
     </table>

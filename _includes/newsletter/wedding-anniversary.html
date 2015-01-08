@@ -2,15 +2,15 @@
     <div class="price-title center-heading">
         <h4>Wedding Anniversaries</h4>
     </div><!--plan title-->
-    <table>
-        <tr>
-            <td> Name </td>
-            <td> Date</td>
+    <table class="nl">
+        <tr class="nl">
+            <th class="nl"> Name </th>
+            <th class="nl"> Date</th>
         </tr>
         {% for wedding in site.data.wedding_anniversaries %}
-        <tr>
-            <td> {{wedding.name}} </td>
-            <td> {{wedding.date}} </td>            
+        <tr class="nl">
+            <td class="nl"> {{wedding.name}} </td>
+            <td class="nl"> {{wedding.date}} </td>            
         </tr>
         {% endfor %}
     </table>

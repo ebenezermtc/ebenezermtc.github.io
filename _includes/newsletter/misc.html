@@ -2,19 +2,19 @@
     <div class="price-title center-heading">
         <h4>Misc</h4>
     </div><!--plan title-->
-    <table>
-        <tr>
-            <td> Date </td>
-            <td> Time </td>
-            <td> Program </td>
-            <td> Info </td>
+    <table class="nl">
+        <tr class="nl">
+            <th class="nl"> Date </th>
+            <th class="nl"> Time </th>
+            <th class="nl"> Program </th>
+            <th class="nl"> Info </th>
         </tr>
         {% for misc in site.data.misc %}
-        <tr>
-            <td> {{misc.date}} </td>
-            <td> {{misc.time}} </td>  
-            <td> {{misc.program}} </td> 
-            <td> {{misc.info}} </td>            
+        <tr class="nl">
+            <td class="nl"> {{misc.date}} </td>
+            <td class="nl"> {{misc.time}} </td>  
+            <td class="nl"> {{misc.program}} </td> 
+            <td class="nl"> {{misc.info}} </td>            
         </tr>
         {% endfor %}
     </table>

@@ -2,17 +2,17 @@
     <div class="price-title center-heading">
         <h4>Bible Study</h4>
     </div><!--plan title-->
-    <table>
-        <tr>
-            <td> Date </td>
-            <td> Venue </td>
-            <td> Leader </td>
+    <table class="nl">
+        <tr class="nl">
+            <th class="nl"> Date </th>
+            <th class="nl"> Venue </th>
+            <th class="nl"> Leader </th>
         </tr>
         {% for bibstudy in site.data.bible_studies %}
-        <tr>
-            <td> {{bibstudy.date}} </td>
-            <td> {{bibstudy.venue}} </td>  
-            <td> {{bibstudy.leader}} </td>          
+        <tr class="nl">
+            <td class="nl"> {{bibstudy.date}} </td>
+            <td class="nl"> {{bibstudy.venue}} </td>  
+            <td class="nl"> {{bibstudy.leader}} </td>          
         </tr>
         {% endfor %}
     </table>
