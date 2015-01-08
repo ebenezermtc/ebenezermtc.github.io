@@ -6,6 +6,7 @@ permalink: /newsletter/
 
 {% for post in site.posts %}
 	{% if post.categories contains 'newsletter' %}
+
 		    {% include newsletter/top-banner.html %}
 		    <div class="row">
 		    	{% include newsletter/worship-service.html %}
@@ -15,8 +16,8 @@ permalink: /newsletter/
 		        {% include newsletter/prayer-meeting.html %}
 		        {% include newsletter/bible-study.html %}
 	    		{% include newsletter/misc.html %}
-		    </div>        
-		</div>
+		    </div>
+		    {{site.time}}
 	{% endif %}
 
 {% endfor %}
