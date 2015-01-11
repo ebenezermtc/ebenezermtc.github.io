@@ -4,12 +4,12 @@
     </div><!--plan title-->
     <table class="nl">
         <tr class="nl">
-            <th class="nl"> Name </th>
+            <th class="nl"> Family </th>
             <th class="nl"> Date</th>
         </tr>
         {% for wedding in site.data.wedding_anniversaries %}
         <tr class="nl">
-            <td class="nl"> {{wedding.name}} </td>
+            <td class="nl"> {{wedding.couple}} </td>
             <td class="nl"> {{wedding.date}} </td>            
         </tr>
         {% endfor %}
