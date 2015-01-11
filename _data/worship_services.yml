@@ -6,13 +6,19 @@
     celebrant: Rev Abraham Oommen
 
   - year: 2015
-    month: February
-    date: 2015-02-01
-    service: Malayalam Holy Communion
+    month: January
+    date: 2015-01-11
+    service: Malayalam Divine Service
+    celebrant: 
+
+  - year: 2015
+    month: January
+    date: 2015-01-18
+    service: English Holy Communion
     celebrant: Rev Abraham Oommen
 
-  - year: 2016
-    month: February
-    date: 2016-02-02
-    service: Malayalam Holy Communion
-    celebrant: Rev Abraham Oommen
+  - year: 2015
+    month: January
+    date: 2015-01-25
+    service: English Divine Service
+    celebrant:     
