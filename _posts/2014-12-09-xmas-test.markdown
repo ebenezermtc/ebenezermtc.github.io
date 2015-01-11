@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Christmas Test Post"
-date:   2014-12-5 21:56:13
-categories: 
-  - general
----
-This is a test post
