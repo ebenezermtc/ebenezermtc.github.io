@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PURITY OF VISION- PLAN OF MISSION"
+title:  "Purity of Vision- Plan of Mission"
 date:   2015-02-01
 categories: 
   - vicar
@@ -14,6 +14,6 @@ The church is called to be the house of the Father, with doors always wide open.
 
 We need to distinguish clearly what might be a fruit of the kingdom from what runs counter to God's plan. This involves not only recognition and discerning spirits, but also and this is decisive- choosing - movements of the spirit of God and rejecting those of the spirit of evil.
 
-                                                                                                     MAY GOD BLESS YOU ALL
-                                                                                                      Sujan Achen
+MAY GOD BLESS YOU ALL,
+  Sujan Achen
 

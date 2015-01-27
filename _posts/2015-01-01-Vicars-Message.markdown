@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trust God Who is Faithful, Whose Ways are Just"
-date:   2015-01-05
+date:   2015-01-01
 categories: 
   - vicar
 ---
