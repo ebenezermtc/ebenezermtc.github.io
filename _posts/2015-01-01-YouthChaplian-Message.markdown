@@ -3,7 +3,7 @@ layout: post
 title:  "New Year Decisions"
 date:   2015-01-05
 categories: 
-  - general
+  - youthchap
 ---
 I read this illustration recently. A gentleman moved into a retirement community to spend the rest of his life there.  It wasn’t long until he had made a number of friends among the other residents. There was one lady he was especially attracted to, & she was attracted to him, also. So they spent a lot of time together. Finally one evening he proposed, asking her to marry him. The next morning he woke up remembering his proposal, but he couldn’t remember her answer. So he went to her & said, "I’m really embarrassed. I proposed to you last night but I can’t remember if you said 'Yes' or 'No." "Oh, thank goodness!" she replied. "I remembered saying `Yes’ but I couldn’t remember who asked me." Sometimes I feel that way about New Year’s resolutions.
 
