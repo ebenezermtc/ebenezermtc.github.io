@@ -3,7 +3,7 @@ layout: post
 title:  "Trust God Who is Faithful, Whose Ways are Just"
 date:   2015-01-05
 categories: 
-  - general
+  - vicar
 ---
 Dearly Beloved In Christ,
 
