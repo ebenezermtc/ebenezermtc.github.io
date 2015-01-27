@@ -1,0 +1,28 @@
+<section id="announcements" class="banner-top">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 center-heading text-center">
+        <h2 class=" wow animated bounceIn"  data-wow-duration="700ms" data-wow-delay="100ms">Vicar's Message</h2>
+        <span class="icon"><i class="fa fa-newspaper-o"></i></span> 
+      </div><!--center heading-->
+    </div>
+    {% for post in site.posts limit:3 %}
+    {% if post.categories contains 'vicar' %}
+    <div class="divided-50"></div>
+    <div class="row">
+      <div class="col-sm-10 margin-btm-30 wow animated fadeInUp blog-desc"  data-wow-duration="700ms" data-wow-delay="100ms">
+        <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <span>{{ post.date | date: "%b %-d, %Y" }} {{post.categories}} </span>
+        <p>
+          {{ post.content }}
+        </p>
+        <p class="text-right">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-dark btn-xs">
+            Read More
+          </a>
+        </p>
+      </div><!--blog desc-->
+  </div>
+  {% endif %}
+  {% endfor %}  
+</section> <!--End News Section  -->
