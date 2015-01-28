@@ -6,6 +6,7 @@
         <span class="icon"><i class="fa fa-newspaper-o"></i></span> 
       </div><!--center heading-->
     </div>
+    {% assign vicar_posts = 0 %}
     {% for post in site.posts %}
       {% if post.categories contains 'vicar' %}
         {% vicar_posts += post %}
