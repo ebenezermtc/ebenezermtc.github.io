@@ -6,7 +6,7 @@ categories:
   - youthchap
 ---
 
-*...........and there shall be one flock and one shepherd.* **(John. 10:16)**
+*...and there shall be one flock and one shepherd.* **(John. 10:16)**
 
 One of the great visions that Jesus wanted to explain to His disciples is one Lord and one sheep. The oneness of Christians amidst of the diversities is the Lordship of Jesus. But many a time it became a force of division among Christians in the history. Even this was evident in the first century church where Paul asked the question ‘is Christ divided?’. When he was writing to the Ephesians Pau clearly explained what is the unity of Christians , “There is one body and one Spirit, just as you were called to one hope when you were called; one Lord, one faith, one baptism; one God and Father of all, who is over all and through all and in all”. (Eph. 4. 4,5) But most of the oneness that Paul is trying to emphasise in these verses became forces of division in the church.
 
