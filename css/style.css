@@ -511,21 +511,24 @@ h2.slide-btm-text{
     transition: top 0.15s linear;
 }
 
-table.nl {
+table.nl, table.lect {
     margin-bottom: 50px;
     width: 100%;
 }
-th.nl, td.nl{
+th.nl, td.nl, th.lect, td.lect{
     text-align: left;
 
 }
-td.nl {
+td.nl, td.lect {
     padding: 15px 15px 15px 5px;
     height: 15px;
 }
-th.nl {
+th.nl, th.lect {
     padding-left: 5px;
     border: 1px;
     border-collapse: collapse;
     border-style: none none solid none;
+}
+td.lect col:nth-child(2){
+    width: 25%;
 }

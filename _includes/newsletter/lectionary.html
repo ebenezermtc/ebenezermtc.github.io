@@ -2,23 +2,23 @@
     <div class="price-title center-heading">
         <h4>Lectionary</h4>
     </div><!--plan title-->
-    <table class="nl">
-        <tr class="nl">
-            <th class="nl"> Date</th>
-            <th class="nl"> Title </th>
-            <th class="nl"> Lesson 1 </th>
-            <th class="nl"> Lesson 2 </th>
-            <th class="nl"> Epistle </th>
-            <th class="nl"> Gospel </th>
+    <table class="lect">
+        <tr class="lect">
+            <th class="lect"> Date</th>
+            <th class="lect"> Title </th>
+            <th class="lect"> Lesson 1 </th>
+            <th class="lect"> Lesson 2 </th>
+            <th class="lect"> Epistle </th>
+            <th class="lect"> Gospel </th>
         </tr>
         {% for lect in site.data.lectionaries %}
-        <tr class="nl">
-            <td class="nl"> {{lect.date}} </td>
-            <td class="nl"> {{lect.title}} </td>
-            <td class="nl"> {{lect.lesson1}} </td>
-            <td class="nl"> {{lect.lesson2}} </td>
-            <td class="nl"> {{lect.epistle}} </td>
-            <td class="nl"> {{lect.gospel}}  </td>
+        <tr class="lect">
+            <td class="lect"> {{lect.date}} </td>
+            <td class="lect"> {{lect.title}} </td>
+            <td class="lect"> {{lect.lesson1}} </td>
+            <td class="lect"> {{lect.lesson2}} </td>
+            <td class="lect"> {{lect.epistle}} </td>
+            <td class="lect"> {{lect.gospel}}  </td>
         </tr>
         {% endfor %}
     </table>
