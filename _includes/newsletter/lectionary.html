@@ -3,18 +3,18 @@
         <h4>Lectionary</h4>
     </div><!--plan title-->
     <table class="lect">
-        <tr class="lect">
-            <th class="lect"> Date</th>
-            <th class="lect"> Title </th>
+        <tr>
+            <th class="lect_date"> Date</th>
+            <th class="lect_title"> Title </th>
             <th class="lect"> Lesson 1 </th>
             <th class="lect"> Lesson 2 </th>
             <th class="lect"> Epistle </th>
             <th class="lect"> Gospel </th>
         </tr>
         {% for lect in site.data.lectionaries %}
-        <tr class="lect">
-            <td class="lect"> {{lect.date}} </td>
-            <td class="lect"> {{lect.title}} </td>
+        <tr>
+            <td class="lect_date"> {{lect.date}} </td>
+            <td class="lect_title"> {{lect.title}} </td>
             <td class="lect"> {{lect.lesson1}} </td>
             <td class="lect"> {{lect.lesson2}} </td>
             <td class="lect"> {{lect.epistle}} </td>

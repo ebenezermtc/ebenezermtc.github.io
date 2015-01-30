@@ -529,6 +529,6 @@ th.nl, th.lect {
     border-collapse: collapse;
     border-style: none none solid none;
 }
-td.lect col:nth-child(2){
+td.lect_title{
     width: 25%;
 }
