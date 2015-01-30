@@ -13,7 +13,7 @@
         </tr>
         {% for lect in site.data.lectionaries %}
         <tr>
-            <td class="lect_date"> {{lect.date}} </td>
+            <td class="lect_date"> {{lect.date | date: "%b %d"}} </td>
             <td class="lect_title"> {{lect.title}} </td>
             <td class="lect"> {{lect.lesson1}} </td>
             <td class="lect"> {{lect.lesson2}} </td>
