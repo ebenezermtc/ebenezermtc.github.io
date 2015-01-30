@@ -523,7 +523,7 @@ td.nl, td.lect {
     padding: 15px 15px 15px 5px;
     height: 15px;
 }
-th.nl, th.lect {
+th.nl, th.lect, th.lect_title, th.lect_date {
     padding-left: 5px;
     border: 1px;
     border-collapse: collapse;
