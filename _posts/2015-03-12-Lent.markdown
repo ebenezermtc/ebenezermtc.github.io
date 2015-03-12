@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Lent Prayer Schedule"
+date:   2015-03-12 
+categories: 
+  - general
+---
+Please see the [Newsletter section]({{site.url}}/newsletter) for dates and time for Sandhya Namaskaram this month.
