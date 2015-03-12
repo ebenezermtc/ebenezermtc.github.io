@@ -5,4 +5,4 @@ date:   2015-03-12
 categories: 
   - general
 ---
-Please see the [Newsletter section]({{site.url}}/newsletter) for dates and time for Sandhya Namaskaram this month.
+Please see the [Newsletter section](http://ebenezermarthomachurch.org/newsletter) for dates and time for Sandhya Namaskaram this month.
