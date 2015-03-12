@@ -11,7 +11,7 @@
         </tr>
         {% for misc in site.data.misc %}
         <tr class="nl">
-            <td class="nl"> {{misc.date}} </td>
+            <td class="nl"> {{misc.date | date: "%b %d"}} </td>
             <td class="nl"> {{misc.time}} </td>  
             <td class="nl"> {{misc.program}} </td> 
             <td class="nl"> {{misc.info}} </td>            
