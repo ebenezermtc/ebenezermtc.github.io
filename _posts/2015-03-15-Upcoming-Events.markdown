@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Upcoming Events for Spring 2015"
-date:   2015-03-12 
+date:   2015-03-15 
 categories: 
   - general
 ---
