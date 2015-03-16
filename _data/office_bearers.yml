@@ -14,13 +14,13 @@
   - name: John Samuel
     title: Secretary
     image_path: user_blank.png
-    phone: 914-555-5555
+    phone: 
     email: 
   
   - name: Jacob Varghese
     title: Trustee
     image_path: user_blank.png
-    phone: 914-555-5555
+    phone: 
     email: 
 
   - name: Eapen Joseph
@@ -44,7 +44,7 @@
   - name: Dr. Minnie John
     title: Sunday School Superintendent
     image_path: user_blank.png
-    phone: 914-555-5555
+    phone: 
     email:   
 
   - name: M.J.Varkey
@@ -56,19 +56,19 @@
   - name: Aleyamma John
     title: Sevika Sangham Representative
     image_path: user_blank.png
-    phone: 914-555-5555
+    phone: 
     email: 
 
-  - name: TBD
+  - name: Anish George
     title: Yuvajana Sakhyam Secretary
     image_path: user_blank.png
-    phone: 914-555-5555
+    phone: 
     email: 
 
-  - name: TBD
+  - name: Feby Varghese
     title: Choir Leader
     image_path: user_blank.png
-    phone: 914-555-5555
+    phone: 
     email: 
 
   - name: Jason John
@@ -92,5 +92,5 @@
   - name: Jose Cherian
     title: Executive Committee Member
     image_path: user_blank.png
-    phone: 914-555-5555
+    phone: 
     email: 
