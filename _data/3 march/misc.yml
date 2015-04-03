@@ -1,7 +1,56 @@
 ---
-  - year:
-    month: 
-    date:
-    time:
-    program_name:
-    info:
+  - year: 2015
+    month: March
+    date: 2015-03-16
+    time: 7 PM
+    program_name: Sandhya Namaskaram
+    info: 
+
+  - year: 2015
+    month: March
+    date: 2015-03-19
+    time: 7 PM
+    program_name: Sandhya Namaskaram
+    info: Will be held at Ebenezer Mar Thoma Church
+
+  - year: 2015
+    month: March
+    date: 2015-03-21
+    time: 9.30 AM
+    program_name: Voluntary Evangelist's Association Meeting
+    info: St Thomas Mar Thoma Church
+
+  - year: 2015
+    month: March
+    date: 2015-03-23
+    time: 7 PM
+    program_name: Sandhya Namaskaram
+    info: 
+
+  - year: 2015
+    month: March
+    date: 2015-03-25
+    time: 7 PM
+    program_name: Sandhya Namaskaram
+    info: Will be held at residence of Jacob Abraham
+
+  - year: 2015
+    month: March
+    date: 2015-03-26
+    time: 7 PM
+    program_name: Sandhya Namaskaram
+    info: Will be held at residence of Jacob Varghese
+
+  - year: 2015
+    month: March
+    date: 2015-03-28
+    time: 10 AM - 1 PM
+    program_name: World Day of Prayer
+    info: Will be held at Ebenezer MTC
+
+  - year: 2015
+    month: March
+    date: 2015-03-31
+    time: 7 PM
+    program_name: Holy Communion
+    info: Diocesan Bishop will be celebrating
