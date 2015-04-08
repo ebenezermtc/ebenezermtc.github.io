@@ -32,8 +32,8 @@ Lovingly,
 Sujan Achen
 
 
-**_Please note my new contact information:_**
-Naranganam St Thomas Mar Thoma Church, Naranganam 
-P.O Kozhencherry, Pathanamthitta  689642
-Phone#  04682216202   
+**_Please note my new contact information:_**  
+Naranganam St Thomas Mar Thoma Church, Naranganam  
+P.O Kozhencherry, Pathanamthitta  689642  
+Phone#  04682216202  
 Serene# 9446677824 
