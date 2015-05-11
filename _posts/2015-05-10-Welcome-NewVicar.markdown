@@ -6,6 +6,8 @@ categories:
   - general
 ---
 ![Achen and Kochamma](http://ebenezermarthomachurch.org/assets/Achen_Wife_web.jpg)
+
+
 Rev.Sony Philip. Achen was born  in 1974 to Mr TP Philip and Mrs.Kunjamma Philip, Thadethel house, Ranni. He graduated with a degree in Botany from St Thomas college Ranni. He received his B.D from Gurukulam Semminary,Chennai in 2003. His mother parish is Tabor Mar Thoma Church, Vaakathanam, Edamon. He has served parishes in Kunnamkulam, Kannur, Kottarakara-Neeleswaram, Vaalakam and Chattisghatt. 
 
 
