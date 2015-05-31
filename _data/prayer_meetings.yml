@@ -1,7 +1,18 @@
 ---
-  - year: 2015
-    month: June
-    date: 2015-06-06
-    time: 7PM
+  - year: 
+    month: 
+    date: 
+    time:
     family:
+<<<<<<< HEAD
     venue: Residence of Mr & Mrs CS Chacko *2 Parkview Dr Bronxville, NY 10708* (leader- Rev Sony Philip)
+=======
+    venue: 
+
+  - year: 
+    month: 
+    date: 
+    time:
+    family:
+    venue: 
+>>>>>>> parent of 8194ffc... Newsletter for June (and some july)
