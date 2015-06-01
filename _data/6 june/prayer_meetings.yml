@@ -1,22 +1,7 @@
 ---
   - year: 2015
-<<<<<<< HEAD
     month: June
     date: 2015-06-06
-    time: 7 PM
+    time: 7PM
     family:
-    venue: Residence of Mr & Mrs CS Chacko *2 Parkview Dr Bronxville, NY 10708* (leader- Rev Sony Philip)
-=======
-    month: January
-    date: 2015-01-17
-    time:
-    family:
-    venue: Ebenezer Mar Thoma Church (406 King St Port Chester, NY)
-
-  - year: 2015
-    month: January
-    date: 2015-01-31
-    time:
-    family:
-    venue: Ebenezer Mar Thoma Church (406 King St Port Chester, NY)
->>>>>>> parent of 8194ffc... Newsletter for June (and some july)
+    venue: Residence of Mr & Mrs CS Chacko 2 Parkview Dr Bronxville, NY 10708 (leader- Rev Sony Philip)
