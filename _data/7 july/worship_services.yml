@@ -1,24 +1,24 @@
 ---
   - year: 2015
-    month: January
-    date: 2015-01-04
-    service: Malayalam Holy Communion
-    celebrant: Rev Abraham Oommen
-
-  - year: 2015
-    month: January
-    date: 2015-01-11
+    month: July
+    date: 2015-07-05
     service: Malayalam Divine Service
     celebrant: 
 
   - year: 2015
-    month: January
-    date: 2015-01-18
+    month: July
+    date: 2015-07-12
     service: English Holy Communion
-    celebrant: Rev Abraham Oommen
+    celebrant: Rev Sony Philip
 
   - year: 2015
-    month: January
-    date: 2015-01-25
-    service: English Divine Service
-    celebrant:     
+    month: July
+    date: 2015-07-19
+    service: Malayalam Holy Communion
+    celebrant: Rev Binoy Joseph
+
+  - year: 2015
+    month: July
+    date: 2015-07-26
+    service: Malayalam Holy Communion
+    celebrant: Rev TC Mammen     
