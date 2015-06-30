@@ -5,11 +5,15 @@
     <table class="nl">
         <tr class="nl">
             <th class="nl"> Date </th>
+            <th class="nl"> Time </th>
+            <th class="nl"> Family </th>
             <th class="nl"> Venue </th>
         </tr>
         {% for prayer in site.data.prayer_meetings %}
         <tr class="nl">
             <td class="nl"> {{prayer.date}} </td>
+            <td class="nl"> {{prayer.time}} </td>
+            <td class="nl"> {{prayer.family}} </td>
             <td class="nl"> {{prayer.venue}} </td>            
         </tr>
         {% endfor %}
