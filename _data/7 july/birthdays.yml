@@ -1,6 +1,11 @@
 ---
   - year: 2015
     month: July
+    date: 07/01
+    name: John Abraham
+
+  - year: 2015
+    month: July
     date: 07/02
     name: Alyssa Hope John
 
@@ -38,11 +43,6 @@
     month: July
     date: 07/17
     name: Gabriel John
-
-  - year: 2015
-    month: July
-    date: 07/21
-    name: Rev Abraham Oommen
 
   - year: 2015
     month: July

@@ -1,6 +1,11 @@
 ---
   - year: 2015
     month: July
+    date: 07/01
+    name: John Abraham
+
+  - year: 2015
+    month: July
     date: 07/02
     name: Alyssa Hope John
 
