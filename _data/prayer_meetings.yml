@@ -1,14 +1,10 @@
 ---
   - year: 2015
-    month: July
-    date: 2015-07-11
-    time: 7 PM
-    family: Ponnachen & Sally Mathai
-    venue: 1638 Lurting Ave, Bronx, NY 10461
-
-  - year: 2015
     month: August
     date: 2015-08-08
     time: 7 PM
-    family: Usha & Sunny George
-    venue: 2 Culver Dr, New City, NY 10956
+    family:
+    venue: Residence of Mr & Mrs Sunny George (2 Culver Dr, New City, NY 10956)
+
+
+  

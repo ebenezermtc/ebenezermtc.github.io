@@ -1,24 +1,29 @@
 ---
   - year: 2015
-    month: July
-    date: 2015-07-05
-    service: Malayalam Divine Service
-    celebrant: 
+    month: August
+    date: 2015-08-02
+    service: English  Divine Worship Service
+    celebrant:
 
   - year: 2015
-    month: July
-    date: 2015-07-12
-    service: English Holy Communion
-    celebrant: Rev Sony Philip
+    month: August
+    date: 2015-08-09
+    service: Malayalam Holy Communion Service
+    celebrant: Rev. Sony Philip
 
   - year: 2015
-    month: July
-    date: 2015-07-19
-    service: Malayalam Holy Communion
-    celebrant: Rev Binoy Joseph
+    month: August
+    date: 2015-08-16
+    service: English Holy Communion Service
+    celebrant: Rev. Binoy J. Thomas
 
   - year: 2015
-    month: July
-    date: 2015-07-26
-    service: Malayalam Holy Communion
-    celebrant: Rev TC Mammen     
+   month: August
+   date: 2015-08-23
+   service: Malayalam Divine Worship Service
+
+  - year: 2015
+    month: August
+    date: 2015-08-30
+    service: Malayalam Holy Communion Service
+    celebrant: Rev. T. C. Mammen
