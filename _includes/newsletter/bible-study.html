@@ -10,7 +10,7 @@
         </tr>
         {% for bibstudy in site.data.bible_studies %}
         <tr class="nl">
-            <td class="nl"> {{bibstudy.date}} </td>
+            <td class="nl"> {{bibstudy.date | date: "%b %d"}} </td>
             <td class="nl"> {{bibstudy.venue}} </td>  
             <td class="nl"> {{bibstudy.leader}} </td>          
         </tr>

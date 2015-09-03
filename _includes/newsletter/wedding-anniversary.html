@@ -10,7 +10,7 @@
         {% for wedding in site.data.wedding_anniversaries %}
         <tr class="nl">
             <td class="nl"> {{wedding.couple}} </td>
-            <td class="nl"> {{wedding.date}} </td>            
+            <td class="nl"> {{wedding.date | date: "%b %d"}} </td>            
         </tr>
         {% endfor %}
     </table>

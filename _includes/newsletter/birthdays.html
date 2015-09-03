@@ -10,7 +10,7 @@
         {% for bday in site.data.birthdays %}
         <tr class="nl">
             <td class="nl"> {{bday.name}} </td>
-            <td class="nl"> {{bday.date}} </td>            
+            <td class="nl"> {{bday.date | date: "%b %d"}} </td>            
         </tr>
         {% endfor %}
     </table>
