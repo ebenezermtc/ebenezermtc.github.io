@@ -7,3 +7,5 @@ categories:
 ---
 
 We'll be meeting at the church on **September 19th at 9:30 AM**. Free parking is available at the facility.  Wagon rides are $3 per person.
+
+[**Please click this link for driving directions**](http://ebenezermarthomachurch.org/assets/d1.pdf)
