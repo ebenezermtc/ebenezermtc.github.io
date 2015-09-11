@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Birth Annoucement-Jayden Titus"
+title:  "Birth Announcement-Jayden Titus"
 date:   2015-09-07
 categories: 
   - general
