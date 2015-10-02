@@ -1,35 +1,29 @@
 ---
   - year: 2015
     month: September
-    date: 2015-09-19
-    time: 9:30 AM
-    program_name: Apple Picking
-    info:
-
-  - year: 2015
-    month: September
     date: 2015-10-03
     time: 9 AM
-    program_name: One Day Retreat at Ebenezer MTC
+    program_name: One Day Retreat at St Thomas MTC (Yonkers, NY)
     info: Leader - Rev KK Samuel - Vicar of St Thomas MTC
 
   - year: 2015
     month: September
     date: 2015-10-09
     time: 7 PM
-    program_name: Annual Convention
-    info: Speaker - Rev B Mathew - Vicar of St James MTC, Rockland County
+    program_name: Annual Convention at Ebenezer MTC (Port Chester, NY)
+    info: Leader - Rev B Mathew - Vicar of St James MTC
 
   - year: 2015
     month: September
     date: 2015-10-10
     time: 7 PM
-    program_name: Annual Convention
-    info: Speaker - Rev B Mathew - Vicar of St James MTC, Rockland County
+    program_name: Annual Convention at Ebenezer MTC (Port Chester, NY)
+    info: Leader - Rev B Mathew - Vicar of St James MTC
 
   - year: 2015
     month: September
     date: 2015-10-11
     time: 11:30 AM
-    program_name: Annual Convention
-    info: Speaker - Mr Aby Cherian - St Thomas MTC, Yonkers
+    program_name: Annual Convention at Ebenezer MTC (Port Chester, NY)
+    info: Leader - Aby Cherian - Member of St Thomas MTC
+
