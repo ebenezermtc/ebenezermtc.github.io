@@ -1,24 +1,30 @@
 ---
   - year: 2015
-    month: January
-    date: 2015-01-04
+    month: November
+    date: 2015-11-01
     service: Malayalam Holy Communion
-    celebrant: Rev Abraham Oommen
+    celebrant: Rev PM Thomas
 
   - year: 2015
-    month: January
-    date: 2015-01-11
-    service: Malayalam Divine Service
-    celebrant: 
-
-  - year: 2015
-    month: January
-    date: 2015-01-18
+    month: November
+    date: 2015-11-08
     service: English Holy Communion
-    celebrant: Rev Abraham Oommen
+    celebrant: Rev Sony Philip
 
   - year: 2015
-    month: January
-    date: 2015-01-25
-    service: English Divine Service
-    celebrant:     
+    month: November
+    date: 2015-11-15
+    service: Malayalam Holy Communion
+    celebrant: Rev Binoy J Thomas
+
+  - year: 2015
+    month: November
+    date: 2015-11-22
+    service: English Holy Communion
+    celebrant: Rev Abraham Kuruvilla
+
+  - year: 2015
+    month: November
+    date: 2015-11-29
+    service: Malayalam Holy Communion
+    celebrant: Rev Sony Philip     
