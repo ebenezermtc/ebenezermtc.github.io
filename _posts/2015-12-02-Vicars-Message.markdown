@@ -5,7 +5,7 @@ date:   2015-12-02
 categories: 
   - vicar
 ---
-* THe word became flesh and dwelt among us* (John 1:14)
+* The word became flesh and dwelt among us* (John 1:14)
 
 Dear Believers in Christ,
 
