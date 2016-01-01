@@ -1,36 +1,30 @@
 ---
-  - year: 2015
-    month: December
-    date: 2015-12-06
+  - year: 2016
+    month: January
+    date: 2016-01-03
     service: Malayalam Holy Communion
-    celebrant: Rev PM Thomas
+    celebrant: Rev Y Mathai
 
-  - year: 2015
-    month: December
-    date: 2015-12-13
-    service: English Holy Communion 
+  - year: 2016
+    month: January
+    date: 2016-01-10
+    service: Malayalam Holy Communion
     celebrant: Rev Sony Philip
 
-  - year: 2015
-    month: December
-    date: 2015-12-20
+  - year: 2016
+    month: January
+    date: 2016-01-17
+    service: English Divine Service
+    celebrant: 
+
+  - year: 2016
+    month: January
+    date: 2016-01-24
     service: Malayalam Divine Service
-    celebrant:
+    celebrant:     
 
-  - year: 2015
-    month: December
-    date: 2015-12-25
-    service: Malayalam Holy Communion
-    celebrant: Rev Sony Philip
-
-  - year: 2015
-    month: December
-    date: 2015-12-27
+  - year: 2016
+    month: January
+    date: 2016-01-31
     service: English Holy Communion
     celebrant: Rev Abraham Kuruvilla
-
-  - year: 2015
-    month: December
-    date: 2015-12-31
-    service: Malayalam Watch Night & Holy Communion
-    celebrant: Rev Y Mathai    

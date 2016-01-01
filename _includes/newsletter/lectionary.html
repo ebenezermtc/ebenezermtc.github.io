@@ -4,23 +4,8 @@
     </div><!--plan title-->
     <table class="lect">
         <tr>
-            <th class="lect_date"> Date</th>
-            <th class="lect_title"> Title </th>
-            <th class="lect"> Lesson 1 </th>
-            <th class="lect"> Lesson 2 </th>
-            <th class="lect"> Epistle </th>
-            <th class="lect"> Gospel </th>
+            [**Click here to view the lectionary**](http://ebenezermarthomachurch.org/assets/LectionaryEng2016.pdf)
         </tr>
-        {% for lect in site.data.lectionaries %}
-        <tr>
-            <td class="lect_date"> {{lect.date | date: "%b %d"}} </td>
-            <td class="lect_title"> {{lect.title}} </td>
-            <td class="lect"> {{lect.lesson1}} </td>
-            <td class="lect"> {{lect.lesson2}} </td>
-            <td class="lect"> {{lect.epistle}} </td>
-            <td class="lect"> {{lect.gospel}}  </td>
-        </tr>
-        {% endfor %}
     </table>
 </div>
 <!--LECTIONARY LIST-->
