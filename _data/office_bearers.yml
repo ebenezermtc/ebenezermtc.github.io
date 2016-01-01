@@ -1,26 +1,26 @@
 ---
-  - name: Rev Abraham Oommen
+  - name: Rev Sony Philip
     title: "President & Vicar"
-    image_path: aoommen.jpg
+    image_path: sphilip.jpg
     phone: 914-207-0011
-    email: sujanachen66@gmail.com
+    email: 
 
   - name: Jacob Abraham
     title: Vice President
-    image_path: user_blank.png
+    image_path: ajacob2.jpg
     phone: 914-912-4405 
     email: ajacob1@hotmail.com
 
-  - name: John Samuel
+  - name: CS Chacko
     title: Secretary
     image_path: user_blank.png
-    phone: 914-555-5555
+    phone: 
     email: 
   
-  - name: Jacob Varghese
+  - name: John Samuel
     title: Trustee
     image_path: user_blank.png
-    phone: 914-555-5555
+    phone: 
     email: 
 
   - name: Eapen Joseph
