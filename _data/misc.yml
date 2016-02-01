@@ -1,43 +1,7 @@
 ---
   
-  - year: 2015
-    month: December
-    date: 2015-12-12
+  - year: 2016
+    month: 
+    date: 
     time: 
-    program_name: House Carol Visit
-    info:
-
-  - year: 2015
-    month: December
-    date: 2015-12-13
-    time: 
-    program_name: House Carol Visit
-    info:
-
-  - year: 2015
-    month: December
-    date: 2015-12-19
-    time: 6 PM 
-    program_name: Christmas Carol Service @ Ebenezer MTC
-    info:
-
-  - year: 2015
-    month: December
-    date: 2015-12-20
-    time: 
-    program_name: House Carol Visit
-    info:
-
-  - year: 2015
-    month: December
-    date: 2015-12-25
-    time: 11:30 AM 
-    program_name: Christmas Holy Communion @ Ebenezer MTC
-    info:
-
-  - year: 2015
-    month: December
-    date: 2015-12-31
-    time: 10:30 PM 
-    program_name: New Year's Eve Service @ Ebenezer MTC
     info:
