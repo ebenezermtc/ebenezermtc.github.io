@@ -35,6 +35,6 @@ Jesus Christ died for all humanity and sins of  the whole world. It is Good news
 Once again let us come to the Cross of the Christ and re-examine ourselves. Let us crucify our ego to understand the way of Cross and cleanse us by the blood of Jesus Christ for a fruitful Christian discipleship. May Almighty God bless everyone of us by his amazing grace.
 
 
-With love and prayer,	
+With love and prayers,	
 
 Sony Achen 
