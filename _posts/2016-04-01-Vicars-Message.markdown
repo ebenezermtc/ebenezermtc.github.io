@@ -12,23 +12,23 @@ This great saying of Jesus show us that the very purpose of Jesus's death on the
 
 Mathematics of Cross
   
-1. The Cross subtracts one from hell (-)
+1 The Cross subtracts one from hell (-)
                   
 Those who believe in God Almighty have eternal life. Through the Cross of Jesus Christ we have protection from hell. 
 
-2. The Cross adds one to Heaven (+)
+2 The Cross adds one to Heaven (+)
 
 Through the death of Jesus we have heavenly life. Those who believe in Jesus have the privilege to be the children of God. Once we were mere people, now we became the people of God. By the Grace of God we are citizens of Heaven.
 
-3. The Cross divides one from worldly values (/)
+3 The Cross divides one from worldly values (/)
 
 If anyone in Christ, who is a new creation. The values of Cross always fighting with values of world ,that is values of satan . So we need protection of Cross for a meaningful Christian witness.
 
-4. The Cross multiplies our blessings (*)
+4 The Cross multiplies our blessings (*)
 
 By the relationship with the Almighty God we have lot of Blessings that is; nature ,family, job, material things etc. If we have right relationship with Jesus Christ definitely we have blessings of eternal life. If we have Holy Spirit we will have rewards of Holy Spirit.
 
-5. The Cross is the vision of equality (=)
+5 The Cross is the vision of equality (=)
 
 Jesus Christ died for all humanity and sins of  the whole world. It is Good news to all the creation. There is no difference between Jew and Gentile. He   is a God of justice not a God of partiality. This is the great hope of the Cross
 
