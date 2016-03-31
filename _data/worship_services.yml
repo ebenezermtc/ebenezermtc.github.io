@@ -1,26 +1,24 @@
 ---
   - year: 2016
-    month: March
-    date: 2016-03-06
-    service: Malayalam Holy Communion
-    celebrant: Rev Philip Mathew
-
-  - year: 2016
-    month: March
-    date: 2016-03-13
-    service: English Holy Communion
-    celebrant: Rev Sony Philip/Fr Albert Hilario
-
-  - year: 2016
-    month: March
-    date: 2016-03-20
+    month: April
+    date: 2016-04-03
     service: Malayalam Holy Communion
     celebrant: Rev PM Thomas
 
   - year: 2016
-    month: March
-    date: 2016-03-27
-    service: English Holy Communion (STARTS AT 8 AM)
+    month: April
+    date: 2016-04-10
+    service: Malayalam Holy Communion
     celebrant: Rev Sony Philip
-  
-   
+
+  - year: 2016
+    month: April
+    date: 2016-04-17
+    service: English Holy Communion
+    celebrant: Rev Abraham Kuruvilla
+
+  - year: 2016
+    month: April
+    date: 2016-04-24
+    service: English Divine Service
+    celebrant:    
