@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: 406 King Street
   Port Chester, NY 10573
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://ebenezermarthomachurch.org/" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
