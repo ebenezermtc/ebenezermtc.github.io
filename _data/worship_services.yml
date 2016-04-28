@@ -1,24 +1,30 @@
 ---
   - year: 2016
-    month: April
-    date: 2016-04-03
-    service: Malayalam Holy Communion
-    celebrant: Rev PM Thomas
+    month: May
+    date: 2016-05-01
+    service: English Divine Service
+    celebrant: 
 
   - year: 2016
-    month: April
-    date: 2016-04-10
+    month: May
+    date: 2016-05-08
     service: Malayalam Holy Communion
     celebrant: Rev Sony Philip
 
   - year: 2016
-    month: April
-    date: 2016-04-17
-    service: English Holy Communion
-    celebrant: Rev Abraham Kuruvilla
+    month: May
+    date: 2016-05-15
+    service: Malayalam Holy Communion
+    celebrant: Rev PM Thomas
 
   - year: 2016
-    month: April
-    date: 2016-04-24
-    service: English Divine Service
-    celebrant:    
+    month: May
+    date: 2016-05-22
+    service: Malayalam Divine Service
+    celebrant:  
+
+  - year: 2016
+    month: May
+    date: 2016-05-29
+    service: English Holy Communion
+    celebrant: Rev Sony Philip     
