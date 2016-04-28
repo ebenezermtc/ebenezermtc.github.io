@@ -1,7 +1,21 @@
 ---
-  - year:
-    month: 
-    date:
-    time:
-    program_name:
+  - year: 2016
+    month: May
+    date: 2016-05-08
+    time: After Service
+    program_name: Mother's Day Celebration
     info:
+
+  - year: 2016
+    month: May
+    date: 2016-05-08
+    time:
+    program_name: Edavaka Mission & Sevika Sangham Joint Meeting
+    info:
+
+  - year: 2016
+    month: May
+    date: 2016-05-29
+    time: After Service
+    program_name: 29th Year Parish Day Celebration
+    info: 
