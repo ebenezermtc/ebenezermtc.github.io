@@ -31,7 +31,7 @@ We need to love the Holy Bible ,and learn from the Bible. We have to lead a Chri
 
 Unconfessed sin blocks channels of blessing. People are doing private sins and public sins, but almighty God knows very well every situations of human life. What is sin? Doing, he knows what is wrong and doing not, what is right. Due to unconfessed lifestyle we see crisis of unfaithful living and unconcerned witness.
 
-6. We are being attacked not from outside but from the inside
+6. We are being attacked not from outside, but from the inside
 
 Many time our lifestyle is contradicting to Jesus teaching because we are leading world centered lifestyle that is against Kingdom values. So often our lifestyle is entirely different from Christ's teaching, praxis and life. So Church is facing her big enemies from inside, not from outside of the Church. 
 Don't teach lukewarm Gospel which do not have power to save, convert and transform the people. When we deliver cheap standard and weak messages we cannot gain lost and sinners for Jesus. We must  remember we are not closed Church it is open now and forever. The world has more influence in our Church life so we have to fight against it with spiritual weapons that is Bible, worship, prayer. fasting and fellowship. May The Holy Spirit empower us to lead a meaningful worship in the midst of different crisis and tribulations.
