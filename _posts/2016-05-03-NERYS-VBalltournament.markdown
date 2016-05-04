@@ -16,6 +16,6 @@ Santhosh Philip
 
 NERYS Sec
 
-[*Rules for Tournament*](http://ebenezermarthomachurch.org/assets/NERYSrules2016.doc)
+[**Click Here for Rules for Tournament**](http://ebenezermarthomachurch.org/assets/NERYSrules2016.doc)
 
-[*Registration Form for Tournament*](http://ebenezermarthomachurch.org/assets/NERYSRegistrationForm2016.doc)
+[**Click Here for Registration Form for Tournament**](http://ebenezermarthomachurch.org/assets/NERYSRegistrationForm2016.doc)
