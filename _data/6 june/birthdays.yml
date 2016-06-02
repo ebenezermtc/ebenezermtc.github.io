@@ -1,85 +1,70 @@
 ---
-  - year: 2015
+  - year: 2016
     month: June
     date: 06/01
     name: Sosamma John
 
-  - year: 2015
-    month: June
-    date: 06/05
-    name: Fiby Thomas
-
-  - year: 2015
+  - year: 2016
     month: June
     date: 06/05
     name: Smarty George
 
-  - year: 2015
-    month: June
-    date: 06/06
-    name: Annamma Varkey
-
-  - year: 2015
+  - year: 2016
     month: June
     date: 06/07
     name: Tibu C Tharakan
 
-  - year: 2015
-    month: June
-    date: 06/11
-    name: Thomas Mammen
-
-  - year: 2015
+  - year: 2016
     month: June
     date: 06/11
     name: George Thomas
 
-  - year: 2015
+  - year: 2016
     month: June
     date: 06/12
     name: Benjamin Jacob
 
-  - year: 2015
+  - year: 2016
     month: June
     date: 06/13
     name: Robin Chacko
 
-  - year: 2015
+  - year: 2016
+    month: June
+    date: 06/15
+    name: KC Thomas
+
+  - year: 2016
+    month: June
+    date: 06/15
+    name: Rachel George
+
+  - year: 2016
     month: June
     date: 06/17
     name: Rijin Cheriyan Jose
 
-  - year: 2015
+  - year: 2016
     month: June
     date: 06/21
     name: Soji Samuel
 
-  - year: 2015
+  - year: 2016
     month: June
     date: 06/22
     name: Shana Ben
 
-  - year: 2015
-    month: June
-    date: 06/26
-    name: Saramma Mathew
-
-  - year: 2015
+  - year: 2016
     month: June
     date: 06/27
     name: Nevin Varghese
 
-  - year: 2015
-    month: June
-    date: 06/27
-    name: Shawn Mathew
-
-  - year: 2015
+  - year: 2016
     month: June
     date: 06/28
     name: Kaitlin Grace John
 
-  - year: 2015
+  - year: 2016
     month: June
     date: 06/30
     name: Eapen Joseph

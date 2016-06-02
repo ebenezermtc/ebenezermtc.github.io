@@ -1,23 +1,24 @@
 ---
-  - year: 2015
+  - year: 2016
     month: June
-    date: 2015-06-07
-    service: English Holy Communion
-    celebrant: Rev Abraham Kuruvilla
+    date: 2016-06-05
+    service: Malayalam Divine Service
+    celebrant: Mr Abey Cherian (SPEECH)
 
-  - year: 2015
+  - year: 2016
     month: June
-    date: 2015-06-14
+    date: 2016-06-12
     service: Malayalam Holy Communion
     celebrant: Rev Sony Philip  
 
-  - year: 2015
+  - year: 2016
     month: June
-    date: 2015-06-21
+    date: 2016-06-19
+    service: English Divine Service
+    celebrant:
+
+  - year: 2016
+    month: June
+    date: 2016-06-26
     service: English Holy Communion
-    celebrant: Rev Philip Varghese
-  - year: 2015
-    month: June
-    date: 2015-06-28
-    service: Malayalam Divine Service
-    celebrant:     
+    celebrant: Rev Denny Philip (Diocesan Secretary)     
