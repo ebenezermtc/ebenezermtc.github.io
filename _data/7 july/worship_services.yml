@@ -1,24 +1,30 @@
 ---
-  - year: 2015
+  - year: 2016
     month: July
-    date: 2015-07-05
+    date: 2016-07-03
     service: Malayalam Divine Service
     celebrant: 
 
-  - year: 2015
+  - year: 2016
     month: July
-    date: 2015-07-12
+    date: 2016-07-10
     service: English Holy Communion
     celebrant: Rev Sony Philip
 
-  - year: 2015
+  - year: 2016
     month: July
-    date: 2015-07-19
-    service: Malayalam Holy Communion
-    celebrant: Rev Binoy Joseph
+    date: 2016-07-17
+    service: English Divine Service
+    celebrant:
 
-  - year: 2015
+  - year: 2016
     month: July
-    date: 2015-07-26
+    date: 2016-07-24
     service: Malayalam Holy Communion
-    celebrant: Rev TC Mammen     
+    celebrant: Rev PM Thomas
+
+  - year: 2016
+    month: July
+    date: 2016-07-31
+    service: Malayalam Divine Service
+    celebrant:  
