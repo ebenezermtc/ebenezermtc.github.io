@@ -1,7 +1,21 @@
 ---
-  - year: 
-    month: 
-    date: 
-    time: 
-    venue: 
-    leader: 
+  - year: 2016
+    month: July	
+    date: 2016-07-13
+    time: 7 PM
+    venue: Ebenezer Mar Thoma Church
+    leader: Rev Sony Philip
+
+  - year: 2016
+    month: July	
+    date: 2016-07-20
+    time: 7 PM
+    venue: Ebenezer Mar Thoma Church
+    leader: Mr Abey Cherian
+
+  - year: 2016
+    month: July	
+    date: 2016-07-27
+    time: 7 PM
+    venue: Ebenezer Mar Thoma Church
+    leader: Rev Sony Philip
