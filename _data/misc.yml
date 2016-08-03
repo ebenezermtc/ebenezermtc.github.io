@@ -1,8 +1,14 @@
 ---
   - year: 2016
-    month: July
-    date: 
-    time:
-    program_name: 
-    info: 
+    month: August
+    date: 2016-08-13
+    time: 10 AM
+    program_name: Church Annual Picnic
+    info: Will be held at Glen Island Park
 
+  - year: 2016
+    month: August
+    date: 2016-08-14
+    time: After service
+    program_name: College Student Dedication
+    info: 
