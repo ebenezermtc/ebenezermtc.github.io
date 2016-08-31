@@ -1,28 +1,28 @@
 ---
   - year: 2016
-    month: August
-    date: 2016-08-10
-    time: 7:00 PM
-    venue: Ebenezer Mar Thoma Church (406 King St Port Chester, NY)
-    leader: 
-
-  - year: 2016
-    month: August
-    date: 2016-08-17
-    time: 7:00 PM
-    venue: Ebenezer Mar Thoma Church (406 King St Port Chester, NY)
-    leader: 
-
-  - year: 2016
-    month: August
-    date: 2016-08-24
+    month: September
+    date: 2016-09-07
     time: 7:00 PM
     venue: Ebenezer Mar Thoma Church (406 King St Port Chester, NY)
     leader: Rev Sony Philip
 
   - year: 2016
-    month: August
-    date: 2016-08-31
+    month: September
+    date: 2016-09-14
+    time: 7:00 PM
+    venue: Ebenezer Mar Thoma Church (406 King St Port Chester, NY)
+    leader: Mr Aby Cherian
+
+  - year: 2016
+    month: September
+    date: 2016-09-21
     time: 7:00 PM
     venue: Ebenezer Mar Thoma Church (406 King St Port Chester, NY)
     leader: Rev Sony Philip
+
+  - year: 2016
+    month: September
+    date: 2016-09-28
+    time: 7:00 PM
+    venue: Ebenezer Mar Thoma Church (406 King St Port Chester, NY)
+    leader: Mr Aby Cherian
