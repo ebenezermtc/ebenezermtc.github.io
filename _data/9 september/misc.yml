@@ -1,15 +1,36 @@
 ---
   - year: 2016
     month: September
+    date: 2016-09-03
+    time: 9 AM
+    program_name: Empire Invitational Basketball Tournament
+    info: 115 Torne Valley Rd, Hillburn, NY 10931 (https://empireinvitational.herokuapp.com)
+
+  - year: 2016
+    month: September
     date: 2016-09-04
     time: 
-    program_name: Apple Picking
+    program_name: School Student Dedication Service
     info:
 
   - year: 2016
     month: September
-    date: 2016-10-03
-    time: 9 AM
-    program_name: One Day Retreat at St Thomas MTC (Yonkers, NY)
-    info: Leader - Rev KK Samuel - Vicar of St Thomas MTC
+    date: 2016-09-11
+    time: 
+    program_name: Sevika Sanghom Day
+    info:
+
+  - year: 2016
+    month: September
+    date: 2016-09-11
+    time: 
+    program_name: One Day Salary Offertory
+    info:
+
+  - year: 2016
+    month: September
+    date: 2016-09-24
+    time: 10 AM - 3 PM 
+    program_name: Apple Picking
+    info: 
 
