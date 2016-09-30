@@ -1,24 +1,30 @@
 ---
-  - year: 2015
+  - year: 2016
     month: October
-    date: 2015-10-04
+    date: 2016-10-02
     service: Malayalam Holy Communion
     celebrant: Rev PM Thomas
 
-  - year: 2015
+  - year: 2016
     month: October
-    date: 2015-10-11
+    date: 2016-10-09
     service: English Holy Communion
     celebrant: Rev Sony Philip
 
-  - year: 2015
+  - year: 2016
     month: October
-    date: 2015-10-18
-    service: Divine Service
-    celebrant: Rev Abraham Oommen
+    date: 2016-10-16
+    service: Malayalam Divine Service
+    celebrant: 
 
-  - year: 2015
+  - year: 2016
     month: October
-    date: 2015-10-25
-    service: Malayalam Holy Communion
-    celebrant: Rev TC Mammen    
+    date: 2016-10-23
+    service: English Divine Service
+    celebrant: 
+
+  - year: 2016
+    month: October
+    date: 2016-10-30
+    service: English Holy Communion
+    celebrant: Rev Sony Philip    

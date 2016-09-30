@@ -1,29 +1,36 @@
 ---
-  - year: 2015
-    month: September
-    date: 2015-10-03
-    time: 9 AM
-    program_name: One Day Retreat at St Thomas MTC (Yonkers, NY)
-    info: Leader - Rev KK Samuel - Vicar of St Thomas MTC
+  - year: 2016
+    month: October
+    date: 2016-10-02
+    time: 
+    program_name: Mar Thoma Voluntary Evagelistic Association Day
+    info: Special service will be held
 
-  - year: 2015
-    month: September
-    date: 2015-10-09
-    time: 7 PM
-    program_name: Annual Convention at Ebenezer MTC (Port Chester, NY)
-    info: Leader - Rev B Mathew - Vicar of St James MTC
+  - year: 2016
+    month: October
+    date: 2016-10-02
+    time: 
+    program_name: One Day Income Offertory
+    info: Will be taken during service
 
-  - year: 2015
-    month: September
-    date: 2015-10-10
-    time: 7 PM
+  - year: 2016
+    month: October
+    date: 2016-10-28
+    time: 
     program_name: Annual Convention at Ebenezer MTC (Port Chester, NY)
-    info: Leader - Rev B Mathew - Vicar of St James MTC
+    info: Speakers - Rev Jason Thomas, Mr Abey Cherian
 
-  - year: 2015
-    month: September
-    date: 2015-10-11
-    time: 11:30 AM
+  - year: 2016
+    month: October
+    date: 2016-10-29
+    time: 
     program_name: Annual Convention at Ebenezer MTC (Port Chester, NY)
-    info: Leader - Aby Cherian - Member of St Thomas MTC
+    info: Speakers - Rev Jason Thomas, Mr Abey Cherian
+
+  - year: 2016
+    month: October
+    date: 2016-10-30
+    time: 
+    program_name: Annual Convention at Ebenezer MTC (Port Chester, NY)
+    info: Speakers - Rev Jason Thomas, Mr Abey Cherian
 
