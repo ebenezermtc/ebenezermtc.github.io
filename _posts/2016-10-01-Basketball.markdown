@@ -17,7 +17,7 @@ Ardsley, NY 10502
 
 Entrance fee is $10 
 
-For more infocation, visit the site below:
+For more information, visit the site below:
 
 Thank you,
 Robin
