@@ -1,30 +1,24 @@
 ---
   - year: 2016
-    month: October
-    date: 2016-10-02
-    service: Malayalam Holy Communion
-    celebrant: Rev PM Thomas
-
-  - year: 2016
-    month: October
-    date: 2016-10-09
-    service: English Holy Communion
+    month: November
+    date: 2016-11-06
+    service: Malayalam Holy Communion (5 PM)
     celebrant: Rev Sony Philip
 
   - year: 2016
-    month: October
-    date: 2016-10-16
+    month: November
+    date: 2016-11-13
+    service: English Divine Service
+    celebrant: Mr Ryan Varghese (Message)
+
+  - year: 2016
+    month: November
+    date: 2016-11-20
+    service: Malayalam Divine Service
+    celebrant: Mr Thomas Kovoor (Message)
+
+  - year: 2016
+    month: November
+    date: 2016-11-27
     service: English Divine Service
     celebrant: 
-
-  - year: 2016
-    month: October
-    date: 2016-10-23
-    service: Malayalam Divine Service
-    celebrant: 
-
-  - year: 2016
-    month: October
-    date: 2016-10-30
-    service: English Holy Communion
-    celebrant: Rev Sony Philip    
