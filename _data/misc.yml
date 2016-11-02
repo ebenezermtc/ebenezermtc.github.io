@@ -1,6 +1,14 @@
 ---
   - year: 2016
     month: November
+    date: 2016-11-06
+    time: 5 PM
+    program_name: World Sunday School Day Service
+    info: Will be held at the church. Sunday school students and teachers will lead the service.
+
+
+  - year: 2016
+    month: November
     date: 2016-11-19
     time: 6 PM
     program_name: Family Night & Thanksgiving Dinner
