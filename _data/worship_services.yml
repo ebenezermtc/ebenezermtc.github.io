@@ -1,24 +1,30 @@
 ---
   - year: 2016
-    month: November
-    date: 2016-11-06
-    service: Malayalam Holy Communion (5 PM)
+    month: December
+    date: 2016-12-04
+    service: English Divine Service
+    celebrant: 
+
+  - year: 2016
+    month: December
+    date: 2016-12-11
+    service: Malayalam Holy Communion 
     celebrant: Rev Sony Philip
 
   - year: 2016
-    month: November
-    date: 2016-11-13
-    service: English Divine Service
-    celebrant: Mr Ryan Varghese (Message)
+    month: December
+    date: 2016-12-18
+    service: Malayalam Divine Service
+    celebrant:
 
   - year: 2016
-    month: November
-    date: 2016-11-20
-    service: English Holy Communion & Diaspora Sunday Worship
-    celebrant: Rev Denny Philip
+    month: December
+    date: 2016-12-25
+    service: English Holy Communion @ 8 AM
+    celebrant: Rev Sony Philip
 
   - year: 2016
-    month: November
-    date: 2016-11-27
-    service: English Divine Service
-    celebrant: 
+    month: December
+    date: 2016-12-31
+    service: Malayalam Watch Night & Holy Communion
+    celebrant: Rev Shibi Abraham   
