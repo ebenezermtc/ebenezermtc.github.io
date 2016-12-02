@@ -35,6 +35,8 @@ Please see our 2016 House Visiting Schedule:
 
 3. __December 18th *(Sunday)* after Church Service__
 	
+	Start from Church
+	
 	Areas we will cover this day:
 	- Rockland
 	- Carmel
