@@ -5,20 +5,20 @@
     phone: 914-207-0011
     email: 
 
-  - name: Jacob Abraham
+  - name: Eapen Joseph
     title: Vice President
-    image_path: ajacob2.jpg
-    phone: 914-912-4405 
-    email: ajacob1@hotmail.com
+    image_path: user_blank.png
+    phone:  
+    email: 
 
   - name: CS Chacko
-    title: Secretary and Diocesan Assembly Member
+    title: Secretary
     image_path: cschacko3.jpg
     phone: 
     email: 
   
   - name: John Samuel
-    title: Trustee
+    title: Treasurer
     image_path: user_blank.png
     phone: 
     email: 
@@ -29,31 +29,31 @@
     phone: 
     email: 
 
-  - name: Vipin Kovoor
+  - name: Anish Titus
     title: English Lay Ministrant
     image_path: user_blank.png
     phone: 
     email: 
 
-  - name: Eapen Joseph
+  - name: Jose Cherian
     title: Malayalam Lay Ministrant
     image_path: user_blank.png
     phone: 
     email: 
 
-  - name: Dr. Minnie John
+  - name: Ben Jacob
     title: Sunday School Superintendent
     image_path: user_blank.png
     phone: 
     email:   
 
-  - name: Viju Varghese
+  - name: Jacob Abraham
     title: Edavaka Mission Representative
-    image_path: user_blank.png
+    image_path: ajacob2.jpg
     phone: 
     email: 
 
-  - name: Rachel George
+  - name: Annamma Thomas
     title: Sevika Sangham Representative
     image_path: user_blank.png
     phone: 
@@ -65,32 +65,32 @@
     phone: 
     email: 
 
-  - name: Feby Varghese
+  - name: Thomas K Mathew
     title: Choir Leader
     image_path: user_blank.png
     phone: 
     email: 
 
-  - name: Sneha Thomas
+  - name: Nevin Varughese
     title: Youth Fellowship Representative
     image_path: user_blank.png
     phone: 
     email: 
 
-  - name: Dr Susan Kurian
+  - name: Jacob Abraham
     title: Mandalam Member
-    image_path: drskurian1.jpg
-    phone: 914-909-3838
-    email: susankurian18@yahoo.com
+    image_path: ajacob2.jpg
+    phone: 
+    email: 
 
-  - name: Soji Samuel
-    title: Executive Committee Member
+  - name: Usha Sunny
+    title: Auditor
     image_path: user_blank.png
     phone: 
     email: 
 
-  - name: Ben George
-    title: Executive Committee Member
+  - name: KC Thomas
+    title: Auditor
     image_path: user_blank.png
     phone: 
     email: 
