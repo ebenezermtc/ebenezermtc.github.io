@@ -1,26 +1,26 @@
 ---
-  - year: 2016
+  - year: 2017
     month: March
-    date: 2016-03-06
-    service: Malayalam Holy Communion
-    celebrant: Rev Philip Mathew
+    date: 2017-03-05
+    service: Malayalam Holy Communion (Diocesan Sunday)
+    celebrant: Rev Deny Philip 
 
-  - year: 2016
+  - year: 2017
     month: March
-    date: 2016-03-13
+    date: 2017-03-12
     service: English Holy Communion
-    celebrant: Rev Sony Philip/Fr Albert Hilario
-
-  - year: 2016
-    month: March
-    date: 2016-03-20
-    service: Malayalam Holy Communion
-    celebrant: Rev PM Thomas
-
-  - year: 2016
-    month: March
-    date: 2016-03-27
-    service: English Holy Communion (STARTS AT 8 AM)
     celebrant: Rev Sony Philip
+
+  - year: 2017
+    month: March
+    date: 2017-03-19
+    service: English Divine Service
+    celebrant: 
+
+  - year: 2017
+    month: March
+    date: 2017-03-26
+    service: Malayalam Holy Communion 
+    celebrant: Rev PM Thomas
   
    
