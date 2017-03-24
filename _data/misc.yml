@@ -1,8 +1,15 @@
 ---
 
   - year: 2017
-    month: 
-    date: 
-    time: 
-    program_name: 
-    info: 
+    month: March
+    date: 2017-03-22
+    time: 7 PM
+    program_name: Lent Evening Services
+    info: Will take place at EMTC from March 22nd to March 25th
+    
+  - year: 2017
+    month: March
+    date: 2017-03-29
+    time: 7 PM
+    program_name: Lent Evening Services
+    info: Will take place at EMTC from March 22nd to April 1st
