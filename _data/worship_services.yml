@@ -1,60 +1,24 @@
 ---
   - year: 2017
-    month: April
-    date: 2017-04-02
-    service: English Holy Communionn
+    month: May
+    date: 2017-05-07
+    service: Malayalam Holy Communion
+    celebrant: Rev Biji Mathew
+
+  - year: 2017
+    month: May
+    date: 2017-05-14
+    service: Malayalam Holy Communion (Mothers Day)
     celebrant: Rev PM Thomas
 
   - year: 2017
-    month: April
-    date: 2017-04-09
-    service: Malayalam Holy Communion
-    celebrant: Rev Sony Philip & Rev Johnson Mathew
+    month: May
+    date: 2017-05-21
+    service: English Holy Communion
+    celebrant: Rev Biji Mathew
 
   - year: 2017
-    month: April
-    date: 2017-04-10
-    service: Sandhyanamaskaram at 7 PM
-    celebrant: Rev Johnson Mathew
-
-  - year: 2017
-    month: April
-    date: 2017-04-11
-    service: Sandhyanamaskaram at 7 PM
-    celebrant: Rev Johnson Mathew
-    
-  - year: 2017
-    month: April
-    date: 2017-04-12
-    service: Sandhyanamaskaram at 7 PM
-    celebrant: Rev Sony Philip & Rev Johnson Mathew   
-    
-  - year: 2017
-    month: April
-    date: 2017-04-13
-    service: Sandhyanamaskaram at 7 PM
-    celebrant: Rev Johnson Mathew    
-    
-  - year: 2017
-    month: April
-    date: 2017-04-14
-    service: Good Friday Service at 9 AM
-    celebrant: Rev Sony Philip & Rev Johnson Mathew      
-    
-  - year: 2017
-    month: April
-    date: 2017-04-16
-    service: Easter Sunday - English Holy Communion at 8 AM
-    celebrant: Rev Sony Philip
-    
-  - year: 2017
-    month: April
-    date: 2017-04-23
-    service: Divine Service
-    celebrant:   
-    
-  - year: 2017
-    month: April
-    date: 2017-04-30
-    service: Malayalam Holy Communion
-    celebrant: Rev Sony Philip
+    month: May
+    date: 2017-05-28
+    service: Malayalam Divine Service
+    celebrant:  
