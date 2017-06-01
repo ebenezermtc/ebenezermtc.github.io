@@ -10,7 +10,7 @@ Hi everyone,
 
 We are going to have VBS on **Friday July 14th, Saturday July 15th, and conclude on Sunday July 16th**.  Our theme is going to be **Hero Central:  Discover Your Strength in God!**
 
-![VBSImage](https://ebenezermarthomachurch.org/img/vbstheme2017.png "VBS2017theme")
+![VBSImage](http://ebenezermarthomachurch.org/img/vbs2017theme.png "VBS2017theme")
 
 **Hero Bible Verse:** Do good! Seek peace and go after it! (*Psalm 34:14b*)
 First and foremost, we need everyone’s prayers and support to make it a success and meaningful for all that attend especially our children.  Without your prayers and support, none of it will be possible, so please continue that for those that attend and teach and volunteer for VBS.
