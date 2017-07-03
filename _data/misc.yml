@@ -1,6 +1,5 @@
 ---
   - year: 2017
-<<<<<<< HEAD
     month: July
     date: 2017-07-14
     time: 9 PM
@@ -20,32 +19,3 @@
     time: After Holy Communion
     program_name: VBS Closing Ceremony
     info: Will be held at EMTC
-
-=======
-    month: June
-    date: 2017-06-02
-    time: 7 PM
-    program_name: Sevika Sanghom Meeting
-    info: Will be held at Ebenezer MTC
-
-  - year: 2017
-    month: June
-    date: 2017-06-09
-    time: 7 PM
-    program_name: Sevika Sanghom Meeting
-    info: Will be held at Ebenezer MTC
-
-  - year: 2017
-    month: June
-    date: 2017-06-16
-    time: 7 PM
-    program_name: Sevika Sanghom Meeting
-    info: Will be held at Ebenezer MTC
-
-  - year: 2017
-    month: June
-    date: 2017-06-23
-    time: 7 PM
-    program_name: Sevika Sanghom Meeting
-    info: Will be held at Ebenezer MTC
->>>>>>> origin/master

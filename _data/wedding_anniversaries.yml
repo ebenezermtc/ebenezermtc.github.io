@@ -1,6 +1,5 @@
 ---
   - year: 2017
-<<<<<<< HEAD
     month: July
     date: 07/04
     couple: Mr. & Mrs. Saji Thomas
@@ -14,16 +13,6 @@
     month: July
     date: 07/13
     couple: Mr. & Mrs. Ben George
-=======
-    month: June
-    date: 06/10
-    couple: Mr. & Mrs. Anil Abraham
-
-  - year: 2017
-    month: June
-    date: 06/20
-    couple: Mr. & Mrs. Viju Varghese
->>>>>>> origin/master
 
   - year: 2017
     month: July
