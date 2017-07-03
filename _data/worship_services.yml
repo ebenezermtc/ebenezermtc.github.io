@@ -1,6 +1,5 @@
 ---
   - year: 2017
-<<<<<<< HEAD
     month: July
     date: 2017-07-02
     service: Malayalam Holy Communion
@@ -29,27 +28,3 @@
     date: 2017-07-30
     service: Malayalam Holy Communion
     celebrant: Rev PM Thomas
-=======
-    month: June
-    date: 2017-06-04
-    service: Malayalam Holy Communion
-    celebrant: Rev Biji Mathew 
-
-  - year: 2017
-    month: June
-    date: 2017-06-11
-    service: English Holy Communion
-    celebrant: Rev PM Thomas
-
-  - year: 2017
-    month: June
-    date: 2017-06-18
-    service: Malayalam Holy Communion (Parish Day and Fathers Day)
-    celebrants: Rt Rev Dr Isaac Mar Philoxenos Diocesan Bishop
-
-  - year: 2017
-    month: June
-    date: 2017-06-25
-    service: English Divine Service
-    celebrant:  
->>>>>>> origin/master
