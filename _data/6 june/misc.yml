@@ -1,35 +1,35 @@
 ---
-  - year: 2016
+  - year: 2017
     month: June
-    date: 2016-06-12
-    time:
-    program_name: Clergy Appreciation Day
-    info: 
-
-  - year: 2016
-    month: June
-    date: 2016-06-19
-    time: Immediately after church
-    program_name: Fathers's Day Celebration
-    info: 
-
-  - year: 2016
-    month: June
-    date: 2016-06-24
-    time:
-    program_name: VBS day 1
+    date: 2017-06-02
+    time: 7 PM
+    program_name: Sevika Sanghom Meeting
     info: Will be held at Ebenezer MTC
 
-  - year: 2016
+  - year: 2017
     month: June
-    date: 2016-06-25
-    time:
-    program_name: VBS day 2
+    date: 2017-06-09
+    time: 7 PM
+    program_name: Sevika Sanghom Meeting
     info: Will be held at Ebenezer MTC
 
-  - year: 2016
+  - year: 2017
     month: June
-    date: 2016-06-26
+    date: 2017-06-16
+    time: 7 PM
+    program_name: Sevika Sanghom Meeting
+    info: Will be held at Ebenezer MTC
+
+  - year: 2017
+    month: June
+    date: 2017-06-23
+    time: 7 PM
+    program_name: Sevika Sanghom Meeting
+    info: Will be held at Ebenezer MTC
+
+  - year: 2017
+    month: June
+    date: 2017-06-26
     time:
     program_name: VBS day 3
     info: Will be held at Ebenezer MTC
