@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Book Club Series"
+title:  "Condolences - Lizziamma Kuruvilla"
 date:   2017-08-01
 categories: 
   - general
