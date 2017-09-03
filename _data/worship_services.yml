@@ -1,25 +1,24 @@
 ---
   - year: 2017
-    month: August
-    date: 2017-08-06
-    service: English Holy Communion Service
+    month: September
+    date: 2017-09-03
+    service: English Holy Communion
     celebrant: Rev Biji Mathew
 
   - year: 2017
-    month: August
-    date: 2017-08-13
-    service: Malayalam Holy Communion Service
-    celebrant: Rev Biji Mathew
+    month: September
+    date: 2017-09-10
+    service: Malayalam Holy Communion
+    celebrant: Rev PM Thomas
 
   - year: 2017
-    month: August
-    date: 2017-08-20
-    service: English Holy Communion Service
-    celebrant: Rev. PM Thomas
+    month: September
+    date: 2017-09-17
+    service: Malayalam Holy Communion
+    celebrant: Rev Biji Mathew 
 
   - year: 2017
-    month: August
-    date: 2017-08-27
-    service: Malayalam Holy Communion Service
-    celebrant: Rev TC Mammen
-
+    month: September
+    date: 2017-09-24
+    service: English Divine Service
+    celebrant:   

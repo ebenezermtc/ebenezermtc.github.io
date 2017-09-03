@@ -1,14 +1,21 @@
 ---
   - year: 2017
-    month: August
-    date: 2017-08-05
-    time: 10 AM
-    program_name: Church Annual Picnic
-    info: Will be held at Glen Island Park (Spot# 8)
+    month: September
+    date: 2017-09-03
+    time: In between Church Service
+    program_name: Dedication Service for School Students 
+    info: 
 
   - year: 2017
-    month: August
-    date: 2017-08-06
-    time: After service
-    program_name: College Student Dedication
-    info: 
+    month: September
+    date: 2017-09-17
+    time: 
+    program_name: One Day Offertory Service
+    info:
+
+  - year: 2017
+    month: September
+    date: 2017-09-17
+    time: After Church Service
+    program_name: Onam Celebration
+    info:

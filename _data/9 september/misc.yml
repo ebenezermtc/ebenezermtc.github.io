@@ -1,36 +1,21 @@
 ---
-  - year: 2016
+  - year: 2017
     month: September
-    date: 2016-09-03
-    time: 9 AM
-    program_name: Empire Invitational Basketball Tournament
-    info: 115 Torne Valley Rd, Hillburn, NY 10931 (https://empireinvitational.herokuapp.com)
-
-  - year: 2016
-    month: September
-    date: 2016-09-04
-    time: 
-    program_name: School Student Dedication Service
-    info:
-
-  - year: 2016
-    month: September
-    date: 2016-09-11
-    time: 
-    program_name: Sevika Sanghom Day
-    info:
-
-  - year: 2016
-    month: September
-    date: 2016-09-11
-    time: 
-    program_name: One Day Salary Offertory
-    info:
-
-  - year: 2016
-    month: September
-    date: 2016-09-24
-    time: 10AM-3PM 
-    program_name: Apple Picking
+    date: 2017-09-03
+    time: In between Church Service
+    program_name: Dedication Service for School Students 
     info: 
 
+  - year: 2017
+    month: September
+    date: 2017-09-17
+    time: 
+    program_name: One Day Offertory Service
+    info:
+
+  - year: 2017
+    month: September
+    date: 2017-09-17
+    time: After Church Service
+    program_name: Onam Celebration
+    info:
