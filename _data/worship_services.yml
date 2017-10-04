@@ -1,24 +1,30 @@
 ---
   - year: 2017
-    month: September
-    date: 2017-09-03
-    service: English Holy Communion
+    month: October
+    date: 2017-10-01
+    service: Malayalam Holy Communion (Edavaka Mission Sunday)
     celebrant: Rev Biji Mathew
 
   - year: 2017
-    month: September
-    date: 2017-09-10
+    month: October
+    date: 2017-10-08
     service: Malayalam Holy Communion
     celebrant: Rev PM Thomas
 
   - year: 2017
-    month: September
-    date: 2017-09-17
-    service: Malayalam Holy Communion
-    celebrant: Rev Biji Mathew 
+    month: October
+    date: 2017-10-15
+    service: English Holy Communion 
+    celebrant: Rev Biji Mathew
 
   - year: 2017
-    month: September
-    date: 2017-09-24
+    month: October
+    date: 2017-10-22
+    service: Malayalam Holy Communion (Annual Convention-Family Sunday)
+    celebrant: Rev Biji Mathew
+
+  - year: 2017
+    month: October  
+    date: 2017-10-29
     service: English Divine Service
-    celebrant:   
+    celebrant:    
