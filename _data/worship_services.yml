@@ -1,24 +1,42 @@
 ---
   - year: 2017
-    month: November
-    date: 2017-11-05
-    service: English Holy Communion 
+    month: December
+    date: 2017-12-03
+    service: Malayalam Holy Communion 
     celebrant: Rev Biji Mathew
 
   - year: 2017
-    month: November
-    date: 2017-11-12
-    service: Malayalam Divine Service
-    celebrant: Mr John Skariah (Message)
+    month: December
+    date: 2017-12-10
+    service: Divine Service
+    celebrant: 
 
   - year: 2017
-    month: November
-    date: 2017-11-19
-    service: English Divine Service
-    celebrant: Mr Vipin Kovoor (Message)
+    month: December
+    date: 2017-12-17
+    service: English Holy Communion
+    celebrant: Rev Biji Mathew
 
   - year: 2017
-    month: November
-    date: 2017-11-26
+    month: December
+    date: 2017-12-24
     service: Malayalam Holy Communion
+    celebrant: Rev Biji Mathew
+
+  - year: 2017
+    month: December
+    date: 2017-12-25
+    service: Christmas Service
+    celebrant: Rev Prince Varghese (Princeton,NJ)
+  
+  - year: 2017
+    month: December
+    date: 2017-12-31
+    service: Divine Service
+    celebrant: 
+    
+  - year: 2017
+    month: December
+    date: 2017-12-31
+    service: Watch Night Service/Holy Communion
     celebrant: Rev Biji Mathew
