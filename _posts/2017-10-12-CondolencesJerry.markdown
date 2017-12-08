@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Condolences - Jerry John"
-date:   2017-08-27
+date:   2017-10-12
 categories: 
   - general
 ---
