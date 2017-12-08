@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Condolences - Saramma Kurien"
+title:  "Condolences - Jerry John"
 date:   2017-08-27
 categories: 
   - general
