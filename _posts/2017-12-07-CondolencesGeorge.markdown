@@ -5,7 +5,6 @@ date:   2017-12-14
 categories: 
   - general
 ---
-Dear
 
 Dear members of Ebenezer Mar Thoma Church, Mr. George Thomas ( 66 yrs ) Brother in Law of our member Mrs. Rachel George,
 enter in to eternity on December 13th. We, the Vicar and members of Ebenezer Mar Thoma Church, Port Chester conveys our deepest sympathies to the bereaved family. 
