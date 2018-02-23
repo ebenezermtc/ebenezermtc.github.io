@@ -3,10 +3,18 @@
         <div class="price-title center-heading">
             <h4>Bible Reading</h4>
         </div><!--plan title-->
-        <ul class="plan-features list-unstyled text-center">
-        	{% for bibread in site.data.bible_readings %}
-                	<li>{{bibread.date}} <i class="fa fa-check"></i> {{bibread.service}} <i class="fa fa-check"></i> {{bibread.celebrant}} </li>
+        <table class="nl">
+            <tr class="nl">
+                <th class="nl">Family Of..</th>
+                <th class="nl">Date</th>
+            </tr>
+            {% for bibread in site.data.bible_readings %}
+            <tr class="nl">
+                    <td class="nl">{{bibread.assignment}}  </td>
+                    <td class="nl">{{bibread.date | date: "%b %d"}} </td>
+                </tr>
             {% endfor %}
-        </ul><!--BIBLE READING LIST-->
+        </table>    
+        <!--BIBLE READING LIST-->
     </div><!--plan wrap-->
 </div><!--plan col-->
