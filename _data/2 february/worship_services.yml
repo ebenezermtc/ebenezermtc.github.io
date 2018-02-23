@@ -1,24 +1,24 @@
 ---
-  - year: 2017
+  - year: 2018
     month: February
-    date: 2017-02-05
-    service: English Divine Service
-    celebrant: Message by Mr Abey Cherian
-
-  - year: 2017
-    month: February
-    date: 2017-02-12
+    date: 2018-02-04
     service: Malayalam Holy Communion
-    celebrant: Rev Sony Philip
+    celebrant: Rev Biji Mathew
 
-  - year: 2017
+  - year: 2018
     month: February
-    date: 2017-02-19
-    service: English Divine Service
-    celebrant: Message by Mr Ryan Varghese
+    date: 2018-02-11
+    service: Malayalam Divine Service
+    celebrant: 
 
-  - year: 2017
+  - year: 2018
     month: February
-    date: 2017-02-26
-    service: Malayalam Holy Communion
-    celebrant: Rev PT Koshy    
+    date: 2018-02-18
+    service: English Holy Communion
+    celebrant: Rev Biji Mathew
+
+  - year: 2018
+    month: February
+    date: 2018-02-25
+    service: English Divine Service (Praise and Worship)
+    celebrant: Speech by Rijin Jose 
