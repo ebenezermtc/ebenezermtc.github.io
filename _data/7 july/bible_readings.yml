@@ -1,6 +1,26 @@
 ---
-  - year:
-    month: 
-    date:
-    assignment:
+  - year: 2018
+    month: July
+    date: 2018-07-01
+    assignment: Rev Johnson Mathew
     
+  - year: 2018
+    month: July
+    date: 2018-07-08
+    assignment: Jose Cherian
+
+  - year: 2018
+    month: July
+    date: 2018-07-15
+    assignment: Koshykunju K Ninan
+
+  - year: 2018
+    month: July
+    date: 2018-07-22
+    assignment: Kurian A Mathew
+
+  - year: 2018
+    month: July
+    date: 2018-07-29
+    assignment: Mathew A Mathew
+  

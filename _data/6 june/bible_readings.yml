@@ -1,6 +1,20 @@
 ---
-  - year:
-    month: 
-    date:
-    assignment:
+  - year: 2018
+    month: June
+    date: 2018-06-03
+    assignment: Jacob Mathew
     
+  - year: 2018
+    month: June
+    date: 2018-06-10
+    assignment: Jacob Varghese  
+
+  - year: 2018
+    month: June
+    date: 2018-06-17
+    assignment: John C Mathai (Raju)
+
+  - year: 2018
+    month: June
+    date: 2018-06-24
+    assignment: John Samuel (Kochumon)

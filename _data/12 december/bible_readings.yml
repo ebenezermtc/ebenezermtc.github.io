@@ -1,6 +1,26 @@
 ---
-  - year:
-    month: 
-    date:
-    assignment:
+  - year: 2018
+    month: December
+    date: 2018-12-02
+    assignment: Abraham Jacob
     
+  - year: 2018
+    month: December
+    date: 2018-12-09
+    assignment: Abraham Oonnoonny
+
+  - year: 2018
+    month: December
+    date: 2018-12-16
+    assignment: Alexi Isac
+
+  - year: 2018
+    month: December
+    date: 2018-12-23
+    assignment: Anish V Titus
+
+  - year: 2018
+    month: December
+    date: 2018-12-30
+    assignment: Benjamin Jacob
+  
