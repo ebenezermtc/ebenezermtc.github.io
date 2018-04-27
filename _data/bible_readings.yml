@@ -1,25 +1,40 @@
 ---
   - year: 2018
-    month: April
-    date: 2018-04-01
-    assignment: Anish V Titus
+    month: May
+    date: 2018-05-06
+    assignment: Eapen Joseph (Jose)
     
   - year: 2018
-    month: April
-    date: 2018-04-08
-    assignment: Benjamin Jacob
+    month: May
+    date: 2018-05-13
+    assignment: George Thomas
 
   - year: 2018
-    month: April
-    date: 2018-04-15
-    assignment: Ben George (Rajan)
+    month: May
+    date: 2018-05-20
+    assignment: George P Varghese
 
   - year: 2018
-    month: April
-    date: 2018-04-22
-    assignment: Chris John
+    month: May
+    date: 2018-05-27
+    assignment: Jacob Mathew
+    
+  - year: 2018
+    month: June
+    date: 2018-06-03
+    assignment: Jacob Varghese
+    
+  - year: 2018
+    month: June
+    date: 2018-06-10
+    assignment: John C Mathai (Raju) 
 
   - year: 2018
-    month: April
-    date: 2018-04-29
-    assignment: Chacko CS (Raju)
+    month: June
+    date: 2018-06-17
+    assignment: John Samuel (Kochumon)
+
+  - year: 2018
+    month: June
+    date: 2018-06-24
+    assignment: Rev Johnson Mathew
