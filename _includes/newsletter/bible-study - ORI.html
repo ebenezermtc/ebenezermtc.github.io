@@ -1,0 +1,20 @@
+<div class="plan-wrap wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="400ms">
+    <div class="price-title center-heading">
+        <h4>Bible Study</h4>
+    </div><!--plan title-->
+    <table class="nl">
+        <tr class="nl">
+            <th class="nl"> Date </th>
+            <th class="nl"> Venue </th>
+            <th class="nl"> Leader </th>
+        </tr>
+        {% for bibstudy in site.data.bible_studies %}
+        <tr class="nl">
+            <td class="nl"> {{bibstudy.date | date: "%b %d"}} </td>
+            <td class="nl"> {{bibstudy.venue}} </td>  
+            <td class="nl"> {{bibstudy.leader}} </td>          
+        </tr>
+        {% endfor %}
+    </table>
+<!--Bible Study LIST-->
+</div>
