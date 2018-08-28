@@ -1,25 +1,30 @@
 ---
   - year: 2018
-    month: August
-    date: 2018-08-05
-    service: Malayalam Holy Communion Service
+    month: September
+    date: 2018-09-02
+    service: English Holy Communion
     celebrant: Rev Biji Mathew
 
   - year: 2018
-    month: August
-    date: 2018-08-12
-    service: English Praise & Worship Service
-    celebrant: 
+    month: September
+    date: 2018-09-09
+    service: Malayalam Divine Service
+    celebrant: Sermon by Mr Jose Cherian
 
   - year: 2018
-    month: August
-    date: 2018-08-19
-    service: Malayalam Holy Communion Service
-    celebrant: Rev. Biji Mathew
+    month: September
+    date: 2018-09-16
+    service: Malayalam Holy Communion
+    celebrant: Rev Biji Mathew 
 
   - year: 2018
-    month: August
-    date: 2018-08-26
-    service: English Holy Communion Service
+    month: September
+    date: 2018-09-23
+    service: Malayalam Holy Communion
     celebrant: Rev PM Thomas
 
+  - year: 2018
+    month: September
+    date: 2018-09-30
+    service: English Praise & Worship Service
+    celebrant:  

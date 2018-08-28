@@ -1,26 +1,6 @@
 ---
 
   - year: 2018
-    month: August
-    date: 2018-08-05
-    assignment: Philip Parayil
-    
-  - year: 2018
-    month: August
-    date: 2018-08-12
-    assignment: Rachel George
-
-  - year: 2018
-    month: August
-    date: 2018-08-19
-    assignment: Ryan K Varghese
-
-  - year: 2018
-    month: August
-    date: 2018-08-26
-    assignment: Saji Thomas
-    
-  - year: 2018
     month: September
     date: 2018-09-02
     assignment: Saju Mathews
@@ -44,4 +24,24 @@
     month: September
     date: 2018-09-30
     assignment: Thomas KC
+  
+  - year: 2018
+    month: October
+    date: 2018-10-07
+    assignment: Tibu C Tharakan
+    
+  - year: 2018
+    month: October
+    date: 2018-10-14
+    assignment: Titus Samuel
+
+  - year: 2018
+    month: October
+    date: 2018-10-21
+    assignment: Viju V Varghese
+
+  - year: 2018
+    month: October
+    date: 2018-10-28
+    assignment: Vipin T Kovoor
   
