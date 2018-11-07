@@ -16,11 +16,6 @@
 
   - year: 2018
     month: November
-    date: 11/07
-    name: Dr Minnie John
-
-  - year: 2018
-    month: November
     date: 11/10
     name: Alvin Mathew
   
@@ -68,6 +63,11 @@
     month: November
     date: 11/26
     name: Annakutty Jacob
+
+  - year: 2018
+    month: November
+    date: 11/27
+    name: Dr Minnie John
 
   - year: 2018
     month: November
