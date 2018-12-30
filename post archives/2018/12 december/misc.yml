@@ -1,22 +1,29 @@
 ---
 
-  - year: 2016
+  - year: 2018
     month: December
-    date: 2016-12-17
-    time: 6 PM 
-    program_name: Christmas Carol Service @ Ebenezer MTC
-    info:
+    date: 2018-12-14
+    time: 
+    program_name: Christmas Carol House Visiting
+    info: Port Chester and Rye Brook
 
-  - year: 2016
+  - year: 2018
     month: December
-    date: 2016-12-25
-    time: 8 AM 
-    program_name: Christmas Holy Communion @ Ebenezer MTC
-    info:
+    date: 2018-12-15
+    time: 
+    program_name: Christmas Carol House Visiting
+    info: Bronxville, Mount Vernon, New Rochelle, Bronx, Yonkers, Tarry Town, White Plains, Rockland County, and Croton Manor
 
-  - year: 2016
+  - year: 2018
     month: December
-    date: 2016-12-31
-    time: 10:30 PM 
-    program_name: New Year's Eve Service @ Ebenezer MTC
-    info: Rev. Shibi Abraham Youth Chaplin will lead Night Watch and Holy Communion
+    date: 2018-12-16
+    time: 
+    program_name: Christmas Carol House Visiting
+    info: Scarsdale, Connecticut, Danbury, and Carmel
+
+  - year: 2018
+    month: December
+    date: 2018-12-22
+    time: 7 PM
+    program_name: Christmas Carol Service
+    info: At Ebenezer Mar Thoma Church
