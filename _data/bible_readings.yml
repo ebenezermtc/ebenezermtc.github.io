@@ -1,23 +1,4 @@
 ---
-  - year: 2019
-    month: February
-    date: 2019-02-03
-    assignment: Jose Cherian
-
-  - year: 2019
-    month: February
-    date: 2019-02-10
-    assignment: Kurian A Mathew      
-
-  - year: 2019
-    month: February
-    date: 2019-02-17
-    assignment: Mathew A Mathew
-
-  - year: 2019
-    month: February
-    date: 2019-02-24
-    assignment: Noble G Verughese
 
   - year: 2019
     month: March
@@ -43,3 +24,23 @@
     month: March
     date: 2019-03-31
     assignment: Saju Mathews
+
+  - year: 2019
+    month: April
+    date: 2019-04-07
+    assignment: Thomas K Mathai
+    
+  - year: 2019
+    month: April
+    date: 2019-04-14
+    assignment: Thomas K Mathew
+
+  - year: 2019
+    month: April
+    date: 2019-04-21
+    assignment: Thomas T Samuel
+
+  - year: 2019
+    month: April
+    date: 2019-04-28
+    assignment: Thomas KC

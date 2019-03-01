@@ -1,24 +1,32 @@
 ---
   - year: 2019
-    month: February
-    date: 2019-02-03
-    service: Malayalam Holy Communion
-    celebrant: Rev Biji Mathew
+    month: March
+    date: 2019-03-03
+    service: Malayalam Holy Communion (Diocesan Sunday)
+    celebrant: Rev Jose KI (Salem MTC, LI) 
 
   - year: 2019
-    month: February
-    date: 2019-02-10
+    month: March
+    date: 2019-03-10
     service: English Holy Communion
     celebrant: Rev PM Thomas
 
   - year: 2019
-    month: February
-    date: 2019-02-17
+    month: March
+    date: 2019-03-17
     service: Malayalam Holy Communion
     celebrant: Rev Biji Mathew
 
   - year: 2019
-    month: February
-    date: 2019-02-24
-    service: English Divine Service (Praise and Worship)
+    month: March
+    date: 2019-03-24
+    service: English Holy Communion 
+    celebrant: Rev Biji Mathew 
+  
+  - year: 2019
+    month: March
+    date: 2019-03-31
+    service: Malayalam Divine service
     celebrant: 
+  
+   
