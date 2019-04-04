@@ -1,85 +1,91 @@
 ---
   - name: Rev Biji Mathew
     title: "President & Vicar"
-    image_path: user_blank.png
+    image_path: bijiachen1.jpg
     phone: 203-570-9084
     email: 
 
-  - name: George P Varughese
+  - name: CS Chacko
     title: Vice President
-    image_path: user_blank.png
-    phone: 914-737-5067
+    image_path: cschacko3.jpg
+    phone: 914-473-3664
     email: 
 
   - name: Dr Susan Kurian
     title: Secretary
-    image_path: user_blank.png
+    image_path: drskurian3.jpg
     phone: 914-417-8503
     email: 
   
-  - name: John Samuel
+  - name: Benjamin Jacob
     title: Treasurer
     image_path: user_blank.png
-    phone: 914-330-7254
+    phone: 214-938-3883
     email: 
 
-  - name: John C Mathai
+  - name: KC Thomas
     title: Accountant
-    image_path: user_blank.png
-    phone: 914-494-7336
+    image_path: kcthomas2.jpg
+    phone: 914-536-9952
     email: 
 
-  - name: Vipin Kovoor
+  - name: Joel Mathew
     title: English Lay Ministrant
     image_path: user_blank.png
-    phone: 914-420-3669
-    email: 
+    phone: 914-960-7404
+    email:
 
-  - name: Jose Cherian
-    title: Malayalam Lay Ministrant
+  - name: Richy Tom Mathew
+    title: English Lay Ministrant
     image_path: user_blank.png
-    phone: 914-689-5988
-    email: 
-
-  - name: Benjamin Jacob
-    title: Sunday School Superintendent
-    image_path: user_blank.png
-    phone: 214-938-3883
-    email:   
-
-  - name: Saji Thomas
-    title: Edavaka Mission Representative
-    image_path: user_blank.png
-    phone: 203-606-0986
-    email: 
-
-  - name: Annakutty Jacob
-    title: Sevika Sangham Representative
-    image_path: user_blank.png
-    phone: 914-714-2835
-    email: 
-
-  - name: Shino Thomas
-    title: Yuvajana Sakhyam Representative
-    image_path: user_blank.png
-    phone: 914-536-9953
+    phone: 914-924-5295
     email: 
 
   - name: Eapen Joseph
-    title: Choir Representative
+    title: Malayalam Lay Ministrant
     image_path: user_blank.png
     phone: 914-310-4892
     email: 
 
-  - name: Sneha Thomas
-    title: Youth Fellowship Representative
+  - name: Tisha Varughese
+    title: Sunday School Representative
+    image_path: tvarughese2.png
+    phone: 914-602-6360
+    email:   
+
+  - name: Thomas K Mathew
+    title: Edavaka Mission Representative
     image_path: user_blank.png
-    phone: 203-606-0996
+    phone: 914-924-6094
+    email: 
+
+  - name: Annamma Mathai
+    title: Sevika Sangham Representative
+    image_path: user_blank.png
+    phone: 718-644-8269
+    email: 
+
+  - name: Tibu C Tharakan
+    title: Yuvajana Sakhyam Representative
+    image_path: ttharakan1.png
+    phone: 914-299-2147
+    email: 
+
+  - name: Feby Varughese
+    title: Choir Representative
+    image_path: user_blank.png
+    phone: 914-815-1555
+    email: 
+
+  - name: Reshma Joseph
+    title: Youth Fellowship Representative
+    image_path: rjose2.jpg
+    phone: 914-523-6902
     email: 
 
   - name: Jacob Abraham
     title: Mandalam Member
-    image_path: user_blank.png
+    image_path: ajacob2.jpg
     phone: 914-912-4405
     email: 
 
