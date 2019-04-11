@@ -1,13 +1,13 @@
 ---
   - name: Rev Biji Mathew
     title: "President & Vicar"
-    image_path: bijiachen1.jpg
+    image_path: BijiAchen1.jpg
     phone: 203-570-9084
     email: 
 
   - name: CS Chacko
     title: Vice President
-    image_path: cschacko3.jpg
+    image_path: cschacko1.jpg
     phone: 914-473-3664
     email: 
 
@@ -43,7 +43,7 @@
 
   - name: Eapen Joseph
     title: Malayalam Lay Ministrant
-    image_path: user_blank.png
+    image_path: ejoseph1.jpg
     phone: 914-310-4892
     email: 
 
@@ -85,7 +85,7 @@
 
   - name: Jacob Abraham
     title: Mandalam Member
-    image_path: ajacob2.jpg
+    image_path: ajacob.jpg
     phone: 914-912-4405
     email: 
 
