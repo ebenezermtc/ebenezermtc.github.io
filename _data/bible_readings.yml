@@ -1,26 +1,6 @@
 ---
 
   - year: 2019
-    month: April
-    date: 2019-04-07
-    assignment: Thomas K Mathai
-    
-  - year: 2019
-    month: April
-    date: 2019-04-14
-    assignment: Thomas K Mathew
-
-  - year: 2019
-    month: April
-    date: 2019-04-21
-    assignment: Thomas T Samuel
-
-  - year: 2019
-    month: April
-    date: 2019-04-28
-    assignment: Thomas KC
-
-  - year: 2019
     month: May
     date: 2019-05-05
     assignment: Tibu C Tharakan
@@ -39,3 +19,28 @@
     month: May
     date: 2019-05-26
     assignment: Vipin T Kovoor
+
+  - year: 2019
+    month: June
+    date: 2019-06-02
+    assignment: Abeyson C Jacob
+    
+  - year: 2019
+    month: June
+    date: 2019-06-09
+    assignment: Abraham Jacob  
+
+  - year: 2019
+    month: June
+    date: 2019-06-16
+    assignment: Abraham Oonnoonny
+
+  - year: 2019
+    month: June
+    date: 2019-06-23
+    assignment: Alexi Isaac
+
+  - year: 2019
+    month: June
+    date: 2019-06-30
+    assignment: Benjamin Jacob
