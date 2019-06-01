@@ -1,29 +1,9 @@
 ---
 
   - year: 2019
-    month: May
-    date: 2019-05-05
-    assignment: Tibu C Tharakan
-    
-  - year: 2019
-    month: May
-    date: 2019-05-12
-    assignment: Titus Samuel
-
-  - year: 2019
-    month: May
-    date: 2019-05-19
-    assignment: Viju V Varghese
-
-  - year: 2019
-    month: May
-    date: 2019-05-26
-    assignment: Vipin T Kovoor
-
-  - year: 2019
     month: June
     date: 2019-06-02
-    assignment: Abeyson C Jacob
+    assignment: Parish Day Readers
     
   - year: 2019
     month: June
@@ -44,3 +24,23 @@
     month: June
     date: 2019-06-30
     assignment: Benjamin Jacob
+
+  - year: 2019
+    month: July
+    date: 2019-07-07
+    assignment: CS Chacko
+    
+  - year: 2019
+    month: July
+    date: 2019-07-14
+    assignment: Chris John
+
+  - year: 2019
+    month: July
+    date: 2019-07-21
+    assignment: Eapen Joseph
+
+  - year: 2019
+    month: July
+    date: 2019-07-22
+    assignment: George Thomas
