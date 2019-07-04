@@ -1,49 +1,42 @@
 ---
   - year: 2019
-    month: June
-    date: 2019-06-02
-    time: after service
-    program_name: Parish Day
-    info: Will be held at Ebenezer MTC
-
-  - year: 2019
-    month: June
-    date: 2019-06-02
-    time: after service
-    program_name: Choir Dedication Day
-    info: Will be held at Ebenezer MTC
-
-  - year: 2019
-    month: June
-    date: 2019-06-02
-    time: after service
-    program_name: Clergy Appreciation Day
-    info: Will be held at Ebenezer MTC
-
-  - year: 2019
-    month: June
-    date: 2019-06-16
-    time: after service
-    program_name: Father's Day Celebration
-    info: Will be held at Ebenezer MTC
-
-  - year: 2019
-    month: June
-    date: 2019-06-16
-    time: after service
-    program_name: Bake/Snack Sale by Choir
-    info: Will be held at Ebenezer MTC
-
-  - year: 2019
-    month: June
-    date: 2019-06-23
+    month: July
+    date: 2019-07-07
     time: 
-    program_name: Sunday School Vacation
+    program_name: Tithe Offering 
     info: 
 
   - year: 2019
-    month: June
-    date: 2019-06-28
-    time:
-    program_name: VBS
-    info: Will be held until June 30th
+    month: August
+    date: 2019-08-03
+    time: 
+    program_name: Neighborhood Mission  
+    info: Lead by Youth Group
+
+  - year: 2019
+    month: August
+    date: 2019-08-17
+    time: 
+    program_name: Parish Picnic  
+    info: Conveners - CS Chacko, Eapen Joseph, and Trustees
+
+  - year: 2019
+    month: August
+    date: 2019-08-18
+    time: 
+    program_name: Student Dedication for College Students  
+    info: 
+
+  - year: 2019
+    month: August
+    date: 2019-08-24
+    time: 
+    program_name: Sunday School Teacher's Training/Meeting  
+    info: 
+
+  - year: 2019
+    month: August
+    date: 2019-08-24
+    time: 
+    program_name: Choir Get-Together  
+    info: 

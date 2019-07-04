@@ -1,30 +1,24 @@
 ---
-  - year: 2018
+  - year: 2019
     month: July
-    date: 2018-07-01
-    service: English Holy Communion (Final Day of VBS)
+    date: 2019-07-07
+    service: Malayalam Holy Communion 
     celebrant: Rev Biji Mathew
 
-  - year: 2018
+  - year: 2019
     month: July
-    date: 2018-07-08
-    service: Malayalam Divine Service
-    celebrant: 
-
-  - year: 2018
-    month: July
-    date: 2018-07-15
-    service: Malayalam Holy Communion
-    celebrant: Rev Biji Mathew
-
-  - year: 2018
-    month: July
-    date: 2018-07-22
+    date: 2019-07-14
     service: English Holy Communion
     celebrant: Rev PM Thomas
 
-  - year: 2018
+  - year: 2019
     month: July
-    date: 2018-07-29
-    service: Malayalam Divine Service
-    celebrant: Speech by Mr Abey Cherian
+    date: 2019-07-21
+    service: Malayalam Holy Communion
+    celebrant: Rev Biji Mathew
+
+  - year: 2019
+    month: July
+    date: 2019-07-28
+    service: English Divine Service
+    celebrant: Speech by Mr Abbey Cherian
