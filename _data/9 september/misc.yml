@@ -1,21 +1,57 @@
 ---
-  - year: 2018
+  - year: 2019
     month: September
-    date: 2018-09-02
+    date: 2019-09-01
     time: In between Church Service
-    program_name: Dedication Service for School Students 
+    program_name: Dedication Service for School Students and Teachers
     info: 
 
-  - year: 2018
+  - year: 2019
     month: September
-    date: 2018-09-16
-    time: 
-    program_name: Auction - "Adhiyaphalam"
-    info:
-
-  - year: 2018
-    month: September
-    date: 2018-09-16
+    date: 2019-09-01
     time: 
     program_name: Sevika Sanghom Day
+    info: 
+
+  - year: 2019
+    month: September
+    date: 2019-09-01
+    time: After Church Service
+    program_name: Onam - Sadhya
+    info: 
+
+  - year: 2019
+    month: September
+    date: 2019-09-01
+    time: After Church Service
+    program_name: Harvest Festival Sale
+    info: 
+
+  - year: 2019
+    month: September
+    date: 2019-09-08
+    time: 
+    program_name: Sunday School classes start
     info:
+
+  - year: 2019
+    month: September
+    date: 2019-09-08
+    time: 
+    program_name: Harvest Festival Sale
+    info:
+
+  - year: 2019
+    month: September
+    date: 2019-09-15
+    time: 
+    program_name: Harvest Festival Sale
+    info:
+
+  - year: 2019
+    month: September
+    date: 2019-09-22
+    time: 
+    program_name: Harvest Festival Sale
+    info:
+

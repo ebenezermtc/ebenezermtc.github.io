@@ -1,35 +1,57 @@
 ---
   - year: 2019
-    month: August
-    date: 2019-08-03
-    time: TBD
-    program_name: Saturday Neighborhood Mission (Led by Youths)
-    info: Will be held at Church (406 King Street)
-
-  - year: 2019
-    month: August
-    date: 2019-08-17
-    time: 9 AM to 3 PM
-    program_name: Parish Picnic
-    info: Will be held at Glen Island Park
-
-  - year: 2019
-    month: August
-    date: 2019-08-18
-    time: After service
-    program_name: Student Dedication for College Students
+    month: September
+    date: 2019-09-01
+    time: In between Church Service
+    program_name: Dedication Service for School Students and Teachers
     info: 
 
   - year: 2019
-    month: August
-    date: 2019-08-24
+    month: September
+    date: 2019-09-01
     time: 
-    program_name: Sunday School Teacher's Training 
+    program_name: Sevika Sanghom Day
     info: 
 
   - year: 2019
-    month: August
-    date: 2019-08-24
-    time: 
-    program_name: Choir Get-together
+    month: September
+    date: 2019-09-01
+    time: After Church Service
+    program_name: Onam - Sadhya
     info: 
+
+  - year: 2019
+    month: September
+    date: 2019-09-01
+    time: After Church Service
+    program_name: Harvest Festival Sale
+    info: 
+
+  - year: 2019
+    month: September
+    date: 2019-09-08
+    time: 
+    program_name: Sunday School classes start
+    info:
+
+  - year: 2019
+    month: September
+    date: 2019-09-08
+    time: 
+    program_name: Harvest Festival Sale
+    info:
+
+  - year: 2019
+    month: September
+    date: 2019-09-15
+    time: 
+    program_name: Harvest Festival Sale
+    info:
+
+  - year: 2019
+    month: September
+    date: 2019-09-22
+    time: 
+    program_name: Harvest Festival Sale
+    info:
+

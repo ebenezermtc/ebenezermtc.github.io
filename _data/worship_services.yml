@@ -1,25 +1,30 @@
 ---
   - year: 2019
-    month: August
-    date: 2019-08-04
-    service: Malayalam Holy Communion Service
+    month: September
+    date: 2019-09-01
+    service: Malayalam Holy Communion
     celebrant: Rev Biji Mathew
 
   - year: 2019
-    month: August
-    date: 2019-08-11
-    service: English Holy Communion Service
-    celebrant: Rev PM Thomas
-
-  - year: 2019
-    month: August
-    date: 2019-08-18
-    service: Malayalam Holy Communion Service
-    celebrant: Rev. Biji Mathew
-
-  - year: 2019
-    month: August
-    date: 2019-08-25
-    service: English Divine Service/Praise and Worship
+    month: September
+    date: 2019-09-08
+    service: Malayalam Divine Service
     celebrant: 
 
+  - year: 2019
+    month: September
+    date: 2019-09-15
+    service: English Holy Communion
+    celebrant: Rev Biji Mathew 
+
+  - year: 2019
+    month: September
+    date: 2019-09-22
+    service: English Divine Service
+    celebrant: 
+
+  - year: 2019
+    month: September
+    date: 2019-09-29
+    service: Malayalam Holy Communion 
+    celebrant: Rev PM Thomas
