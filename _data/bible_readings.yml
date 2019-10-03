@@ -1,26 +1,42 @@
 ---
   - year: 2019
-    month: September
-    date: 2019-09-01
-    assignment: John Samuel
+    month: October
+    date: 2019-10-06
+    assignment: Noble G Varughese
     
   - year: 2019
-    month: September
-    date: 2019-09-08
-    assignment: Rev Johnson Mathew
+    month: October
+    date: 2019-10-13
+    assignment: Philip Parayil
 
   - year: 2019
-    month: September
-    date: 2019-09-15
-    assignment: Jose Cherian
+    month: October
+    date: 2019-10-20
+    assignment: Rachel George
 
   - year: 2019
-    month: September
-    date: 2019-09-22
-    assignment: Kurian A Mathew
+    month: October
+    date: 2019-10-27
+    assignment: Ryan K Varghese
 
   - year: 2019
-    month: September
-    date: 2019-09-29
-    assignment: Mathew A Mathew
-  
+    month: November
+    date: 2019-11-03
+    assignment: Saji Thomas
+    
+  - year: 2019
+    month: November
+    date: 2019-11-10
+    assignment: Saju Mathews
+
+  - year: 2019
+    month: November
+    date: 2019-11-17
+    assignment: Thomas K Mathai
+
+  - year: 2019
+    month: November
+    date: 2019-11-24
+    assignment: Thomas K Mathew
+
+ 
