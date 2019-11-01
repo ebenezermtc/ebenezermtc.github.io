@@ -1,25 +1,5 @@
 ---
   - year: 2019
-    month: October
-    date: 2019-10-06
-    assignment: Noble G Varughese
-    
-  - year: 2019
-    month: October
-    date: 2019-10-13
-    assignment: Philip Parayil
-
-  - year: 2019
-    month: October
-    date: 2019-10-20
-    assignment: Rachel George
-
-  - year: 2019
-    month: October
-    date: 2019-10-27
-    assignment: Ryan K Varghese
-
-  - year: 2019
     month: November
     date: 2019-11-03
     assignment: Saji Thomas
@@ -38,5 +18,35 @@
     month: November
     date: 2019-11-24
     assignment: Thomas K Mathew
+
+  - year: 2019
+    month: December
+    date: 2019-12-01
+    assignment: Thomas T Samuel
+    
+  - year: 2019
+    month: December
+    date: 2019-12-08
+    assignment: Thomas K C
+
+  - year: 2019
+    month: December
+    date: 2019-12-15
+    assignment: Tibu C Tharakan
+
+  - year: 2019
+    month: December
+    date: 2019-12-22
+    assignment: Titus Samuel
+
+  - year: 2019
+    month: December
+    date: 2019-12-25
+    assignment: Viju V Varghese
+
+  - year: 2019
+    month: December
+    date: 2019-12-29
+    assignment: Vipin T Kovoor
 
  
