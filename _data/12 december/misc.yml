@@ -1,29 +1,43 @@
 ---
 
-  - year: 2018
+  - year: 2019
     month: December
-    date: 2018-12-14
+    date: 2019-12-13
     time: 
     program_name: Christmas Carol House Visiting
-    info: Port Chester and Rye Brook
+    info: (Starting from Parsonage), Port Chester and Rye Brook
 
-  - year: 2018
+  - year: 2019
     month: December
-    date: 2018-12-15
+    date: 2019-12-14
     time: 
     program_name: Christmas Carol House Visiting
-    info: Bronxville, Mount Vernon, New Rochelle, Bronx, Yonkers, Tarry Town, White Plains, Rockland County, and Croton Manor
+    info: (Starting from Bronxville), Mount Vernon, New Rochelle, Bronx, Yonkers, Tarry Town, White Plains, Rockland County, Valhalla, and Croton Manor
 
-  - year: 2018
+  - year: 2019
     month: December
-    date: 2018-12-16
+    date: 2019-12-15
     time: 
     program_name: Christmas Carol House Visiting
     info: Scarsdale, Connecticut, Danbury, and Carmel
 
-  - year: 2018
+  - year: 2019
     month: December
-    date: 2018-12-22
-    time: 7 PM
+    date: 2019-12-21
+    time: 6:30 PM
     program_name: Christmas Carol Service
+    info: At Ebenezer Mar Thoma Church
+
+  - year: 2019
+    month: December
+    date: 2019-12-25
+    time: 7:30 AM
+    program_name: Christmas Holy Communion
+    info: At Ebenezer Mar Thoma Church 
+
+  - year: 2019
+    month: December
+    date: 2019-12-31
+    time: 10:30 PM
+    program_name: New Year's Eve Service
     info: At Ebenezer Mar Thoma Church

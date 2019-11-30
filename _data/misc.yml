@@ -1,49 +1,43 @@
 ---
-  - year: 2019
-    month: November
-    date: 2019-11-01
-    time: 6:30 PM
-    program_name: Ebenezer MTC Annual Convention (Day 1)
-    info: Speaker Br Sabu Variapuram
 
   - year: 2019
-    month: November
-    date: 2019-11-02
-    time: 6:30 PM
-    program_name: Ebenezer MTC Annual Convention (Day 2)
-    info: Speaker Br Sabu Variapuram
-
-  - year: 2019
-    month: November
-    date: 2019-11-03
-    time: After Holy Communion
-    program_name: Ebenezer MTC Annual Convention (Day 3)
-    info: Speaker Br Sabu Variapuram
-
-  - year: 2019
-    month: November
-    date: 2019-11-03
+    month: December
+    date: 2019-12-13
     time: 
-    program_name: Family Sunday
-    info: 
+    program_name: Christmas Carol House Visiting
+    info: (Starting from Parsonage), Port Chester and Rye Brook
 
   - year: 2019
-    month: November
-    date: 2019-11-17
-    time: TBD
-    program_name: World Sunday School Day Worship
-    info:
+    month: December
+    date: 2019-12-14
+    time: 
+    program_name: Christmas Carol House Visiting
+    info: (Starting from Bronxville), Mount Vernon, New Rochelle, Bronx, Yonkers, Tarry Town, White Plains, Rockland County, Valhalla, and Croton Manor
 
   - year: 2019
-    month: November
-    date: 2019-11-17
-    time: After Holy Communion Service
-    program_name: General Body Meeting & Annual Election
-    info: 
+    month: December
+    date: 2019-12-15
+    time: 
+    program_name: Christmas Carol House Visiting
+    info: Scarsdale, Connecticut, Danbury, and Carmel
 
   - year: 2019
-    month: November
-    date: 2019-11-23
-    time: TBD
-    program_name: Family Night (1 Program per Family, Group Programs, Programs from each Organization)
-    info: Garibaldi Community Center (Port Chester, NY) - $10 children 5-12 yrs, $15 13 yrs and above
+    month: December
+    date: 2019-12-21
+    time: 6:30 PM
+    program_name: Christmas Carol Service
+    info: At Ebenezer Mar Thoma Church
+
+  - year: 2019
+    month: December
+    date: 2019-12-25
+    time: 7:30 AM
+    program_name: Christmas Holy Communion
+    info: At Ebenezer Mar Thoma Church 
+
+  - year: 2019
+    month: December
+    date: 2019-12-31
+    time: 10:30 PM
+    program_name: New Year's Eve Service
+    info: At Ebenezer Mar Thoma Church

@@ -1,25 +1,5 @@
 ---
   - year: 2019
-    month: November
-    date: 2019-11-03
-    assignment: Saji Thomas
-    
-  - year: 2019
-    month: November
-    date: 2019-11-10
-    assignment: Saju Mathews
-
-  - year: 2019
-    month: November
-    date: 2019-11-17
-    assignment: Thomas K Mathai
-
-  - year: 2019
-    month: November
-    date: 2019-11-24
-    assignment: Thomas K Mathew
-
-  - year: 2019
     month: December
     date: 2019-12-01
     assignment: Thomas T Samuel
@@ -48,5 +28,30 @@
     month: December
     date: 2019-12-29
     assignment: Vipin T Kovoor
+
+  - year: 2019
+    month: December
+    date: 2019-12-31
+    assignment: Abraham Jacob
+    
+  - year: 2020
+    month: January
+    date: 2020-01-05
+    assignment: Abraham Oonnoonny
+
+  - year: 2020
+    month: January
+    date: 2020-01-12
+    assignment: Alexi Isaac   
+
+  - year: 2020
+    month: January
+    date: 2020-01-19
+    assignment: Benjamin Jacob
+
+  - year: 2020
+    month: January
+    date: 2020-01-26
+    assignment: Chacko CS (Raju)
 
  
