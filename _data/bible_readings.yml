@@ -1,39 +1,5 @@
 ---
-  - year: 2019
-    month: December
-    date: 2019-12-01
-    assignment: Thomas T Samuel
-    
-  - year: 2019
-    month: December
-    date: 2019-12-08
-    assignment: Thomas K C
-
-  - year: 2019
-    month: December
-    date: 2019-12-15
-    assignment: Tibu C Tharakan
-
-  - year: 2019
-    month: December
-    date: 2019-12-22
-    assignment: Titus Samuel
-
-  - year: 2019
-    month: December
-    date: 2019-12-25
-    assignment: Viju V Varghese
-
-  - year: 2019
-    month: December
-    date: 2019-12-29
-    assignment: Vipin T Kovoor
-
-  - year: 2019
-    month: December
-    date: 2019-12-31
-    assignment: Abraham Jacob
-    
+   
   - year: 2020
     month: January
     date: 2020-01-05
@@ -53,5 +19,24 @@
     month: January
     date: 2020-01-26
     assignment: Chacko CS (Raju)
+    
+  - year: 2020
+    month: February
+    date: 2020-02-02
+    assignment: Eapen Joseph (Jose)
 
+  - year: 2020
+    month: February
+    date: 2020-02-09
+    assignment: George Thomas     
+
+  - year: 2020
+    month: February
+    date: 2020-02-16
+    assignment: George P Varghese
+
+  - year: 2020
+    month: February
+    date: 2020-02-23
+    assignment: Jacob Mathew
  

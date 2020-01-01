@@ -1,45 +1,60 @@
 ---
-  - year: 2019
-    month: December
-    date: 12/01
-    name: Aleyamma Chacko
+  - year: 2020
+    month: January
+    date: 01/02
+    name: Saju Mathews
 
-  - year: 2019
-    month: December
-    date: 12/06
-    name: Marykutty Varughese
+  - year: 2020
+    month: January
+    date: 01/03
+    name: Noble G Varghese
 
-  - year: 2019
-    month: December
-    date: 12/11
-    name: Joel Johnson Mathew
+  - year: 2020
+    month: January
+    date: 01/08
+    name: Rebecca R Joseph
 
-  - year: 2019
-    month: December
-    date: 12/12
-    name: Titus Kurian
+  - year: 2020
+    month: January
+    date: 01/09
+    name: George P Varghese
 
-  - year: 2019
-    month: December
-    date: 12/15
-    name: Chris John
+  - year: 2020
+    month: January
+    date: 01/15
+    name: Sheeba Sarah Ben
 
-  - year: 2019
-    month: December
-    date: 12/24
-    name: Alexi Isac
+  - year: 2020
+    month: January
+    date: 01/16
+    name: George James 
 
-  - year: 2019
-    month: December
-    date: 12/24
-    name: Ryan J Mathew
+  - year: 2020
+    month: January
+    date: 01/16
+    name: Philip Parayil 
 
-  - year: 2019
-    month: December
-    date: 12/24
-    name: Seba Samuel-John
+  - year: 2020
+    month: January
+    date: 01/17
+    name: Jewel Varghese
 
-  - year: 2019
-    month: December
-    date: 12/25
-    name: Christine Miriam Samuel
+  - year: 2020
+    month: January
+    date: 01/20
+    name: Ajus K Ninan
+
+  - year: 2020
+    month: January
+    date: 01/20
+    name: Sean George
+
+  - year: 2020
+    month: January
+    date: 01/21
+    name: Shino Jacob Thomas
+  
+  - year: 2020
+    month: January
+    date: 01/25
+    name: Gifty Tom Mathew    
