@@ -1,24 +1,4 @@
 ---
-   
-  - year: 2020
-    month: January
-    date: 2020-01-05
-    assignment: Abraham Oonnoonny
-
-  - year: 2020
-    month: January
-    date: 2020-01-12
-    assignment: Alexi Isaac   
-
-  - year: 2020
-    month: January
-    date: 2020-01-19
-    assignment: Benjamin Jacob
-
-  - year: 2020
-    month: January
-    date: 2020-01-26
-    assignment: Chacko CS (Raju)
     
   - year: 2020
     month: February
@@ -40,3 +20,27 @@
     date: 2020-02-23
     assignment: Jacob Mathew
  
+  - year: 2020
+    month: March
+    date: 2020-03-01
+    assignment: Jacob Varghese
+    
+  - year: 2020
+    month: March
+    date: 2020-03-08
+    assignment: John C Mathai
+
+  - year: 2020
+    month: March
+    date: 2020-03-15
+    assignment: John Samuel
+
+  - year: 2020
+    month: March
+    date: 2020-03-22
+    assignment: Rev Johnson Mathew
+
+  - year: 2020
+    month: March
+    date: 2020-03-29
+    assignment: Jose Cherian
