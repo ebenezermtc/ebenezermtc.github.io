@@ -1,26 +1,6 @@
 ---
     
   - year: 2020
-    month: February
-    date: 2020-02-02
-    assignment: Eapen Joseph (Jose)
-
-  - year: 2020
-    month: February
-    date: 2020-02-09
-    assignment: George Thomas     
-
-  - year: 2020
-    month: February
-    date: 2020-02-16
-    assignment: George P Varghese
-
-  - year: 2020
-    month: February
-    date: 2020-02-23
-    assignment: Jacob Mathew
- 
-  - year: 2020
     month: March
     date: 2020-03-01
     assignment: Jacob Varghese
@@ -44,3 +24,23 @@
     month: March
     date: 2020-03-29
     assignment: Jose Cherian
+
+  - year: 2020
+    month: April
+    date: 2020-04-05
+    assignment: Kurian A Mathew
+    
+  - year: 2020
+    month: April
+    date: 2020-04-12
+    assignment: Mathew A Mathew
+
+  - year: 2020
+    month: April
+    date: 2020-04-19
+    assignment: Noble G Varughese
+
+  - year: 2020
+    month: April
+    date: 2020-04-26
+    assignment: Philip Parayil
