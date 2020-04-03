@@ -1,29 +1,4 @@
----
-    
-  - year: 2020
-    month: March
-    date: 2020-03-01
-    assignment: Jacob Varghese
-    
-  - year: 2020
-    month: March
-    date: 2020-03-08
-    assignment: John C Mathai
-
-  - year: 2020
-    month: March
-    date: 2020-03-15
-    assignment: John Samuel
-
-  - year: 2020
-    month: March
-    date: 2020-03-22
-    assignment: Rev Johnson Mathew
-
-  - year: 2020
-    month: March
-    date: 2020-03-29
-    assignment: Jose Cherian
+--- 
 
   - year: 2020
     month: April
@@ -44,3 +19,28 @@
     month: April
     date: 2020-04-26
     assignment: Philip Parayil
+
+  - year: 2020
+    month: May
+    date: 2020-05-03
+    assignment: Rachel George
+    
+  - year: 2020
+    month: May
+    date: 2020-05-10
+    assignment: Ryan K Varghese
+
+  - year: 2020
+    month: May
+    date: 2020-05-17
+    assignment: Saji Thomas
+
+  - year: 2020
+    month: May
+    date: 2020-05-24
+    assignment: Saju Mathews
+
+  - year: 2020
+    month: May
+    date: 2020-05-31
+    assignment: Suja Ninan
