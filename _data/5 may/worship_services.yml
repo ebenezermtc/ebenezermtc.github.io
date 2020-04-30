@@ -1,24 +1,30 @@
 ---
-  - year: 2019
+  - year: 2020
     month: May
-    date: 2019-05-05
-    service: English Holy Communion
+    date: 2020-05-03
+    service: Malayalam Divine Service (Go To Meeting @ 10AM)
     celebrant: Rev Biji Mathew
 
-  - year: 2019
+  - year: 2020
     month: May
-    date: 2019-05-12
-    service: English Holy Communion
-    celebrant: Rev PM Thomas
-
-  - year: 2019
-    month: May
-    date: 2019-05-19
-    service: Malayalam Holy Communion
+    date: 2020-05-10
+    service: English Divine Service (Go To Meeting @ 10AM)
     celebrant: Rev Biji Mathew
 
-  - year: 2019
+  - year: 2020
     month: May
-    date: 2019-05-26
-    service: Malayalam Holy Communion
+    date: 2020-05-17
+    service: Malayalam Divine Service (Go To Meeting @ 10AM)
+    celebrant: Rev Biji Mathew
+
+  - year: 2020
+    month: May
+    date: 2020-05-24
+    service: English Divine Service (Go To Meeting @ 10AM)
+    celebrant: Rev Biji Mathew 
+
+  - year: 2020
+    month: May
+    date: 2020-05-31
+    service: Malayalam Divine Service (Go To Meeting @ 10AM)
     celebrant: Rev Biji Mathew 
