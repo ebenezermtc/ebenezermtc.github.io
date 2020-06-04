@@ -1,30 +1,4 @@
---- 
-
-  - year: 2020
-    month: May
-    date: 2020-05-03
-    assignment: Rachel George
-    
-  - year: 2020
-    month: May
-    date: 2020-05-10
-    assignment: Ryan K Varghese
-
-  - year: 2020
-    month: May
-    date: 2020-05-17
-    assignment: Saji Thomas
-
-  - year: 2020
-    month: May
-    date: 2020-05-24
-    assignment: Saju Mathews
-
-  - year: 2020
-    month: May
-    date: 2020-05-31
-    assignment: Suja Ninan
-    
+---  
   - year: 2020
     month: June
     date: 2020-06-07
@@ -44,3 +18,23 @@
     month: June
     date: 2020-06-28
     assignment: Thomas KC
+
+  - year: 2020
+    month: July
+    date: 2020-07-05
+    assignment: TIbu C Tharakan
+    
+  - year: 2020
+    month: July
+    date: 2020-07-12
+    assignment: Titus Samuel
+
+  - year: 2020
+    month: July
+    date: 2020-07-19
+    assignment: Viju V Varughese
+
+  - year: 2020
+    month: July
+    date: 2020-07-26
+    assignment: Vipin T Kovoor
