@@ -17,7 +17,7 @@
     phone: 914-417-8503
     email: 
   
-  - name: Benjamin Jacob
+  - name: Ashok Benjamin Jacob
     title: Treasurer
     image_path: user_blank.png
     phone: 214-938-3883
@@ -29,52 +29,34 @@
     phone: 914-536-9952
     email: 
 
-  - name: Joel Mathew
-    title: English Lay Ministrant
+  - name: Jacob Abraham
+    title: Malayalam Lay Ministrant
     image_path: user_blank.png
-    phone: 914-960-7404
+    phone: 914-912-4405
     email:
 
   - name: Richy Tom Mathew
     title: English Lay Ministrant
     image_path: user_blank.png
     phone: 914-924-5295
+    email:   
+
+  - name: Jose Cherian
+    title: Sabha Mandalam Member
+    image_path: user_blank.png
+    phone: 914-689-5988
     email: 
 
-  - name: Eapen Joseph
-    title: Malayalam Lay Ministrant
-    image_path: ejoseph1.jpg
-    phone: 914-310-4892
+  - name: CS Chacko
+    title: Diocesan (Assembly) Member
+    image_path: cschacko1.jpg
+    phone: 914-473-3664
     email: 
-
+    
   - name: Tisha Varughese
     title: Sunday School Representative
     image_path: tvarughese2.png
     phone: 914-602-6360
-    email:   
-
-  - name: Thomas K Mathew
-    title: Edavaka Mission Representative
-    image_path: user_blank.png
-    phone: 914-924-6094
-    email: 
-
-  - name: Annamma Mathai
-    title: Sevika Sangham Representative
-    image_path: user_blank.png
-    phone: 718-644-8269
-    email: 
-
-  - name: Tibu C Tharakan
-    title: Yuvajana Sakhyam Representative
-    image_path: ttharakan1.png
-    phone: 914-299-2147
-    email: 
-
-  - name: Feby Varughese
-    title: Choir Representative
-    image_path: user_blank.png
-    phone: 914-815-1555
     email: 
 
   - name: Reshma Joseph
@@ -83,14 +65,26 @@
     phone: 914-523-6902
     email: 
 
-  - name: Jacob Abraham
-    title: Mandalam Member
-    image_path: ajacob.jpg
-    phone: 914-912-4405
+  - name: Tibu C Tharakan
+    title: Yuvajana Sakhyam Representative
+    image_path: ttharakan1.png
+    phone: 914-299-2147
     email: 
 
-  - name: Jacob Varughese
-    title: Diocesan (Assembly) Member
+  - name: Annakutty Jacob
+    title: Sevika Sangham Representative
     image_path: user_blank.png
-    phone: 914-610-6360
+    phone: 914-714-2835
+    email: 
+
+  - name: Thomas K Mathew
+    title: Edavaka Mission Representative
+    image_path: user_blank.png
+    phone: 914-924-6094
+    email: 
+
+  - name: Feby Varughese
+    title: Choir Representative
+    image_path: user_blank.png
+    phone: 914-815-1555
     email: 

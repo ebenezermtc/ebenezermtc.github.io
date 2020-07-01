@@ -1,20 +1,25 @@
 ---
-  - year: 2019
+  - year: 2020
     month: August
-    date: 2019-08-04
-    assignment: George P Varghese
+    date: 2020-08-02
+    assignment: Abraham Jacob
     
-  - year: 2019
+  - year: 2020
     month: August
-    date: 2019-08-11
-    assignment: Jacob Mathew
+    date: 2020-08-09
+    assignment: Abraham Oonnoonny
 
-  - year: 2019
+  - year: 2020
     month: August
-    date: 2019-08-18
-    assignment: Jacob Varghese
+    date: 2020-08-16
+    assignment: Alexei Isaac
 
-  - year: 2019
+  - year: 2020
     month: August
-    date: 2019-08-25
-    assignment: John C Mathai
+    date: 2020-08-23
+    assignment: Benjamin Jacob
+
+  - year: 2020
+    month: August
+    date: 2020-08-23
+    assignment: CS Chacko
