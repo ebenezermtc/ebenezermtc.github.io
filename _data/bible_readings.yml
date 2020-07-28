@@ -1,25 +1,5 @@
 ---  
   - year: 2020
-    month: July
-    date: 2020-07-05
-    assignment: TIbu C Tharakan
-    
-  - year: 2020
-    month: July
-    date: 2020-07-12
-    assignment: Titus Samuel
-
-  - year: 2020
-    month: July
-    date: 2020-07-19
-    assignment: Viju V Varughese
-
-  - year: 2020
-    month: July
-    date: 2020-07-26
-    assignment: Vipin T Kovoor
-    
-  - year: 2020
     month: August
     date: 2020-08-02
     assignment: Abraham Jacob
@@ -43,3 +23,23 @@
     month: August
     date: 2020-08-30
     assignment: CS Chacko
+
+  - year: 2020
+    month: September
+    date: 2020-09-06
+    assignment: Eapen Joseph (Jose)
+    
+  - year: 2020
+    month: September
+    date: 2020-09-13
+    assignment: George Thomas
+
+  - year: 2020
+    month: September
+    date: 2020-09-20
+    assignment: George P Varghese
+
+  - year: 2020
+    month: September
+    date: 2020-09-27
+    assignment: Jacob Mathew
