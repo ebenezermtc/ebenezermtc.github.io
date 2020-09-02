@@ -1,25 +1,40 @@
 ---
   - year: 2020
-    month: August
-    date: 2020-08-02
-    assignment: Abraham Jacob
+    month: September
+    date: 2020-09-06
+    assignment: Eapen Joseph (Jose)
     
   - year: 2020
-    month: August
-    date: 2020-08-09
-    assignment: Abraham Oonnoonny
+    month: September
+    date: 2020-09-13
+    assignment: George Thomas
 
   - year: 2020
-    month: August
-    date: 2020-08-16
-    assignment: Alexei Isaac
+    month: September
+    date: 2020-09-20
+    assignment: George P Varghese
 
   - year: 2020
-    month: August
-    date: 2020-08-23
-    assignment: Benjamin Jacob
+    month: September
+    date: 2020-09-27
+    assignment: Jacob Mathew
+    
+  - year: 2020
+    month: October
+    date: 2020-10-04
+    assignment: Jacob Varughese
+    
+  - year: 2020
+    month: October
+    date: 2020-10-11
+    assignment: John C Mathai
 
   - year: 2020
-    month: August
-    date: 2020-08-30
-    assignment: CS Chacko
+    month: October
+    date: 2020-10-18
+    assignment: John Samuel
+
+  - year: 2020
+    month: October
+    date: 2020-10-25
+    assignment: Rev Johnson Mathew
