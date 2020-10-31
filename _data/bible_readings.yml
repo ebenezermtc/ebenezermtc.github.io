@@ -1,25 +1,5 @@
 ---  
   - year: 2020
-    month: October
-    date: 2020-10-04
-    assignment: Jacob Varughese
-    
-  - year: 2020
-    month: October
-    date: 2020-10-11
-    assignment: John C Mathai
-
-  - year: 2020
-    month: October
-    date: 2020-10-18
-    assignment: John Samuel
-
-  - year: 2020
-    month: October
-    date: 2020-10-25
-    assignment: Rev Johnson Mathew
-
-  - year: 2020
     month: November
     date: 2020-11-01
     assignment: Jose Cherian
@@ -43,6 +23,27 @@
     month: November
     date: 2020-11-29
     assignment: Philip Parayil
+  
+  - year: 2020
+    month: December
+    date: 2020-12-06
+    assignment: Rachel George
+    
+  - year: 2020
+    month: December
+    date: 2020-12-13
+    assignment: Ryan K Varghese
+
+  - year: 2020
+    month: December
+    date: 2020-12-20
+    assignment: Saji Thomas
+
+  - year: 2020
+    month: December
+    date: 2020-12-27
+    assignment: Saju Mathews
+
 
  
 

@@ -1,24 +1,30 @@
 ---
   - year: 2020
-    month: October
-    date: 2020-10-04
-    service: Malayalam Holy Communion (MT Voluntary Evangelist Sunday Service) at 10AM
+    month: November
+    date: 2020-11-01
+    service: English Holy Communion (Sunday School Day)
     celebrant: Rev Biji Mathew
 
   - year: 2020
-    month: October
-    date: 2020-10-11
-    service: English Divine Service (Youth Fellowship Sunday) at 10 AM
-    celebrant: 
-
-  - year: 2020
-    month: October
-    date: 2020-10-18
-    service: Malayalam Holy Communion (Yuvajana Sakhyam Sunday) at 10 AM
+    month: November
+    date: 2020-11-08
+    service: Malayalam Divine Service
     celebrant: Rev Biji Mathew
 
   - year: 2020
-    month: October
-    date: 2020-10-25
-    service: Malayalam Holy Communion at 10 AM (Family Dedication Sunday) 
+    month: November
+    date: 2020-11-15
+    service: Malayalam Holy Communion 
+    celebrant: Rev Biji Mathew
+
+  - year: 2020
+    month: November
+    date: 2020-11-22
+    service: English Divine Service
+    celebrant: Rev Biji Mathew
+
+  - year: 2020
+    month: November
+    date: 2020-11-29
+    service: Malayalam Divine Service
     celebrant: Rev Biji Mathew
