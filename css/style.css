@@ -133,8 +133,8 @@ h1,h2,h3,h4,h5,h6{
     /* background-image: url(../img/spring_home.jpg); */
     /* background-image: url(../img/spring_home.jpg); */
     /* background-image: url(../img/summer_home.jpg);   */
-    background-image: url(../img/fall_home.jpg);   
-    /* background-image: url(../img/winter_home.jpg); */
+    /* background-image: url(../img/fall_home.jpg);   */
+    background-image: url(../img/winter_home.jpg); 
     display: table;
     width: 100%;
     height: 665px;

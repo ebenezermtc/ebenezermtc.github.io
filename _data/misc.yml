@@ -1,7 +1,15 @@
 ---
-  - year:
-    month: 
-    date:
-    time:
-    program_name:
-    info:
+
+  - year: 2020
+    month: December
+    date: 2020-12-12
+    time: 
+    program_name: Joint Diocesan Convention Day 1 of 2
+    info: 
+
+  - year: 2020
+    month: December
+    date: 2020-12-13
+    time: 10.30 AM
+    program_name: Joint Diocesan Convention Day 2 of 2
+    info: 

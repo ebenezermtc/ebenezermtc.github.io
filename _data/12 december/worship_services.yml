@@ -1,42 +1,36 @@
 ---
-  - year: 2019
+  - year: 2020
     month: December
-    date: 2019-12-01
-    service: Malayalam Holy Communion
+    date: 2020-12-06
+    service: Malayalam Holy Communion (Sunday School Sunday) at 10 AM
     celebrant:  Rev Biji Mathew
 
-  - year: 2019
+  - year: 2020
     month: December
-    date: 2019-12-08
-    service: Malayalam Divine Service 
+    date: 2020-12-13
+    service: Malayalam Holy Communion at 9 AM (Final day of Diocesan Convention)
     celebrant: 
 
-  - year: 2019
+  - year: 2020
     month: December
-    date: 2019-12-15
+    date: 2020-12-20
     service: English Holy Communion
     celebrant: Rev Biji Mathew
 
-  - year: 2019
+  - year: 2020
     month: December
-    date: 2019-12-22
-    service: Malayalam Divine Service
-    celebrant: 
+    date: 2020-12-25
+    service: Malayalam Divine Service at 8 AM
+    celebrant: Rev Biji Mathew
 
-  - year: 2019
+  - year: 2020
     month: December
-    date: 2019-12-25
-    service: Malayalam Holy Communion at 07:30 AM
-    celebrant: 
+    date: 2020-12-27
+    service: Malayalam Divine Service at 10 AM
+    celebrant: Rev Biji Mathew
 
-  - year: 2019
+  - year: 2020
     month: December
-    date: 2019-12-29
-    service: English Divine Service
-    celebrant: 
-
-  - year: 2019
-    month: December
-    date: 2019-12-31
-    service: Malayalam Holy Communion (Watch Night Service) at 10:30 PM
+    date: 2020-12-31
+    service: Malayalam Holy Communion at 10.30 PM (Watch Night Service)
     celebrant: Rev Biji Mathew
