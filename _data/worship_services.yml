@@ -1,26 +1,37 @@
 ---
   - year: 2021
-    month: March
-    date: 2021-03-07
-    service: Malayalam Holy Communion (Diocesan Sunday)
-    celebrant: Rev Biji Mathew (Speech by Mr CS Chacko)
+    month: April
+    date: 2021-04-01
+    service: Malayalam Holy Communion (6:30 PM) Maundy Thursday
+    celebrant:  Rev Biji Mathew
 
   - year: 2021
-    month: March
-    date: 2021-03-14
+    month: April
+    date: 2021-04-02
+    service: English Holy Communion (9:30AM) Good Friday 3 Services
+    celebrant:  Rev Biji Mathew 
+
+  - year: 2021
+    month: April
+    date: 2021-04-04
+    service: Malayalam Holy Communion (9:30AM) 
+    celebrant:  Rev PM Thomas
+
+  - year: 2021
+    month: April
+    date: 2021-04-11
     service: English Divine Service
-    celebrant: Rev Biji Mathew
+    celebrant:  
 
   - year: 2021
-    month: March
-    date: 2021-03-21
+    month: April
+    date: 2021-04-18
+    service: Malayalam Holy Communion - Vicar's Farewell
+    celebrant: Rev Biji Mathew 
+
+  - year: 2021
+    month: April
+    date: 2021-04-25
     service: Malayalam Divine Service
-    celebrant: Rev Biji Mathew
-
-  - year: 2021
-    month: March
-    date: 2021-03-28
-    service: Malayalam Holy Communion (Palm Sunday) 
-    celebrant: Rev Biji Mathew
+    celebrant: 
   
-   

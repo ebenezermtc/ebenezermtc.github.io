@@ -1,24 +1,4 @@
----
-  - year: 2021
-    month: March
-    date: 2021-03-07
-    assignment: Jacob Varghese
-    
-  - year: 2021
-    month: March
-    date: 2021-03-14
-    assignment: John C Mathai
-
-  - year: 2021
-    month: March
-    date: 2021-03-21
-    assignment: John Samuel
-
-  - year: 2021
-    month: March
-    date: 2021-03-28
-    assignment: Rev Johnson Mathew
-    
+---  
   - year: 2021
     month: April
     date: 2021-04-04
@@ -38,3 +18,28 @@
     month: April
     date: 2021-04-25
     assignment: Noble G Varughese
+    
+  - year: 2021
+    month: May
+    date: 2021-05-02
+    assignment: Philip Parayil
+    
+  - year: 2021
+    month: May
+    date: 2021-05-09
+    assignment: Rachel George
+
+  - year: 2021
+    month: May
+    date: 2021-05-16
+    assignment: Ryan K Varghese
+
+  - year: 2021
+    month: May
+    date: 2021-05-23
+    assignment: Saji Thomas
+
+  - year: 2021
+    month: May
+    date: 2021-05-30
+    assignment: Saju Mathews
