@@ -1,37 +1,30 @@
 ---
   - year: 2021
-    month: April
-    date: 2021-04-01
-    service: Malayalam Holy Communion (6:30 PM) Maundy Thursday
-    celebrant:  Rev Biji Mathew
+    month: May
+    date: 2021-05-02
+    service: Malayalam Holy Communion Service 
+    celebrant: Rev Aju Abraham
 
   - year: 2021
-    month: April
-    date: 2021-04-02
-    service: English Holy Communion (9:30AM) Good Friday 3 Services
-    celebrant:  Rev Biji Mathew 
-
-  - year: 2021
-    month: April
-    date: 2021-04-04
-    service: Malayalam Holy Communion (9:30AM) 
-    celebrant:  Rev PM Thomas
-
-  - year: 2021
-    month: April
-    date: 2021-04-11
-    service: English Divine Service
-    celebrant:  
-
-  - year: 2021
-    month: April
-    date: 2021-04-18
-    service: Malayalam Holy Communion - Vicar's Farewell
-    celebrant: Rev Biji Mathew 
-
-  - year: 2021
-    month: April
-    date: 2021-04-25
+    month: May
+    date: 2021-05-09
     service: Malayalam Divine Service
     celebrant: 
-  
+
+  - year: 2021
+    month: May
+    date: 2021-05-16
+    service: English Holy Communion Service
+    celebrant: Rev Aju Abraham
+
+  - year: 2021
+    month: May
+    date: 2021-05-23
+    service: Malayalam Divine Service
+    celebrant: 
+
+  - year: 2021
+    month: May
+    date: 2021-05-30
+    service: Malayalam Divine Service
+    celebrant:  

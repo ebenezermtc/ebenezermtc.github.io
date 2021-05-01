@@ -1,30 +1,5 @@
 ---  
   - year: 2021
-    month: April
-    date: 2021-04-04
-    assignment: Jose Cherian
-    
-  - year: 2021
-    month: April
-    date: 2021-04-11
-    assignment: Kurian A Mathew
-
-  - year: 2021
-    month: April
-    date: 2021-04-18
-    assignment: Mathew A Mathew
-
-  - year: 2021
-    month: April
-    date: 2021-04-25
-    assignment: Noble G Varughese
-    
-  - year: 2021
-    month: May
-    date: 2021-05-02
-    assignment: Philip Parayil
-    
-  - year: 2021
     month: May
     date: 2021-05-09
     assignment: Rachel George
@@ -43,3 +18,23 @@
     month: May
     date: 2021-05-30
     assignment: Saju Mathews
+    
+  - year: 2021
+    month: June
+    date: 2021-06-06
+    assignment: Suja Ninan
+    
+  - year: 2021
+    month: June
+    date: 2021-06-13
+    assignment: Thomas K Mathai
+
+  - year: 2021
+    month: June
+    date: 2021-06-20
+    assignment: Thomas K Mathew 
+
+  - year: 2021
+    month: June
+    date: 2021-06-27
+    assignment: Thomas T Samuel
