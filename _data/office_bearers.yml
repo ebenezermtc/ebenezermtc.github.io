@@ -7,7 +7,7 @@
 
   - name: Jacob Abraham
     title: Vice President
-    image_path: cschacko1.jpg
+    image_path: JacobAbraham.jpeg
     phone: 914-912-4405
     email: 
 
@@ -25,7 +25,7 @@
 
   - name: John C Mathai
     title: Accountant
-    image_path: kcthomas2.jpg
+    image_path: JohnMathai.jpeg
     phone: 914-494-7336
     email: 
 
@@ -55,7 +55,7 @@
     
   - name: Sneha Thomas
     title: Sunday School Representative
-    image_path: user_blank.png
+    image_path: SnehaThomas.jpeg
     phone: 203-927-1572
     email: 
 
@@ -67,13 +67,13 @@
 
   - name: Jacob Mathew
     title: Yuvajana Sakhyam Representative
-    image_path: 
+    image_path: JacobMathew.jpeg
     phone: 203-918-9918
     email: 
 
   - name: Suja Ninan
     title: Sevika Sangham Representative
-    image_path: user_blank.png
+    image_path: SujaNinan.jpeg
     phone: 917-557-1056
     email: 
 
@@ -85,6 +85,6 @@
 
   - name: Feby Varughese
     title: Choir Representative
-    image_path: user_blank.png
+    image_path: Feby.jpeg
     phone: 914-815-1555
     email: 
