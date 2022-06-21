@@ -1,14 +1,14 @@
 ---
-  - name: Rev Aju Abraham
+  - name: Rev George Abraham
     title: "President & Vicar"
-    image_path: RevAju.png
+    image_path: revgabraham.png
     phone: 516-754-6110
     email: 
 
-  - name: Jacob Abraham
+  - name: Eapen Joseph
     title: Vice President
-    image_path: JacobAbraham.jpeg
-    phone: 914-912-4405
+    image_path: ejoseph1.png
+    phone: 914-310-4892
     email: 
 
   - name: Dr Susan Kurian
@@ -17,16 +17,16 @@
     phone: 914-417-8503
     email: 
   
-  - name: John Samuel
+  - name: Feby Varughese
     title: Treasurer
-    image_path: user_blank.png
-    phone: 914-330-7254
+    image_path: fvarughese.png
+    phone: 914-815-1555
     email: 
 
-  - name: John C Mathai
+  - name: Tibu C Tharakan
     title: Accountant
-    image_path: JohnMathai.jpeg
-    phone: 914-494-7336
+    image_path: ttharakan1.png
+    phone: 914-299-2147
     email: 
 
   - name: Jose Cherian
@@ -35,7 +35,7 @@
     phone: 914-689-5988
     email:
 
-  - name: 
+  - name: Nevin Varughese
     title: English Lay Ministrant
     image_path: user_blank.png
     phone: 
@@ -53,16 +53,16 @@
     phone: 914-473-3664
     email: 
     
-  - name: Sneha Thomas
+  - name: Reena Jacob
     title: Sunday School Representative
-    image_path: SnehaThomas.jpeg
-    phone: 203-927-1572
+    image_path: rmathew1.png
+    phone: 203-722-3196
     email: 
 
-  - name: Justin John
+  - name: Rebecca Joseph
     title: Youth Fellowship Representative
     image_path: user_blank.png
-    phone: 914-920-8256
+    phone: 914-582-8329
     email: 
 
   - name: Jacob Mathew
@@ -71,20 +71,20 @@
     phone: 203-918-9918
     email: 
 
-  - name: Suja Ninan
+  - name: Annakutty Jacob
     title: Sevika Sangham Representative
-    image_path: SujaNinan.jpeg
-    phone: 917-557-1056
+    image_path: user_blank.png
+    phone: 914-714-2835
     email: 
 
-  - name: Thomas K Mathew
+  - name: Viju Varughese
     title: Edavaka Mission Representative
     image_path: user_blank.png
-    phone: 914-924-6094
+    phone: 914-589-1779
     email: 
 
-  - name: Feby Varughese
+  - name: Sneha Thomas
     title: Choir Representative
-    image_path: Feby.jpeg
-    phone: 914-815-1555
+    image_path: sthomas.png
+    phone: 203-927-1572
     email: 
