@@ -4,7 +4,7 @@ import re
 
 base = os.path.dirname(os.path.abspath(__file__))
 
-html = open(os.path.join(base, './includes/header.html'))
+html = open(os.path.join(base, '../includes/header.html'))
 
 soup = bs(html, 'html.parser')
 
