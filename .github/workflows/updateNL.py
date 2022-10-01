@@ -2,9 +2,9 @@ from bs4 import BeautifulSoup as bs
 import os
 import re
 
-base = os.path.dirname(os.path.abspath(__file__))
+base = os.path.dirname("~")
 
-html = open(os.path.join(base, '../includes/header.html'))
+html = open(os.path.join(base, 'header.html'))
 
 soup = bs(html, 'html.parser')
 
