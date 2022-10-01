@@ -2,22 +2,22 @@ name: Update Monthly Newsletter
 on: [push]
 
 jobs:
-  job1:
-  runs-on: ubuntu-latest
-  steps:
-  - name: checkout
-    uses: actions/checkout@v3
-  - name: Install python dependencies
-    uses: py-actions/py-dependency-install@v3
-    with:
-      path: "./.github/workflows/requirements.txt"
-  - name: Update HTML
-    run: python ./.github/workflows/updateNL.py
-  - name: Check for changes
-    run: git status
-  - name: Stage changes
-    run: git add .
-  - name: Commit changes
-    run: git commit -m "Auto update for Monthly NL"
-  - name: Push changes to master
-    run: git push origin HEAD:master
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v3
+    - name: Install python dependencies
+      uses: py-actions/py-dependency-install@v3
+      with:
+        path: "./.github/workflows/requirements.txt"
+    - name: Update HTML
+      run: python ./.github/workflows/updateNL.py
+    - name: Check for changes
+      run: git status
+    - name: Stage changes
+      run: git add .
+    - name: Commit changes
+      run: git commit -m "Auto update for Monthly NL"
+    - name: Push changes to master
+      run: git push origin HEAD:master
