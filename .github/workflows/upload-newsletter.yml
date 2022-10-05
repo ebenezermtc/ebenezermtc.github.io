@@ -7,6 +7,10 @@ jobs:
     steps:
     - name: checkout
       uses: actions/checkout@v3
+    - name: setup git config
+      run: |
+        git config user.name "Github Actions Automation"
+        git config user.email "ceej989@live.com"
     - name: Check for changes
       run: git status
     - name: Stage changes
