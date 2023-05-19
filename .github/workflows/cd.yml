@@ -24,8 +24,7 @@ jobs:
         id: increment_tag
         run: |
           TAG=${{ steps.get_tag.outputs.tag }}
-          ((TAG++))
-          echo "$TAG"
+          TAG=$((TAG+1))
           echo "new_tag=$TAG" >> $GITHUB_OUTPUT
       
       - name: Create a "Tag" for Release
