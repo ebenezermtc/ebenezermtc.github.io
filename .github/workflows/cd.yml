@@ -28,7 +28,7 @@ jobs:
           echo "::set-output name=new_tag::$TAG"
       
       - name: Create a "Tag" for Release
-        uses: actions/github-scripts@v6
+        uses: actions/github-script@v6
         with:
           script: |
             github.rest.git.createRef({
