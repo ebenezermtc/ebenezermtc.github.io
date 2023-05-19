@@ -18,7 +18,7 @@ jobs:
       - name: Get latest tag
         id: get_tag
         run: |
-          echo "tag=$(git describe --abbrev=0 --tags 2>/dev/null || echo '1' )" >> $GITHUB_OUTPUT
+          echo "tag=$(git describe --abbrev=0 --tags 2>/dev/null || echo '0' )" >> $GITHUB_OUTPUT
       
       - name: Increment tag
         id: increment_tag
