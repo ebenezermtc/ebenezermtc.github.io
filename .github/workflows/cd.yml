@@ -1,0 +1,43 @@
+name: CD for EMTC
+
+on:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    name: Release Tasks
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Get latest tag
+        id: get_tag
+        run: |
+          echo "::set-output name=tag::${{ git describe --abbrev=0 --tags 2>/dev/null || echo '1' }}"
+      
+      - name: Increment tag
+        id: increment_tag
+        run: |
+          TAG=${{ steps.get_tag_outputs.tag }}
+          ((TAG++))
+          echo "::set-output name=new_tag::$TAG"
+      
+      - name: Create a "Tag" for Release
+        uses: actions/github-scripts@v6
+        with:
+          script: |
+            github.rest.git.createRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: 'refs/tags/${{ steps.increment_tag.outputs.new_tag }}',
+                sha: context.sha
+            })
+      
+      - name: Make release with Github CLI
+        run: |
+          gh release create {{ steps.increment_tag.outputs.new_tag}} -t {{ steps.increment_tag.outputs.new_tag }} --generate-notes -R {{ github.event.repository.name }}
