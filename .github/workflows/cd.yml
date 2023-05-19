@@ -27,16 +27,10 @@ jobs:
           TAG=$((TAG+1))
           echo "new_tag=$TAG" >> $GITHUB_OUTPUT
       
-      - name: Create a "Tag" for Release
-        uses: actions/github-script@v6
-        with:
-          script: |
-            github.rest.git.createRef({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                ref: 'refs/tags/${{ steps.increment_tag.outputs.new_tag }}',
-                sha: context.sha
-            })
+      - name: Push new tag
+        run: |
+          git tag ${{ steps.increment_tag.outputs.new_tag }}
+          git push origin ${{ steps.increment_tag.outputs.new_tag }}
       
       - name: Make release with Github CLI
         run: |
