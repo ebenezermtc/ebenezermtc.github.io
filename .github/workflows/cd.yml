@@ -30,6 +30,8 @@ jobs:
       - name: Make release with Github
         id: create_release
         uses: actions/create-release@v1
+        env:
+            GITHUB_TOKEN: ${{ env.GH_TOKEN }}
         with:
             tag_name: ${{ steps.increment_tag.outputs.new_tag }}
             release_name: Release ${{ steps.increment_tag.outputs.new_tag }}
