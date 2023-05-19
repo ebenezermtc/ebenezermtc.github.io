@@ -14,11 +14,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       
       - name: Get latest tag
         id: get_tag
         run: |
-          git pull --tags --force
           echo "tag=$(git describe --abbrev=0 --tags || echo '0' )" >> $GITHUB_OUTPUT
       
       - name: Increment tag
