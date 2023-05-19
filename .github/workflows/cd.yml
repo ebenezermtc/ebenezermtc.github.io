@@ -23,7 +23,7 @@ jobs:
       - name: Increment tag
         id: increment_tag
         run: |
-          TAG=${{ steps.get_tag_outputs.tag }}
+          TAG=${{ steps.get_tag.outputs.tag }}
           ((TAG++))
           echo "new_tag=$TAG" >> $GITHUB_OUTPUT
       
