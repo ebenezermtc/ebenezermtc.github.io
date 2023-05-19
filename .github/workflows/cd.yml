@@ -34,4 +34,4 @@ jobs:
       
       - name: Make release with Github CLI
         run: |
-          gh release create {{ steps.increment_tag.outputs.new_tag }} -t {{ steps.increment_tag.outputs.new_tag }} --generate-notes -R {{ github.event.repository.name }}
+          gh release create {{ steps.increment_tag.outputs.new_tag }} -t {{ steps.increment_tag.outputs.new_tag }} --generate-notes
