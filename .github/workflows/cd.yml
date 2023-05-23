@@ -42,7 +42,7 @@ jobs:
             github.rest.repos.createRelease({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              name: "Release ${{ steps.increment_tag.outputs.new_tag }}",
+              name: "${{ github.ref_name }}",
               tag_name: "${{ steps.increment_tag.outputs.new_tag }}"
             })
       
