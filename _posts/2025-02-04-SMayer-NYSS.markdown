@@ -6,7 +6,7 @@ categories:
   - general
 ---
 <picture> 
-  <img src="http://ebenezermarthomachurch.org/img/smayer1.jpg" width=50% height=50% alt="Senator Mayer with Achen">
+  <img src="https://ebenezermarthomachurch.org/img/smayer1.jpg" width=50% height=50% alt="Senator Mayer with Achen">
 </picture>
 New York State Senator, Honorable Shelley B. Mayer visited our parish graciously accepting our invitation on February 2nd, 2025. Honorable Shelley Mayer came around 12 noon immediately after the Holy Communion service. Her visit to the  Parish was quite encouraging and empowering. 
 
