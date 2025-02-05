@@ -5,12 +5,12 @@ date:   2025-02-04
 categories: 
   - general
 ---
-
-<img src="http://ebenezermarthomachurch.org/img/smayer1.jpg" width=50% height=50%>
-
+<picture> 
+  <img src="http://ebenezermarthomachurch.org/img/smayer1.jpg" width=50% height=50% alt="Senator Mayer with Achen">
+</picture>
 New York State Senator, Honorable Shelley B. Mayer visited our parish graciously accepting our invitation on February 2nd, 2025. Honorable Shelley Mayer came around 12 noon immediately after the Holy Communion service. Her visit to the  Parish was quite encouraging and empowering. 
 
-![Presentation of Plaque to Shelley Mayer](http://ebenezermarthomachurch.org/img/smayer1.jpg){width=400 height=300}
+![Presentation of Plaque to Shelley Mayer](http://ebenezermarthomachurch.org/img/smayer2.jpg){width=400 height=300}
 
 The Parish Secretary Mrs. Susan Kurian and Vicar Rev. George Abraham warmly welcomed Ms. Shelley Mayer. During the Presidential address Vicar spoke about the valuable services done by the Senator as well as her strategies in implementing different initiatives as a public figure. Vicar Rev. George Abraham presented the Senator with a plaque as a sincere appreciation in recognition of her dedicated services, hard work, and countless contributions to the community. Honorable Senator, in her reply message spoke about her value to Academia, Health care, and Labor law rights. She spoke about her passion for children, their education, and upgrading the education system as well. Senator Ms. Shelley Mayer appreciated the warm welcome with flowers and plaque as well as the hospitality of the parish members. 
 
