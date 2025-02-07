@@ -35,12 +35,7 @@ jobs:
             fi
 
             # Convert DOCX to Markdown with correct image path
-            pandoc "$file" --wrap=none --extract-media=img -o "_posts/${filename}.markdown"
-
-            # Fix YAML Front Matter formatting issues
-            sed -i 's/\\-\\-\\-/---/g' "_posts/${filename}.markdown"  # Fix escaped dashes
-            sed -i 's/\\"/"/g' "_posts/${filename}.markdown"  # Fix escaped quotes
-            sed -i 's/\\- /- /g' "_posts/${filename}.markdown"  # Fix escaped list items
+            pandoc "$file" --wrap=none --extract-media=img -o "_posts/${filename}.markdown --metadata-preserve"
 
             # Replace extracted image paths with /img/
             sed -i 's#\!\[\(.*\)\](media/#\!\[\1\](/img/#g' "_posts/${filename}.markdown"
