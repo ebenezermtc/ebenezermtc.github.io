@@ -38,9 +38,9 @@ jobs:
             pandoc "$file" --wrap=none --extract-media=img -o "_posts/${filename}.markdown"
 
             # Fix YAML Front Matter formatting issues
-            sed -i 's/\\-\\-\\-/---/g' "posts/${filename}.markdown"  # Fix escaped dashes
-            sed -i 's/\\"/"/g' "posts/${filename}.markdown"  # Fix escaped quotes
-            sed -i 's/\\- /- /g' "posts/${filename}.markdown"  # Fix escaped list items
+            sed -i 's/\\-\\-\\-/---/g' "_posts/${filename}.markdown"  # Fix escaped dashes
+            sed -i 's/\\"/"/g' "_posts/${filename}.markdown"  # Fix escaped quotes
+            sed -i 's/\\- /- /g' "_posts/${filename}.markdown"  # Fix escaped list items
 
             # Replace extracted image paths with /img/
             sed -i 's#\!\[\(.*\)\](media/#\!\[\1\](/img/#g' "_posts/${filename}.markdown"
