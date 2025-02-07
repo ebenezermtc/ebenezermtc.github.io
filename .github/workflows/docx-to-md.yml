@@ -35,7 +35,12 @@ jobs:
             fi
 
             # Convert DOCX to Markdown with correct image path
-            pandoc "$file" --wrap=none --atx-headers --preserve-yaml --extract-media=img -o "_posts/${filename}.markdown"
+            pandoc "$file" --wrap=none --extract-media=img -o "_posts/${filename}.markdown"
+
+            # Fix YAML Front Matter formatting issues
+            sed -i 's/\\-\\-\\-/---/g' "posts/${filename}.markdown"  # Fix escaped dashes
+            sed -i 's/\\"/"/g' "posts/${filename}.markdown"  # Fix escaped quotes
+            sed -i 's/\\- /- /g' "posts/${filename}.markdown"  # Fix escaped list items
 
             # Replace extracted image paths with /img/
             sed -i 's#\!\[\(.*\)\](media/#\!\[\1\](/img/#g' "_posts/${filename}.markdown"
@@ -48,7 +53,7 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
-          git add _posts/*.markdown img/*
+          git add _posts/*.markdown img/* upload_posts/completed/*.docx
           git commit -m "Converted DOCX to Markdown and moved images"
           git push
         continue-on-error: true  # Prevent failure if no new files are added
