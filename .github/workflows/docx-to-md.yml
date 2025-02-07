@@ -1,0 +1,54 @@
+name: Convert DOCX to Markdown
+
+on:
+  push:
+    paths:
+      - "upload_posts/*.docx"  # Runs only when a .docx file is added to upload_posts/
+
+jobs:
+  convert-docx-to-md:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc and Unzip
+        run: sudo apt-get install -y pandoc unzip
+
+      - name: Ensure necessary folders exist
+        run: |
+          mkdir -p _posts/
+          mkdir -p img/
+          mkdir -p upload_posts/completed/
+
+      - name: Convert DOCX to Markdown
+        run: |
+          for file in upload_posts/*.docx; do
+            [ -e "$file" ] || continue
+            filename=$(basename -- "$file" .docx)
+
+            # Extract images from DOCX
+            unzip -o "$file" -d "extracted/"
+            if [ -d "extracted/word/media" ]; then
+              mv extracted/word/media/* img/ || true
+            fi
+
+            # Convert DOCX to Markdown with correct image path
+            pandoc "$file" --extract-media=img -o "_posts/${filename}.markdown"
+
+            # Replace extracted image paths with /img/
+            sed -i 's#\!\[\(.*\)\](media/#\!\[\1\](/img/#g' "_posts/${filename}.markdown"
+
+            # Move processed DOCX file to completed folder
+            mv "$file" "upload_posts/completed/"
+          done
+
+      - name: Commit and push new Markdown files
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add _posts/*.markdown img/*
+          git commit -m "Converted DOCX to Markdown and moved images"
+          git push
+        continue-on-error: true  # Prevent failure if no new files are added
