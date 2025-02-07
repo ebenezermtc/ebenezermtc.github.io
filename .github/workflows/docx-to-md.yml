@@ -35,13 +35,13 @@ jobs:
             fi
 
             # Convert DOCX to Markdown with correct image path
-            pandoc "$file" --extract-media=img -o "_posts/${filename}.markdown"
+            pandoc "$file" --wrap=none --atx-headers --preserve-yaml --extract-media=img -o "_posts/${filename}.markdown"
 
             # Replace extracted image paths with /img/
             sed -i 's#\!\[\(.*\)\](media/#\!\[\1\](/img/#g' "_posts/${filename}.markdown"
 
             # Move processed DOCX file to completed folder
-            mv "$file" "upload_posts/completed/"
+            mv "$file" "upload_posts/completed/${filename}.docx"
           done
 
       - name: Commit and push new Markdown files
