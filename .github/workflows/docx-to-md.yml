@@ -35,23 +35,29 @@ jobs:
             fi
 
             # Convert DOCX to GitHub-Flavored Markdown (GFM) and extract media
+            echo "RUNNING PANDOC"
             pandoc "$file" --wrap=none -t gfm --extract-media=img -o "temp.md"
 
             # Extract the date and title from YAML
+            echo "EXTRACTING DATE AND TITLE FROM YAML"
             post_date=$(grep "^date:" temp.md | awk '{print $2}')
             post_title=$(grep "^title:" temp.md | sed 's/title: //' | tr -d '"')
 
             # Format the filename as YYYY-MM-DD-title.markdown
+            echo "FORMATTING FILENAME"
             formatted_title=$(echo "$post_title" | tr ' ' '-' | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9-]//g')
             new_filename="${post_date}-${formatted_title}.markdown"
            
             # Fix image paths in Markdown to use /img/
-            sed -i 's#(!\[.*\](img/word/media/#(!\1](/img/#g' temp.md
+            echo "FIXING IMG PATH IN MARKDOWN USING SED"
+            sed -i 's#!\[\(.*\)\](img/word/media/#![\1](/img/#g' temp.md
 
             # Move the correctly named file to _posts/
+            echo "MOVING FILE WITH CORRECT FILENAME"
             mv temp.md "_posts/${new_filename}"
 
             # Move processed DOCX file to completed folder
+            echo "MOVING COMPLETED FILE"
             mv "$file" "upload_posts/completed/${filename}.docx"
           done
 
