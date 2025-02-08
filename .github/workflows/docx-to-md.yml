@@ -22,45 +22,65 @@ jobs:
           mkdir -p img/
           mkdir -p upload_posts/completed/
 
-      - name: Convert DOCX to Markdown
+      - name: Convert DOCX to Markdown and Extract Images
         run: |
           for file in upload_posts/*.docx; do
             [ -e "$file" ] || continue
             filename=$(basename -- "$file" .docx)
 
+            echo "PROCESSING FILE: $filename.docx"
+
             # Extract images from DOCX
+            echo "EXTRACTING IMAGES FROM DOCX"
             unzip -o "$file" -d "extracted/"
             if [ -d "extracted/word/media" ]; then
+              echo "MOVING EXTRACTED IMAGES TO /img/"
               mv extracted/word/media/* img/ || true
+            else
+              echo "NO IMAGES FOUND IN DOCUMENT"
             fi
 
             # Convert DOCX to GitHub-Flavored Markdown (GFM) and extract media
-            echo "RUNNING PANDOC"
+            echo "RUNNING PANDOC TO CONVERT DOCX TO MARKDOWN"
             pandoc "$file" --wrap=none -t gfm --extract-media=img -o "temp.md"
 
             # Extract the date and title from YAML
-            echo "EXTRACTING DATE AND TITLE FROM YAML"
+            echo "EXTRACTING DATE AND TITLE FROM YAML METADATA"
             post_date=$(grep "^date:" temp.md | awk '{print $2}')
             post_title=$(grep "^title:" temp.md | sed 's/title: //' | tr -d '"')
+
+            echo "EXTRACTED DATE: $post_date"
+            echo "EXTRACTED TITLE: $post_title"
 
             # Format the filename as YYYY-MM-DD-title.markdown
             echo "FORMATTING FILENAME"
             formatted_title=$(echo "$post_title" | tr ' ' '-' | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9-]//g')
             new_filename="${post_date}-${formatted_title}.markdown"
-           
+
+            echo "FINAL FILENAME: _posts/${new_filename}"
+
+            # Fix YAML formatting
+            echo "FIXING YAML FORMATTING IN MARKDOWN"
+            sed -i 's/^\\\?---$/---/' temp.md
+            sed -i 's/^\\\?title:/title:/' temp.md
+            sed -i 's/^\\\?date:/date:/' temp.md
+            sed -i 's/^\\\?layout:/layout:/' temp.md
+            sed -i 's/^\\\?categories:/categories:/' temp.md
+            sed -i 's/^\\\?- /- /g' temp.md  # Fix escaped `-` in YAML list items
+
             # Fix image paths in Markdown to use /img/
-            echo "FIXING IMG PATH IN MARKDOWN USING SED"
+            echo "FIXING IMAGE PATHS IN MARKDOWN"
             sed -i 's#!\[\(.*\)\](img/word/media/#![\1](/img/#g' temp.md
 
             # Move the correctly named file to _posts/
-            echo "MOVING FILE WITH CORRECT FILENAME"
+            echo "MOVING CONVERTED FILE TO _posts/"
             mv temp.md "_posts/${new_filename}"
 
             # Move processed DOCX file to completed folder
-            echo "MOVING COMPLETED FILE"
+            echo "MOVING PROCESSED FILE TO upload_posts/completed/"
             mv "$file" "upload_posts/completed/${filename}.docx"
           done
-
+  
       - name: Commit and push new Markdown files
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
