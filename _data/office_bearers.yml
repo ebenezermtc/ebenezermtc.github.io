@@ -1,90 +1,78 @@
 ---
   - name: Rev George Abraham
     title: "President & Vicar"
-    image_path: revgabraham.png
+    image_path: "Rev. George Abraham - President_Vicar.jpg"
     phone: 516-754-6110
     email: 
 
-  - name: Eapen Joseph
+  - name: Dr Susan Kurian
     title: Vice President
-    image_path: ejoseph1.png
-    phone: 914-310-4892
+    image_path: "Susan Kurian - Vice President.jpeg"
+    phone: 
     email: 
 
-  - name: Dr Susan Kurian
+  - name: Sneha Thomas
     title: Secretary
-    image_path: drskurian3.jpg
-    phone: 914-417-8503
+    image_path: "Sneha Thomas - Secretary.PNG"
+    phone: 
     email: 
   
-  - name: Feby Varughese
+  - name: Alexei Isac
     title: Treasurer
-    image_path: fvarughese.png
-    phone: 914-815-1555
+    image_path: "Alexei Isac - Treasurer.png"
+    phone: 
     email: 
 
-  - name: Tibu C Tharakan
+  - name: Vipin Kovoor
     title: Accountant
-    image_path: ttharakan1.png
-    phone: 914-299-2147
+    image_path: "Vipin Kovoor - Accountant.jpg"
+    phone: 
     email: 
 
-  - name: CS Chacko
+  - name: Eapen Joseph
     title: Malayalam Lay Ministrant
-    image_path: cschacko1.jpg
+    image_path: 
     phone: 
     email:
 
-  - name: Justin John
+  - name: Jerry Chacko
     title: English Lay Ministrant
-    image_path: user_blank.png
+    image_path: "Jerry Chacko - English Lay Ministrant.jpg"
     phone: 
     email:   
 
   - name: Thomas K Mathew
     title: Sabha Mandalam Member
-    image_path: user_blank.png
+    image_path: "Thomas K Mathew - Sabha Mandalam Member.png"
     phone: 
     email: 
 
   - name: Jose Cherian
     title: Diocesan (Assembly) Member
-    image_path: user_blank.png
+    image_path: "Jose Cherian_Diocesan (Assembly) Member.HEIC"
     phone: 
     email: 
     
-  - name: Vipin Kovoor
-    title: Sunday School Representative
-    image_path: user_blank.png
+  - name: Reena Mathew
+    title: Sunday School Superintendent
+    image_path: "Reena Mathew - Superintendent.jpeg"
     phone: 
     email: 
 
   - name: Rahul Joseph
-    title: Youth Fellowship Representative
-    image_path: user_blank.png
+    title: Youth Secretary
+    image_path: "Rahul Joseph - Youth Secretary.jpg"
     phone: 
     email: 
 
-  - name: Jacob Mathew
-    title: Yuvajana Sakhyam Representative
-    image_path: JacobMathew.jpeg
+  - name: Tony Mathew
+    title: Yuvajana Sakhyam Secretary
+    image_path: "Tony Mathew - Yuvajana Sakhyam Secretary.png"
     phone: 
     email: 
 
-  - name: Annakutty Jacob
-    title: Sevika Sangham Representative
-    image_path: user_blank.png
-    phone: 
-    email: 
-
-  - name: John C Mathai
-    title: Edavaka Mission Representative
-    image_path: user_blank.png
-    phone: 
-    email: 
-
-  - name: Soji Samuel
-    title: Choir Representative
-    image_path: user_blank.png
+  - name: Feby Varughese
+    title: Choir Leader
+    image_path: "Feby Varghese - Choir Leader.jpeg"
     phone: 
     email: 
