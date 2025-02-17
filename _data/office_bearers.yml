@@ -46,12 +46,6 @@
     image_path: "Thomas K Mathew - Sabha Mandalam Member.png"
     phone: 
     email: 
-
-  - name: Jose Cherian
-    title: Diocesan (Assembly) Member
-    image_path: "Jose Cherian_Diocesan (Assembly) Member.png"
-    phone: 
-    email: 
     
   - name: Reena Mathew
     title: Sunday School Superintendent
@@ -74,5 +68,17 @@
   - name: Feby Varughese
     title: Choir Leader
     image_path: "Feby Varghese - Choir Leader.jpeg"
+    phone: 
+    email: 
+
+  - name: Jose Cherian
+    title: Diocesan (Assembly) Member
+    image_path: "Jose Cherian_Diocesan (Assembly) Member.png"
+    phone: 
+    email: 
+
+  - name: CS Chacko
+    title: Edvaka Mission Secretary
+    image_path: "C.S. Chacko - Edvaka Mission Secretary.jpg"
     phone: 
     email: 
