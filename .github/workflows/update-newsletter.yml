@@ -21,6 +21,4 @@ jobs:
               env:
                 ALL_ADDED_FILES: ${{ steps.changed_files.outputs.added_files }}
               run: |
-                for file in ${ALL_ADDED_FILES}; do
-                  echo "$file"
-                done
+                echo ${ALL_ADDED_FILES##*/}
