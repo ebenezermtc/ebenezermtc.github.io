@@ -21,9 +21,11 @@ jobs:
               env:
                 ALL_ADDED_FILES: ${{ steps.changed_files.outputs.added_files }}
               run: |
-                echo ${ALL_ADDED_FILES} >> $GITHUB_OUTPUT
+                echo $ALL_ADDED_FILES
 
             - name: Update and push change to header.html
+              env:
+                ALL_ADDED_FILES: ${{ steps.changed_files.outputs.added_files }}
               run: |
                 sed -E -i "s|assets/Newsletters/[^\"]+|$ALL_ADDED_FILES|g" _includes/header.html
                 git add .
