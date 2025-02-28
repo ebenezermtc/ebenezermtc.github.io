@@ -3,7 +3,7 @@ name: "Update Newsletter"
 on:
     push:
         paths:
-            'assets/Newsletter/*.pdf'
+            'assets/Newsletters/*.pdf'
 
 jobs:
     update-newsletter:
