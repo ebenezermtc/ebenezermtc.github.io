@@ -28,6 +28,14 @@ jobs:
                 ALL_ADDED_FILES: ${{ steps.changed_files.outputs.added_files }}
               run: |
                 sed -E -i "s|assets/Newsletters/[^\"]+|$ALL_ADDED_FILES|g" _includes/header.html
-                git add .
-                git commit -m "updating header with NL name"
+                
+            - name: Configure git
+              run: |
+                git config user.name "github-actions[bot]"
+                git config user.email "github-actions[bot]@github.com"
+                
+            - name: Commit and push
+              run: |   
+                git add _includes/header.html
+                git commit -m "updating header with NL name via GHA"
                 git push
