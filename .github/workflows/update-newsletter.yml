@@ -15,6 +15,12 @@ jobs:
             
             - name: Get changed file
               id: changed_files
+              uses: tj-actions/changed-files@v45
+
+            - name: List all changed files
+              env:
+                ALL_ADDED_FILES: ${{ steps.changed_files.outputs.added_files }}
               run: |
-                FILES=$(git diff --name-only HEAD^ HEAD)
-                echo "files=$FILES" >> $GITHUB_OUTPUT
+                for file in ${ALL_ADDED_FILES}; do
+                  echo "$file"
+                done
