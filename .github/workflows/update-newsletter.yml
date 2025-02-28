@@ -1,0 +1,20 @@
+name: "Update Newsletter"
+
+on:
+    push:
+        paths:
+            'assets/Newsletter/*.pdf'
+
+jobs:
+    update-newsletter:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v3
+            
+            - name: Get changed file
+              id: changed_files
+              run: |
+                FILES=$(git diff --name-only HEAD^ HEAD)
+                echo "files=$FILES" >> $GITHUB_OUTPUT
