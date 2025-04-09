@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Ebenezer Mar Thoma Church Holy Week Schedule 2025"
+date:   2025-04-09
+categories: 
+  - general
+---
+<picture> 
+  <img src="https://ebenezermarthomachurch.org/img/HolyWeek2025.jpeg" width=60% height=60% alt="Holy Week Schedule">
+</picture>
+
