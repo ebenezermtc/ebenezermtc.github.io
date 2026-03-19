@@ -5,9 +5,9 @@
     phone: 
     email: 
 
-  - name: Dr Susan Kurian
+  - name: Eapen Joseph
     title: Vice President
-    image_path: "Susan Kurian - Vice President.jpeg"
+    image_path: "Eapen Joseph - Malayalam Lay Ministrant.png"
     phone: 
     email: 
 
@@ -17,33 +17,33 @@
     phone: 
     email: 
   
-  - name: Alexei Isac
-    title: Treasurer
-    image_path: "Alexei Isac - Treasurer.png"
-    phone: 
-    email: 
-
   - name: Vipin Kovoor
-    title: Accountant
+    title: Treasurer
     image_path: "Vipin Kovoor - Accountant.jpg"
     phone: 
     email: 
 
-  - name: Eapen Joseph
+  - name: Alexei Isac
+    title: Accountant
+    image_path: "Alexei Isac - Treasurer.png"
+    phone: 
+    email: 
+
+  - name: Prasad Thomas
     title: Malayalam Lay Ministrant
-    image_path: "Eapen Joseph - Malayalam Lay Ministrant.png"
+    image_path: "Prasad Thomas - Malayalam Lay Ministrant.jpeg"
     phone: 
     email:
 
-  - name: Jerry Chacko
+  - name: Rahul Joseph
     title: English Lay Ministrant
-    image_path: "Jerry Chacko - English Lay Ministrant.jpg"
+    image_path: "Rahul Joseph - Youth Secretary.jpg"
     phone: 
     email:   
 
-  - name: Thomas K Mathew
+  - name: Soji Samuel
     title: Sabha Mandalam Member
-    image_path: "Thomas K Mathew - Sabha Mandalam Member.png"
+    image_path: "Soji Samuel - Mandalam Member.jpeg"
     phone: 
     email: 
     
@@ -59,9 +59,9 @@
     phone: 
     email: 
 
-  - name: Tony Mathew
+  - name: Gifty Mathew
     title: Yuvajana Sakhyam Secretary
-    image_path: "Tony Mathew - Yuvajana Sakhyam Secretary.png"
+    image_path: "Gifty Mathew - Yuvajana Sakhyam.jpeg"
     phone: 
     email: 
 
@@ -71,9 +71,9 @@
     phone: 
     email: 
 
-  - name: Jose Cherian
+  - name: Jacob Abraham
     title: Diocesan (Assembly) Member
-    image_path: "Jose Cherian_Diocesan (Assembly) Member.png"
+    image_path: "Jacob Abraham - Assembly Member.jpeg"
     phone: 
     email: 
 
